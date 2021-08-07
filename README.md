@@ -5,38 +5,25 @@ including intended audience(s)
 - what grantees can access
 - sharing public resources and lessons learned with everyone
 
+## What activities are included in open science?
+
+Information on organizations and resources we've found useful for supporting
+these types of activities is available on our [Resources page](resources.md).
+
+[Data sharing](data_sharing.md)
+
+[Preprint sharing](preprints.md)
+
+[Open access to publications](publications.md)
+
+[Software code sharing](protocols.md)
+
+[Protocols sharing](protocols.md)
+
+## About this project
+
 links to boilerplate documents:
 - Code of Conduct
 - Contributing guidelines
 - Governance
 - others relevant for website (non-code repository)?
-
-## What activities are included in open science?
-
-Data sharing:
-- Designing a data management plan
-- Selecting data repositories for submitting
-- Selecting metadata standards
-- Preparing data for sharing and uploading to a repository
-
-Preprint sharing:
-- Posting preprints
-
-Open access to publications:
-- Choosing journals to maximize impact and  access to publications
-- Understanding journal policies for sharing manuscripts elsewhere 
-- Archiving in institutional repositories and personal websites
-
-Software code sharing:
-- Selecting licenses
-- Documenting code for sharing purposes
-- Publishing research code 
-- Governance and community building in FOSS 
-
-Protocols sharing:
-
-## Groups supporting open science education and capacity building
-
-## Recommended resources
-
-
