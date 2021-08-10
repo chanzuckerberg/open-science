@@ -1,8 +1,8 @@
 # Open Science Research Resources
 
-introduction and prelude to what this site includes and why,
-including intended audience(s)
-- what grantees can access
+Introduction and prelude
+- why open science?
+- biomedical research
 - sharing public resources and lessons learned with everyone
 
 ## What activities are included in open science?
