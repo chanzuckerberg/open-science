@@ -1,3 +1,0 @@
-# Preprint sharing
-
-- Posting preprints

@@ -12,9 +12,7 @@ these types of activities is available on our [Resources page](resources.md).
 
 [Data sharing](data_sharing.md)
 
-[Preprint sharing](preprints.md)
-
-[Open access to publications](publications.md)
+[Preprints and publications](publications.md)
 
 [Software code sharing](code_sharing.md)
 
