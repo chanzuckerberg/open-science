@@ -16,7 +16,7 @@ these types of activities is available on our [Resources page](resources.md).
 
 [Open access to publications](publications.md)
 
-[Software code sharing](protocols.md)
+[Software code sharing](code_sharing.md)
 
 [Protocols sharing](protocols.md)
 

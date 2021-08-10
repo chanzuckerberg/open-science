@@ -5,10 +5,9 @@
 - Selecting metadata standards
 - Preparing data for sharing and uploading to a repository
 
-## Publishing data with DataDryad
+## Publishing data with Dryad
 
-[DataDryad](https://datadryad.org/stash) is a repository for research data.
-The DataDryad [submission process](https://datadryad.org/stash/submission_process)describes the steps in publishing data,
+[Dryad](https://datadryad.org/stash) is a digital repository for research data.
+The Dryad [submission process](https://datadryad.org/stash/submission_process)describes the steps in publishing data,
 including uploading data, dataset curation, and dataset publication.
 The information below describes additional context useful for preparing and submitting biomedical data.
- 
