@@ -18,6 +18,12 @@ these types of activities is available on our [Resources page](resources.md).
 
 [Protocols sharing](protocols.md)
 
+### Who has requirements for open access to research deliverables?
+
+- funders
+- journals
+- hosting institutions
+
 ## About this project
 
 links to boilerplate documents:

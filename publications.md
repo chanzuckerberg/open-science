@@ -11,6 +11,8 @@ General activities:
 - Understanding journal policies for sharing manuscripts elsewhere 
 - Archiving in institutional repositories and personal websites
 
+[NIH Public Access Policy](https://publicaccess.nih.gov/)
+
 ## Making your publications open
 
 - preprints
