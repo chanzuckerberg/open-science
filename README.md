@@ -1,5 +1,8 @@
 # Open Science Research Resources
 
+> **This resource is currently under development!**
+> **If you have questions or suggested content/topics, please [file an issue](https://github.com/chanzuckerberg/open-science/issues).**
+
 Introduction and prelude
 - why open science?
 - biomedical research
