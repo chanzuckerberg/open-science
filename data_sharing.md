@@ -12,6 +12,12 @@
 - journals
 - hosting institutions
 
+### Where to publish data?
+
+- discipline or topic-specific repositories (e.g., [National Centralized Repository for Alzheimer's Disease adn Related Dementias](https://ncrad.iu.edu/))
+- repositories for specific data types (e.g., [NCBI GEO](ncbi.nlm.nih.gov/geo/))
+- general data repositories (e.g., institutional repository, [Data Dryad](data_dryad.md))
+
 ## General activities:
 
 - Designing a data management plan
