@@ -1,23 +1,17 @@
 # Organizations and general resources
 
-## Organizations
 
-- The Carpentries 
+- [Reproducibility for Everyone](https://www.repro4everyone.org/) (R4E)
 
-- Reproducibility for Everyone (R4E)
+- [The Turing Way](https://the-turing-way.netlify.app/welcome)
 
-- The Turing Way
+- [Open Life Sciences](https://openlifesci.org/)
 
-- Open Life Sciences
+- [Openscapes](https://www.openscapes.org/)
 
-- Openscapes
+- [The Carpentries](https://carpentries.org/)
 
-
-
-## Getting started with coding
 
 ## Developing software
 
-## Organizations
-
-
+- [Research Software Engineers](https://researchsoftware.org/)

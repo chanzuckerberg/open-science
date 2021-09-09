@@ -10,16 +10,19 @@ Introduction and prelude
 
 ## What activities are included in open science?
 
-Information on organizations and resources we've found useful for supporting
-these types of activities is available on our [Resources page](resources.md).
+Open science involves sharing research methods and results throughout the life cycle of a project.
+The following sections highlight different approaches useful for sharing each part of your research:
 
-[Data sharing](data_sharing.md)
+[Protocols](protocols.md)
+
+[Software code](code.md)
+
+[Data](data.md)
 
 [Preprints and publications](publications.md)
 
-[Software code sharing](code_sharing.md)
-
-[Protocols sharing](protocols.md)
+Information on organizations and resources we've found useful for supporting
+open science activities is available on our [Resources page](resources.md).
 
 ### Who has requirements for open access to research deliverables?
 
