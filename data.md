@@ -23,6 +23,9 @@
 
 ## Topic pages
 
-- [Data Dryad](data_dryad.md) for data publishing
+- Publishing data through [Data Dryad](data_dryad.md)
 
+## Recommended data repositories
 
+- [Cell Image Library](http://www.cellimagelibrary.org)
+- [Data Dryad](data_dryad.md)

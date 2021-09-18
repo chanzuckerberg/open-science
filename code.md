@@ -10,3 +10,13 @@ General activities:
 - Documenting code for sharing purposes
 - Publishing research code 
 - Governance and community building in FOSS 
+
+## Version control with Git and GitHub
+
+### Introduction to Git and GitHub
+
+[GitHub Learning Lab](https://lab.github.com/)
+
+### Creating a website with GitHub Pages
+
+[GitHub Learning Lab course on GitHub Pages](https://lab.github.com/githubtraining/github-pages)
