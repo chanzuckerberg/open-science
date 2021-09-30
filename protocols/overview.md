@@ -1,4 +1,8 @@
-# Protocols sharing
+---
+Title: Sharing protocols
+category: protocols
+order: 1
+---
 
 Overview of protocols sharing
 - what is included in protocols?
