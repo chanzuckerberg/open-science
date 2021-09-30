@@ -1,6 +1,7 @@
 ---
 title: Preprints and publications
 category: publications
+layout: default
 ---
 
 Overview of preprints and publications

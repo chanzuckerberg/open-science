@@ -1,6 +1,7 @@
 ---
 title: Publishing data with Dryad
 category: data_sharing
+layout: default
 ---
 
 ## Publishing data with Dryad

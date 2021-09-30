@@ -1,6 +1,7 @@
 ---
 title: Data sharing
 category: data_sharing
+layout: default
 ---
 
 ## Data sharing and open science

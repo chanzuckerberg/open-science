@@ -1,6 +1,7 @@
 ---
 title: Organizations
 category: resources
+layout: default
 ---
 
 - [Reproducibility for Everyone](https://www.repro4everyone.org/) (R4E)

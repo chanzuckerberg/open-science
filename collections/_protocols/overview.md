@@ -1,6 +1,7 @@
 ---
 title: Sharing protocols
 category: protocols
+layout: default
 ---
 
 Overview of protocols sharing

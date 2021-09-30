@@ -1,6 +1,7 @@
 ---
 title: Software and code sharing
 category: code
+layout: default
 ---
 
 Overview of software code sharing
