@@ -1,15 +1,17 @@
 ---
-title: Preprints and publications
+title: Preprints and publications overview
 category: publications
 layout: default
 ---
 
-Overview of preprints and publications
+## Preprints and publications overview
+
 - how can I increase open access to my publications?
 - why preprints?
 - how do open access publications fit into the traditional publication cycle?
 
 General activities:
+
 - Posting preprints
 - Choosing journals to maximize impact and access to publications
 - Understanding journal policies for sharing manuscripts elsewhere 
@@ -17,13 +19,13 @@ General activities:
 
 [NIH Public Access Policy](https://publicaccess.nih.gov/)
 
-## Making your publications open
+### Making your publications open
 
 - preprints
 - open access through journals
 - sharing article after publication
 
-## Preprints
+### Preprints
 
 [ASAPbio](https://asapbio.org/): scientist-driven non-profit organization promoting transparency and innovation in life science communication
 
