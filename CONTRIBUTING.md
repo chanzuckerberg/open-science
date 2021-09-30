@@ -1,17 +1,43 @@
-# Contributing to the Minimal theme
+# Contributing to this project
 
-Hi there! We're thrilled that you'd like to contribute to the Minimal theme. Your help is essential for keeping it great.
+> If you are looking for assistance in working with this project,
+> please check out our [support guidelines](SUPPORT.md).
 
-the Minimal theme is an open source project supported by the efforts of an entire community and built one contribution at a time by users like you. We'd love for you to get involved. Whatever your level of skill or however much time you can give, your contribution is greatly appreciated. There are many ways to contribute, from writing tutorials or blog posts, improving the documentation, submitting bug reports and feature requests, helping other users by commenting on issues, or writing code which can be incorporated into the Minimal theme itself.
+Thanks for considering making a contribution to this project!
+We are very happy to help share information about what tools and resources
+other biomedical researchers have found useful in their work.
 
-Following these guidelines helps to communicate that you respect the time of the developers managing and developing this open source project. In return, they should reciprocate that respect in addressing your issue, assessing changes, and helping you finalize your pull requests.
+> This project adheres to the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md).
+> By participating, you are expected to uphold this code.
+> Please report unacceptable behavior to opensource@chanzuckerberg.com.
 
+Regardless of your career level, area of biomedical expertise, 
+or experience with open science,
+your feedback is valuable to us!
+We are happy to accept a variety of contributions:
 
-## Looking for support?
+- [Suggesting content](#suggesting-content): ideas for new content, or recommendations to update existing information, either via email/Slack or GitHub
+- [Bug reports](#bug-reports): identifying broken links and other technical problems with the website, either via email/Slack or GitHub
+- [Pull requests](#pull-requests): Direct submissions of code and/or website content, via GitHub
 
-We'd love to help. Check out [the support guidelines](SUPPORT.md).
+> If you believe you have found a security issue,
+> please notify us (rather than submitting an issue)
+> by emailing security@chanzuckerberg.com .
 
-## How to report a bug
+## Suggesting content
+
+> This section is **Under Construction**
+
+ideas for new content, or recommendations to update existing information, either via email/Slack or GitHub
+
+- creating issues to suggest new content
+- creating issues to recommend changes/enhancements to existing content
+- commenting on or reacting to existing issues and pull requests
+- sharing feedback described above via email or Slack
+
+## Bug reports
+
+> This section is **Under Construction**
 
 Think you found a bug? Please check [the list of open issues](https://github.com/pages-themes/minimal/issues) to see if your bug has already been reported. If it hasn't please [submit a new issue](https://github.com/pages-themes/minimal/issues/new).
 
@@ -24,30 +50,11 @@ Here are a few tips for writing *great* bug reports:
 * Only include one bug per issue. If you have discovered two bugs, please file two issues
 * Even if you don't know how to fix the bug, including a failing test may help others track it down
 
-**If you find a security vulnerability, do not open an issue. Please email security@github.com instead.**
+## Pull requests
 
-## How to suggest a feature or enhancement
+> This section is **Under construction**
 
-If you find yourself wishing for a feature that doesn't exist in the Minimal theme, you are probably not alone. There are bound to be others out there with similar needs. Many of the features that the Minimal theme has today have been added because our users saw the need.
-
-Feature requests are welcome. But take a moment to find out whether your idea fits with the scope and goals of the project. It's up to you to make a strong case to convince the project's developers of the merits of this feature. Please provide as much detail and context as possible, including describing the problem you're trying to solve.
-
-[Open an issue](https://github.com/pages-themes/minimal/issues/new) which describes the feature you would like to see, why you want it, how it should work, etc.
-
-
-
-## Your first contribution
-
-We'd love for you to contribute to the project. Unsure where to begin contributing to the Minimal theme? You can start by looking through these "good first issue" and "help wanted" issues:
-
-* [Good first issues](https://github.com/pages-themes/minimal/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) - issues which should only require a few lines of code and a test or two
-* [Help wanted issues](https://github.com/pages-themes/minimal/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) - issues which may be a bit more involved, but are specifically seeking community contributions
-
-*p.s. Feel free to ask for help; everyone is a beginner at first* :smiley_cat:
-
-## How to propose changes
-
-Here's a few general guidelines for proposing changes:
+### PR guidelines
 
 * If you are making visual changes, include a screenshot of what the affected element looks like, both before and after.
 * Follow the [Jekyll style guide](https://ben.balter.com/jekyll-style-guide).
@@ -56,6 +63,8 @@ Here's a few general guidelines for proposing changes:
 * Do not commit changes to files that are irrelevant to your feature or bug fix
 * Don't bump the version number in your pull request (it will be bumped prior to release)
 * Write [a good commit message](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
+
+### Submitting a PR
 
 At a high level, [the process for proposing changes](https://guides.github.com/introduction/flow/) is:
 
@@ -67,22 +76,42 @@ At a high level, [the process for proposing changes](https://guides.github.com/i
 6. Push to your fork and [submit a pull request](https://github.com/pages-themes/minimal/compare)
 7. Pat your self on the back and wait for your pull request to be reviewed and merged
 
-**Interesting in submitting your first Pull Request?** It's easy! You can learn how from this *free* series [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github)
+### Your first contribution
 
-## Bootstrapping your local development environment
+We'd love for you to contribute to the project. Unsure where to begin contributing to the Minimal theme? You can start by looking through these "good first issue" and "help wanted" issues:
 
-`script/bootstrap`
+* [Good first issues](https://github.com/pages-themes/minimal/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) - issues which should only require a few lines of code and a test or two
+* [Help wanted issues](https://github.com/pages-themes/minimal/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) - issues which may be a bit more involved, but are specifically seeking community contributions
 
-## Running tests
-
-`script/cibuild`
-
-## Code of conduct
-
-This project is governed by [the Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
-
-## Additional Resources
+### Additional Resources
 
 * [Contributing to Open Source on GitHub](https://guides.github.com/activities/contributing-to-open-source/)
 * [Using Pull Requests](https://help.github.com/articles/using-pull-requests/)
 * [GitHub Help](https://help.github.com)
+
+## Technical information
+
+This website is created using [jekyll](https://jekyllrb.com/).
+The instructions below should be sufficient for most folks,
+but additional information is available in the [jekyll documentation](https://jekyllrb.com/docs/).
+
+The theme used for this site is [minimal](https://github.com/pages-themes/minimal).
+Please see that project's documentation for more information on customization, 
+including configuration variables, stylesheets, and layouts.
+
+### Previewing the site locally
+
+If you'd like to preview the theme locally (for example, in the process of proposing a change):
+
+1. Clone this repository (`git clone https://github.com/chanzuckerberg/open-science`)
+2. `cd` into the project directory
+3. Run `script/bootstrap` to install the necessary dependencies
+4. Run `bundle exec jekyll serve` to start the preview server
+5. Visit the server address listed in the output to preview the site in your browser
+
+### Running tests
+
+The `minimal` theme contains a minimal test suite. 
+To run the tests:
+- run `script/bootstrap`
+- run `script/cibuild`
