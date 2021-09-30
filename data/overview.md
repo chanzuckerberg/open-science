@@ -1,4 +1,8 @@
-# Data sharing
+---
+Title: Data sharing
+category: data
+order: 1
+---
 
 ## Data sharing and open science
 

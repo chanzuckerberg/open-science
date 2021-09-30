@@ -1,3 +1,9 @@
+---
+Title: Publishing data with Dryad
+category: data
+order: 2
+---
+
 ## Publishing data with Dryad
 
 [Dryad](https://datadryad.org/stash) is a digital repository for research data.
