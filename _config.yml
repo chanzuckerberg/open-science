@@ -1,9 +1,11 @@
 title: Open Science Resources
 description: open science approaches for biomedical research
 theme: jekyll-theme-minimal
-show_sidebar: TRUE
 
+show_sidebar: TRUE
 permalink: pretty
+url: https://chanzuckerberg.github.io/open-science/
+baseurl: ""
 
 collections_dir: collections
 
