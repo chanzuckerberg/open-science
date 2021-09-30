@@ -15,15 +15,6 @@ This website shares information and resources useful for researchers,
 specifically in biomedicine,
 in implementing open science approaches.
 
-The following sections highlight open science activities in terms :
-
-[Protocols](protocols)
-
-[Software and code](code)
-
-[Data](data)
-
-[Preprints and publications](publications)
-
-Information on organizations and resources we've found useful for supporting
-open science activities is available on our [Resources page](resources.md).
+The sections in the sidebar to the left highlight open science approaches representing
+a breadth of research activities,
+including a resources section describing other groups and projects useful for supporting these approaches.
