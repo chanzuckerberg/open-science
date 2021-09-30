@@ -1,7 +1,6 @@
 ---
-Title: Publishing data with Dryad
+title: Publishing data with Dryad
 category: data
-order: 2
 ---
 
 ## Publishing data with Dryad

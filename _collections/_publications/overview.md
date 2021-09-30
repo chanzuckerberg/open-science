@@ -1,4 +1,7 @@
-# Preprints and publications
+---
+title: Preprints and publications
+category: publications
+---
 
 Overview of preprints and publications
 - how can I increase open access to my publications?

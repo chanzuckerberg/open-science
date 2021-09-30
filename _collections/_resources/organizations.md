@@ -1,7 +1,6 @@
 ---
-Title: Organizations
+title: Organizations
 category: resources
-order: 3
 ---
 
 - [Reproducibility for Everyone](https://www.repro4everyone.org/) (R4E)

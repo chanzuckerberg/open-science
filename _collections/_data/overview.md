@@ -1,7 +1,6 @@
 ---
-Title: Data sharing
+title: Data sharing
 category: data
-order: 1
 ---
 
 ## Data sharing and open science

@@ -1,5 +1,4 @@
 ---
-Title: Overview
+title: Overview
 category: resources
-order: 1
 ---

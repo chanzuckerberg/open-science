@@ -1,4 +1,7 @@
-# Software code sharing
+---
+title: Software and code sharing
+category: code
+---
 
 Overview of software code sharing
 - what is software?

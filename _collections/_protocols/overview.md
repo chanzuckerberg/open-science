@@ -1,7 +1,6 @@
 ---
-Title: Sharing protocols
+title: Sharing protocols
 category: protocols
-order: 1
 ---
 
 Overview of protocols sharing
