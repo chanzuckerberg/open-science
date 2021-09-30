@@ -1,6 +1,6 @@
 ---
 title: Publishing data with Dryad
-category: data
+category: data_sharing
 ---
 
 ## Publishing data with Dryad

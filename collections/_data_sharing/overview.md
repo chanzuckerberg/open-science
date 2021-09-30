@@ -1,6 +1,6 @@
 ---
 title: Data sharing
-category: data
+category: data_sharing
 ---
 
 ## Data sharing and open science

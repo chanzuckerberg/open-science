@@ -2,6 +2,9 @@ title: Open Science Resources
 description: open science approaches for biomedical research
 theme: jekyll-theme-minimal
 show_sidebar: TRUE
+
+permalink: pretty
+
 collections_dir: collections
 
 collections:
@@ -10,7 +13,7 @@ collections:
     permalink: /:collection/:path/
     order:
       - overview.html
-  data:
+  data_sharing:
     output: true
     permalink: /:collection/:path/
     order:
