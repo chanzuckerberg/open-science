@@ -4,8 +4,7 @@ theme: jekyll-theme-minimal
 
 show_sidebar: TRUE
 permalink: pretty
-url: https://chanzuckerberg.github.io/open-science/
-baseurl: ""
+baseurl: "https://chanzuckerberg.github.io/open-science/"
 
 collections_dir: collections
 
