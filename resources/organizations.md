@@ -1,5 +1,8 @@
-# Organizations and general resources
-
+---
+Title: Organizations
+category: resources
+order: 3
+---
 
 - [Reproducibility for Everyone](https://www.repro4everyone.org/) (R4E)
 
@@ -10,7 +13,6 @@
 - [Openscapes](https://www.openscapes.org/)
 
 - [The Carpentries](https://carpentries.org/)
-
 
 ## Developing software
 
