@@ -1,3 +1,9 @@
+---
+title: Publishing data with Dryad
+category: data_sharing
+layout: default
+---
+
 ## Publishing data with Dryad
 
 [Dryad](https://datadryad.org/stash) is a digital repository for research data.
@@ -45,7 +51,7 @@ McArdle https://datadryad.org/stash/dataset/doi:10.5061/dryad.hk07677 (methods)
 Rowland https://datadryad.org/stash/dataset/doi:10.5061/dryad.7c7b561 
 
 
-## Neurodegeneration
+### Neurodegeneration
 
 Koch https://datadryad.org/stash/dataset/doi:10.5061/dryad.s5g2712
 

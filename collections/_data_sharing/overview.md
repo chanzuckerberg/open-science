@@ -1,12 +1,22 @@
-# Data sharing
+---
+title: Data overview
+category: data_sharing
+layout: default
+---
 
-## Data sharing and open science
+## Data overview
 
 - what is data?
 - what should be shared for research to be reproducible?
 - connections to data privacy, security, and ethics
+- [NIH Data Sharing Policy](https://grants.nih.gov/grants/policy/data_sharing/)
 
-[NIH Data Sharing Policy](https://grants.nih.gov/grants/policy/data_sharing/)
+General activities:
+
+- Designing a data management plan
+- Selecting data repositories for submitting
+- Selecting metadata standards
+- Preparing data for sharing and uploading to a repository
 
 ### Where to publish data?
 
@@ -14,18 +24,11 @@
 - repositories for specific data types (e.g., [NCBI GEO](ncbi.nlm.nih.gov/geo/))
 - general data repositories (e.g., institutional repository, [Data Dryad](data_dryad.md))
 
-## General activities:
-
-- Designing a data management plan
-- Selecting data repositories for submitting
-- Selecting metadata standards
-- Preparing data for sharing and uploading to a repository
-
-## Topic pages
+### Topic pages
 
 - Publishing data through [Data Dryad](data_dryad.md)
 
-## Recommended data repositories
+### Recommended data repositories
 
 - [Cell Image Library](http://www.cellimagelibrary.org)
 - [Data Dryad](data_dryad.md)

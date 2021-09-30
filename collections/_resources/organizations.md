@@ -1,5 +1,10 @@
-# Organizations and general resources
+---
+title: Organizations supporting open science
+category: resources
+layout: default
+---
 
+## Organizations supporting open science
 
 - [Reproducibility for Everyone](https://www.repro4everyone.org/) (R4E)
 
@@ -11,7 +16,6 @@
 
 - [The Carpentries](https://carpentries.org/)
 
-
-## Developing software
+### Developing software
 
 - [Research Software Engineers](https://researchsoftware.org/)
