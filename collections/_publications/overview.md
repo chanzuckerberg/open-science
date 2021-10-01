@@ -6,6 +6,10 @@ layout: default
 
 ## Preprints and publications overview
 
+> **This section is currently under development!**
+> If you have questions or ideas for content to add,
+> please [file an issue](https://github.com/chanzuckerberg/open-science/issues).
+
 - how can I increase open access to my publications?
 - why preprints?
 - how do open access publications fit into the traditional publication cycle?

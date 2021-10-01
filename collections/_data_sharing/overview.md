@@ -6,6 +6,10 @@ layout: default
 
 ## Data overview
 
+> **This section is currently under development!**
+> If you have questions or ideas for content to add,
+> please [file an issue](https://github.com/chanzuckerberg/open-science/issues).
+
 - what is data?
 - what should be shared for research to be reproducible?
 - connections to data privacy, security, and ethics

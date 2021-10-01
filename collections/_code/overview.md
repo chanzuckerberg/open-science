@@ -6,6 +6,10 @@ layout: default
 
 ## Software and code
 
+> **This section is currently under development!**
+> If you have questions or ideas for content to add,
+> please [file an issue](https://github.com/chanzuckerberg/open-science/issues).
+
 Overview of software code sharing
 
 - what is software?
