@@ -26,13 +26,13 @@ General activities:
 
 - discipline or topic-specific repositories (e.g., [National Centralized Repository for Alzheimer's Disease and Related Dementias](https://ncrad.iu.edu/))
 - repositories for specific data types (e.g., [NCBI GEO](ncbi.nlm.nih.gov/geo/))
-- general data repositories (e.g., institutional repository, [Data Dryad](data_dryad.md))
-
-### Topic pages
-
-- Publishing data through [Data Dryad](data_dryad.md)
+- general data repositories (e.g., institutional repository, Data Dryad)
 
 ### Recommended data repositories
 
 - [Cell Image Library](http://www.cellimagelibrary.org)
-- [Data Dryad](data_dryad.md)
+- [Data Dryad](https://datadryad.org/stash)
+
+### Topic pages
+
+- [Publishing data through Data Dryad](/open-science/data_sharing/data_dryad/)
