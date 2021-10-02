@@ -10,6 +10,6 @@ layout: default
 
 ## Resources overview
 
-Organizations supporting open science
+### Choosing open science approaches
 
-Choosing open science approaches
+### Organizations supporting open science

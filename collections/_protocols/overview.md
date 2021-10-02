@@ -32,7 +32,7 @@ such as the following:
 
 Experimental protocols shared in [protocols.io](https://www.protocols.io/)
 can also include computational pipelines and analytical workflows
-(but see the section on **Software and code** section 
+(but see the **Software and code** section 
 for more information on resources for reproducibility of computational methods).
 Publishing computational methods in protocols.io is extremely powerful 
 when a new data generation system is being documented,
