@@ -10,25 +10,27 @@ layout: default
 > If you have questions or ideas for content to add,
 > please [file an issue](https://github.com/chanzuckerberg/open-science/issues).
 
-Overview of software code sharing
-
-- what is software?
-- what is needed for reproducibility?
-- open source projects
-
-General activities:
+Developing software for research purposes encompasses a 
+broad range of skills and activities.
+Some open science activities related to code and software include:
 
 - Selecting licenses
 - Documenting code for sharing purposes
 - Publishing research code 
 - Governance and community building in FOSS 
 
-### Version control with Git and GitHub
+### Code development
 
-#### Introduction to Git and GitHub
+#### Version control with Git and GitHub
 
-[GitHub Learning Lab](https://lab.github.com/)
+[GitHub Learning Lab](https://lab.github.com/) contains a large number of free tutorials
+for tasks relevant to writing and sharing research code, including:
 
-#### Creating a website with GitHub Pages
+- [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github)
+- Creating websites with [GitHub Pages](https://lab.github.com/githubtraining/github-pages)
 
-[GitHub Learning Lab course on GitHub Pages](https://lab.github.com/githubtraining/github-pages)
+### Managing an open source project
+
+#### Community development
+
+- [Community starter kit](https://lab.github.com/githubtraining/community-starter-kit) from GitHub
