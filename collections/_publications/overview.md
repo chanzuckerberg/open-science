@@ -10,24 +10,8 @@ layout: default
 > If you have questions or ideas for content to add,
 > please [file an issue](https://github.com/chanzuckerberg/open-science/issues).
 
-- how can I increase open access to my publications?
-- why preprints?
-- how do open access publications fit into the traditional publication cycle?
-
-General activities:
-
-- Posting preprints
-- Choosing journals to maximize impact and access to publications
-- Understanding journal policies for sharing manuscripts elsewhere 
-- Archiving in institutional repositories and personal websites
-
-[NIH Public Access Policy](https://publicaccess.nih.gov/)
-
-### Making your publications open
-
-- preprints
-- open access through journals
-- sharing article after publication
+- [Preprints](#preprints)
+- [Open access to publications](#open-access-to-publications)
 
 ### Preprints
 
@@ -36,3 +20,10 @@ General activities:
 [FAQs about preprints](https://asapbio.org/preprint-info/preprint-faq#general)
 
 [Public feedback on preprints](https://asapbio.org/public-preprint-feedback-faq)
+
+### Open access to publications
+
+[NIH Public Access Policy](https://publicaccess.nih.gov/)
+
+[Sherpa Romeo](https://v2.sherpa.ac.uk/romeo/): collects information about open access policies,
+which you can use to help choose journals and/or identify ways to share your research after publication.

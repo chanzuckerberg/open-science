@@ -11,13 +11,13 @@ layout: default
 > please [file an issue](https://github.com/chanzuckerberg/open-science/issues).
 
 Developing software for research purposes encompasses a 
-broad range of skills and activities.
-Some open science activities related to code and software include:
+broad range of activities,
+ranging from technical skills like version control
+to project and community management.
+Resources related to writing code include:
 
-- Selecting licenses
-- Documenting code for sharing purposes
-- Publishing research code 
-- Governance and community building in FOSS 
+- [Code development](#code-development)
+- [Managing an open source project](#managing-an-open-source-project)
 
 ### Code development
 
