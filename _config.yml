@@ -1,6 +1,8 @@
 title: Open Science Resources
 description: open science approaches for biomedical research
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-analytics
 
 show_sidebar: TRUE
 permalink: pretty
@@ -37,3 +39,7 @@ collections:
       - overview.html
       - organizations.html
       - choosing.html
+
+Plausible:
+    domain: 'chanzuckerberg.github.io/open-science'   # The domain configured in plausible
+    source: 'https://plausible.io/js/plausible.js' # The source of the javascript
