@@ -20,20 +20,15 @@ please [visit their website](https://www.contributor-covenant.org/).
 Please take a look at our current [open issues](https://github.com/chanzuckerberg/open-science/issues)
 to see where we are currently dedicating our energy. 
 
-## Finding help
+## Contributing to this project
 
-We're happy to help!
-Check out our [support guidelines](SUPPORT.md).
+If you would like to request content or contribute code and/or information for us to share via this project,
+please see our [Contribution guidelines](/open-science/CONTRIBUTING).
 
 ## Reporting security issues
 
 If you believe you have found a security issue,
-please responsibly disclose by contacting us at security@chanzuckerberg.com .
-
-## Contributing to this project
-
-If you would like to request content or contribute code and/or information for us to share via this project,
-please see our [Contribution guidelines](CONTRIBUTING.md).
+please responsibly disclose by contacting us at security@chanzuckerberg.com.
 
 ## Acknowledgements
 
