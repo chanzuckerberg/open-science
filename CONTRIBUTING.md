@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Contributing to this project
 
 > If you are looking for assistance in working with this project,
