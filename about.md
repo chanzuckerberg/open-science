@@ -40,3 +40,7 @@ We thank the following projects:
 and for their excellent Contribution guidelines (on which our own are modeled)
 - [GitHub Pages](https://pages.github.com/) for hosting the website
 - [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/), which we have adopted as our own expectations for behavior
+
+## License
+
+This website and all its contents are made available under the [MIT License](/open-science/LICENSE).
