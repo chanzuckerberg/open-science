@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 The MIT License (MIT)
 
 Copyright (c) 2021 Chan Zuckerberg Initiative

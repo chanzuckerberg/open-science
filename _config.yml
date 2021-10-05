@@ -14,31 +14,18 @@ collections:
   protocols:
     output: true
     permalink: /:collection/:path/
-    order:
-      - overview.html
   data_sharing:
     output: true
     permalink: /:collection/:path/
-    order:
-      - overview.html
-      - data_dryad.html
   code:
     output: true
     permalink: /:collection/:path/
-    order:
-      - overview.html
   publications:
     output: true
     permalink: /:collection/:path/
-    order:
-      - overview.html
   resources:
     output: true
     permalink: /:collection/:path/
-    order:
-      - overview.html
-      - organizations.html
-      - choosing.html
 
 Plausible:
     domain: 'chanzuckerberg.github.io/open-science'   # The domain configured in plausible
