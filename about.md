@@ -21,7 +21,10 @@ Please report unacceptable behavior to <opensource@chanzuckerberg.com>.
 ## Questions or feedback about this website?
 
 If you require assistance with this website,
+or would like to share feedback or ideas for content,
 please see our [Support page](/open-science/SUPPORT).
+If you would like to contribute directly to this project,
+please review our [Contribution guidelines](/open-science/CONTRIBUTING).
 
 ## Privacy
 

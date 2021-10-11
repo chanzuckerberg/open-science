@@ -4,18 +4,25 @@ layout: default
 
 # Contributing to this project
 
-> If you have general questions or feedback about this project,
+> If you have general questions or feedback about this project
+> and do not want to create a GitHub account to interact with the project team,
 > please see our [support guidelines](/open-science/SUPPORT).
 
 Thanks for considering making a contribution to this project!
-We are very happy to help share information about what tools and resources
-other biomedical researchers have found useful in their work.
-These contribution guidelines assume you have a GitHub account
-and are able to contribute to the project via the project's [GitHub repository](https://github.com/chanzuckerberg/open-science).
+We are very happy to help share information about what tools and resources you've found useful,
+so other biomedical researchers can improve access to research deliverables as well.
 
 > This project adheres to the [Contributor Covenant Code of Conduct](/open-science/CODE_OF_CONDUCT).
 > By participating, you are expected to uphold this code.
 > Please report unacceptable behavior to <opensource@chanzuckerberg.com>.
+
+These contribution guidelines assume you have a GitHub account
+and are able to contribute to the project via the project's [GitHub repository](https://github.com/chanzuckerberg/open-science).
+In the spirit of open science,
+this project is developed using the same best practices we recommend for open source software projects.
+If you are new to GitHub,
+developing content for this site is a great, low-stakes way to learn how it works!
+We're happy to help you get started.
 
 Contributions can come in a few different forms:
 
