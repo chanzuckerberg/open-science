@@ -34,7 +34,7 @@ You can share these contributions in two main ways via GitHub:
 - [Issues](#issues): ideas for new content, or recommendations to update existing information
 - [Pull requests](#pull-requests): identifying broken links and other technical problems with the website
 
-Additional guidance on these two contribution types are included below.
+Additional guidance on these two methods of contributing are included below.
 
 > If you believe you have found a security issue,
 > please notify us (rather than submitting an issue)
@@ -61,25 +61,81 @@ we appreciate you sharing a screen shot!
 
 ## Pull requests
 
-Most content related to open science is found in the `collections/` folder of the repository.
-Each collection is represented by a subdirectory with the name prefaced in an underscore (e.g., *_code/*).
-Each collection includes one or more pages represented by a markdown (`.md`) file.
-
 We accept [pull requests (PRs)](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) from forks of our repository.
 
 ### PRs for website content
+
+#### Organization of website content
+
+All content for this website can be edited via markdown (`.md`)
+files representing each of the pages in the site.
+
+Most content related to open science is found in the `collections/` folder of the repository.
+The collections include:
+
+- Protocols
+- Software and Code
+- Data
+- Preprints and Publications
+- Resources
+
+Each collection is represented by:
+
+- subdirectory with the name prefaced in an underscore (e.g., `collections/_code/`)
+- an overview page (`overview.md`)
+- additional markdown files representing pages within the category
+
+If you would like to add additional pages to a collection,
+use one of the existing files as a template and save it in the appropriate subdirectory.
+
+Other `.md` files from the [repository](https://github.com/chanzuckerberg/open-science/)
+rendered as content in the site are located at the top level of the directory.
+These files include:
+
+- `index`: front page of website
+- `about`: basic descriptions modified from README and links to the files below
+- `CODE_OF_CONDUCT`: standard language required by CZI
+- `CONTRIBUTING`: this file
+- `LICENSE`: standard MIT license
+- `SECURITY`: standard language required by CZI
+- `SUPPORT`: basic content recommended by CZI
+
+The `README` is not rendered in the website,
+and is used only for viewing on GitHub.
+
+#### Tips for writing website content
+
+[**GitHub Flavored Markdown** ](https://github.github.com/gfm/)
+is the basic method through which files are rendered for this project.
+[This cheat sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+is a good place to look for a quick reference on markdown formatting.
+
+**Images** can be added by using Markdown formatting.
+If you are including an image file,
+please format it as `png` or `jpg` and place it in `images/`.
+
+**Links** to other locations in the site should be prefaced with `/open-science/`
+and generally reference the location and filename of the markdown file containing the content.
+For example:
+
+- About page: [`/open-science/about/`](/open-science/about/)
+- Data overview: [`/open-science/data_sharing/overview`](/open-science/data_sharing/overview)
+
+#### Submitting a PR for website content
 
 In most cases, you'll be able to create your PR via the GitHub web interface.
 [the process for proposing changes via a pull request](https://guides.github.com/introduction/flow/) is:
 
 1. [Fork](https://github.com/chanzuckerberg/open-science/fork) and clone the project
 2. Create a new [branch](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository).
-5. Alter the content on the page using the [editor in the web interface](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files).
-6. [Submit a pull request](https://github.com/chanzuckerberg/open-science/compare) to our repository from your fork's branch containing the changes.
+3. Alter the content on the page using the [editor in the web interface](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files).
+4. [Submit a pull request](https://github.com/chanzuckerberg/open-science/compare) to our repository from your fork's branch containing the changes.
 
 Each pull request should change *one* thing. Because this is a website, rather than a code development project, it can sometimes be hard to identify what represents a single thing. In general, a PR for this project will affect only one section of the website (e.g., "Software and Code"). It's ok to submit more than one pull request!
 
 ### PRs for web styling
+
+#### Technical information about the site
 
 This website is created using [jekyll](https://jekyllrb.com/).
 The instructions below should be sufficient for most folks,
@@ -88,6 +144,15 @@ but additional information is available in the [jekyll documentation](https://je
 The theme used for this site is [minimal](https://github.com/pages-themes/minimal).
 Please see that project's documentation for more information on customization, 
 including configuration variables, stylesheets, and layouts.
+
+The main files involving site layout, navigation, and styling include:
+
+- `_layouts/default.html`: dictates arrangement and appearance of all pages
+- `_includes/head-custom.html`: proliferates tracking for web analytics
+- `_config.yml`: configures theme, collections, and web analytics
+
+If you would like to make changes to the web styling,
+please preview your changes by building the site locally before submitting a pull request.
 
 #### Previewing the site locally
 
@@ -99,10 +164,9 @@ If you'd like to preview the theme locally (for example, in the process of propo
 4. Run `bundle exec jekyll serve` to start the preview server
 5. Visit the server address listed in the output to preview the site in your browser
 
-#### Running tests
-
-The `minimal` theme contains a minimal test suite. 
+The `minimal` theme also contains a minimal test suite. 
 To run the tests:
+
 - run `script/bootstrap`
 - run `script/cibuild`
 
