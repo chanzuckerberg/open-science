@@ -9,17 +9,22 @@ It was created and is currently run by the
 [Open Science Program](https://chanzuckerberg.com/science/programs-resources/open-science/)
 at [Chan Zuckerberg Initiative (CZI)](https://chanzuckerberg.com/).
 This project is led by Open Science Specialist [Kate Hertweck](katehertweck.com).
+Please see our [GitHub repository](https://github.com/chanzuckerberg/open-science)
+for more information about the development of the resources presented here.
 
 ## Code of Conduct
 
 This project adheres to the [Contributor Covenant Code of Conduct](/open-science/CODE_OF_CONDUCT).
 By participating, you are expected to uphold this code.
-Please report unacceptable behavior to opensource@chanzuckerberg.com.
+Please report unacceptable behavior to <opensource@chanzuckerberg.com>.
 
 ## Questions or feedback about this website?
 
 If you require assistance with this website,
+or would like to share feedback or ideas for content,
 please see our [Support page](/open-science/SUPPORT).
+If you would like to contribute directly to this project,
+please review our [Contribution guidelines](/open-science/CONTRIBUTING).
 
 ## Privacy
 
@@ -29,7 +34,7 @@ You can view the public dashboard for this website [here](https://plausible.io/c
 
 ## Security
 
-If you believe you have found a security issue, please responsibly disclose by contacting us at security@chanzuckerberg.com.
+If you believe you have found a security issue, please responsibly disclose by contacting us at <security@chanzuckerberg.com>.
 
 ## Acknowledgements
 
