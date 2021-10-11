@@ -16,7 +16,7 @@ for more information about the development of the resources presented here.
 
 This project adheres to the [Contributor Covenant Code of Conduct](/open-science/CODE_OF_CONDUCT).
 By participating, you are expected to uphold this code.
-Please report unacceptable behavior to opensource@chanzuckerberg.com.
+Please report unacceptable behavior to <opensource@chanzuckerberg.com>.
 
 ## Questions or feedback about this website?
 
@@ -31,7 +31,7 @@ You can view the public dashboard for this website [here](https://plausible.io/c
 
 ## Security
 
-If you believe you have found a security issue, please responsibly disclose by contacting us at security@chanzuckerberg.com.
+If you believe you have found a security issue, please responsibly disclose by contacting us at <security@chanzuckerberg.com>.
 
 ## Acknowledgements
 

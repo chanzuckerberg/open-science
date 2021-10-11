@@ -15,7 +15,7 @@ and are able to contribute to the project via the project's [GitHub repository](
 
 > This project adheres to the [Contributor Covenant Code of Conduct](/open-science/CODE_OF_CONDUCT).
 > By participating, you are expected to uphold this code.
-> Please report unacceptable behavior to opensource@chanzuckerberg.com.
+> Please report unacceptable behavior to <opensource@chanzuckerberg.com>.
 
 Contributions can come in a few different forms:
 
@@ -31,7 +31,7 @@ Additional guidance on these two contribution types are included below.
 
 > If you believe you have found a security issue,
 > please notify us (rather than submitting an issue)
-> by emailing security@chanzuckerberg.com.
+> by emailing <security@chanzuckerberg.com>.
 
 ## Issues
 
