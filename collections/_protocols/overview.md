@@ -4,8 +4,6 @@ category: protocols
 layout: default
 ---
 
-## Protocols overview
-
 > **This section is currently under development!**
 > If you have questions or ideas for content to add,
 > please [file an issue](https://github.com/chanzuckerberg/open-science/issues).
@@ -18,10 +16,10 @@ This section describes open science approaches to sharing protocols,
 including both written instructions for methods
 as well as physical resources (like reagents).
 
-- [Publishing methods with protocols.io](#publishing-methods-with-protocols.io)
+- [Publishing methods with protocols.io](#publishing-methods-with-protocolsio)
 - [Sharing reagents and physical resources](#sharing-reagents-and-physical-resources)
 
-### Publishing methods with protocols.io
+## Publishing methods with protocols.io
 
 While there are multiple ways to share details of experimental methods,
 one existing solution is [protocols.io](https://www.protocols.io/),
@@ -43,7 +41,7 @@ as it unites the data collection and analysis approaches.
 An example of this approach is this protocol from the Human Cell Atlas Method Development Community:
 [MARS-seq2.0: an experimental and analytical pipeline for indexed sorting combined with single-cell RNA sequencing](https://www.protocols.io/view/mars-seq2-0-an-experimental-and-analytical-pipelin-7hkhj4w).
 
-### Sharing reagents and physical resources
+## Sharing reagents and physical resources
 
 Examples of physical reagents and other resources that can be shared include:
 - cell lines

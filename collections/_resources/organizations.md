@@ -4,8 +4,6 @@ category: resources
 layout: default
 ---
 
-## Organizations supporting open science
-
 - [Reproducibility for Everyone](https://www.repro4everyone.org/) (R4E)
 
 - [The Turing Way](https://the-turing-way.netlify.app/welcome)
@@ -16,6 +14,6 @@ layout: default
 
 - [The Carpentries](https://carpentries.org/)
 
-### Developing software
+## Developing software
 
 - [Research Software Engineers](https://researchsoftware.org/)
