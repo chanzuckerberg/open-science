@@ -11,7 +11,9 @@ This website shares information and resources useful for researchers,
 specifically in biomedicine,
 in implementing open science approaches.
 
-Each of the main sections of this site are framed with some of the main questions we handle when applying open science approaches:
+Each of the main sections of this site are framed with some of the main questions we handle when applying open science approaches.
+If you are looking for general information about open science,
+we recommend viewing the [Resources section](#resources) first.
 
 ## [Protocols](/open-science/protocols/overview/)
 
@@ -39,6 +41,7 @@ Each of the main sections of this site are framed with some of the main question
 
 ## [Resources](/open-science/resources/overview/)
 
-- What are some general resources on open science?
+- What is open science?
+- How do I choose open science approaches?
 - What organizations provide training in open science?
 - How can I connect my open science activities with efforts in diversity, equity, and inclusion?
