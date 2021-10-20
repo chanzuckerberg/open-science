@@ -4,8 +4,6 @@ category: data_sharing
 layout: default
 ---
 
-## Publishing data with Dryad
-
 [Dryad](https://datadryad.org/stash) is a digital repository for research data.
 The Dryad [submission process](https://datadryad.org/stash/submission_process) 
 describes the steps in publishing data,

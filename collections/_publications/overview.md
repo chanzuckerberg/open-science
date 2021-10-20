@@ -4,8 +4,6 @@ category: publications
 layout: default
 ---
 
-## Preprints and publications overview
-
 > **This section is currently under development!**
 > If you have questions or ideas for content to add,
 > please [file an issue](https://github.com/chanzuckerberg/open-science/issues).
@@ -13,7 +11,7 @@ layout: default
 - [Preprints](#preprints)
 - [Open access to publications](#open-access-to-publications)
 
-### Preprints
+## Preprints
 
 [ASAPbio](https://asapbio.org/): scientist-driven non-profit organization promoting transparency and innovation in life science communication
 
@@ -21,7 +19,7 @@ layout: default
 
 [Public feedback on preprints](https://asapbio.org/public-preprint-feedback-faq)
 
-### Open access to publications
+## Open access to publications
 
 [NIH Public Access Policy](https://publicaccess.nih.gov/)
 

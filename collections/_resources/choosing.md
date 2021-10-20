@@ -4,9 +4,7 @@ category: resources
 layout: default
 ---
 
-## Choosing open science approaches
-
-### Who has requirements for open access to research deliverables?
+## Who has requirements for open access to research deliverables?
 
 - funders
 - journals

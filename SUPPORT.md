@@ -1,8 +1,7 @@
 ---
+title: Questions or feedback about this website?
 layout: default
 ---
-
-# Questions or feedback about this website?
 
 Regardless of your career level, area of biomedical expertise, 
 or experience with open science,

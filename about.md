@@ -1,8 +1,7 @@
 ---
+title: About this project
 layout: default
 ---
-
-# About this project
 
 This project aims to collect and share resources that biomedical researchers can use in applying open science approaches.
 It was created and is currently run by the 

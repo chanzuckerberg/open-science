@@ -1,8 +1,7 @@
 ---
+title: Contributing to this project
 layout: default
 ---
-
-# Contributing to this project
 
 > If you have general questions or feedback about this project
 > and do not want to create a GitHub account to interact with the project team,

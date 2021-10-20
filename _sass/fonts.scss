@@ -1,55 +1,51 @@
 @font-face {
-  font-family: 'Noto Sans';
+  font-family: 'HK Grotesk';
   font-weight: 400;
   font-style: normal;
-  src: url('../fonts/Noto-Sans-regular/Noto-Sans-regular.eot');
-  src: url('../fonts/Noto-Sans-regular/Noto-Sans-regular.eot?#iefix') format('embedded-opentype'),
-       local('Noto Sans'),
-       local('Noto-Sans-regular'),
-       url('../fonts/Noto-Sans-regular/Noto-Sans-regular.woff2') format('woff2'),
-       url('../fonts/Noto-Sans-regular/Noto-Sans-regular.woff') format('woff'),
-       url('../fonts/Noto-Sans-regular/Noto-Sans-regular.ttf') format('truetype'),
-       url('../fonts/Noto-Sans-regular/Noto-Sans-regular.svg#NotoSans') format('svg');
+  src: url('../fonts/HKGrotesk-regular/HKGrotesk-Regular.eot');
+  src: url('../fonts/HKGrotesk-regular/HKGrotesk-Regular.eot?#iefix') format('embedded-opentype'),
+       local('HK Grotesk'),
+       local('HKGrotesk-Regular'),
+       url('../fonts/HKGrotesk-Regular/HKGrotesk-Regular.woff2') format('woff2'),
+       url('../fonts/HKGrotesk-Regular/HKGrotesk-Regular.woff') format('woff'),
+       url('../fonts/HKGrotesk-Regular/HKGrotesk-Regular.ttf') format('truetype');
 }
 
 @font-face {
-  font-family: 'Noto Sans';
+  font-family: 'HK Grotesk';
   font-weight: 700;
   font-style: normal;
-  src: url('../fonts/Noto-Sans-700/Noto-Sans-700.eot');
-  src: url('../fonts/Noto-Sans-700/Noto-Sans-700.eot?#iefix') format('embedded-opentype'),
-       local('Noto Sans Bold'),
-       local('Noto-Sans-700'),
-       url('../fonts/Noto-Sans-700/Noto-Sans-700.woff2') format('woff2'),
-       url('../fonts/Noto-Sans-700/Noto-Sans-700.woff') format('woff'),
-       url('../fonts/Noto-Sans-700/Noto-Sans-700.ttf') format('truetype'),
-       url('../fonts/Noto-Sans-700/Noto-Sans-700.svg#NotoSans') format('svg');
+  src: url('../fonts/HKGrotesk-700/HKGrotesk-Bold.eot');
+  src: url('../fonts/HKGrotesk-700/HKGrotesk-Bold.eot?#iefix') format('embedded-opentype'),
+       local('HK Grotesk Bold'),
+       local('HKGrotesk-700'),
+       url('../fonts/HKGrotesk-700/HKGrotesk-Bold.woff2') format('woff2'),
+       url('../fonts/HKGrotesk-700/HKGrotesk-Bold.woff') format('woff'),
+       url('../fonts/HKGrotesk-700/HKGrotesk-Bold.ttf') format('truetype');
 }
 
 @font-face {
-  font-family: 'Noto Sans';
+  font-family: 'HK Grotesk';
   font-weight: 400;
   font-style: italic;
-  src: url('../fonts/Noto-Sans-italic/Noto-Sans-italic.eot');
-  src: url('../fonts/Noto-Sans-italic/Noto-Sans-italic.eot?#iefix') format('embedded-opentype'),
-       local('Noto Sans Italic'),
-       local('Noto-Sans-italic'),
-       url('../fonts/Noto-Sans-italic/Noto-Sans-italic.woff2') format('woff2'),
-       url('../fonts/Noto-Sans-italic/Noto-Sans-italic.woff') format('woff'),
-       url('../fonts/Noto-Sans-italic/Noto-Sans-italic.ttf') format('truetype'),
-       url('../fonts/Noto-Sans-italic/Noto-Sans-italic.svg#NotoSans') format('svg');
+  src: url('../fonts/HKGrotesk-italic/HKGrotesk-Italic.eot');
+  src: url('../fonts/HKGrotesk-italic/HKGrotesk-Italic.eot?#iefix') format('embedded-opentype'),
+       local('HK Grotesk Italic'),
+       local('HKGrotesk-italic'),
+       url('../fonts/HKGrotesk-italic/HKGrotesk-Italic.woff2') format('woff2'),
+       url('../fonts/HKGrotesk-italic/HKGrotesk-Italic.woff') format('woff'),
+       url('../fonts/HKGrotesk-italic/HKGrotesk-Italic.ttf') format('truetype');
 }
 
 @font-face {
-  font-family: 'Noto Sans';
+  font-family: 'HK Grotesk';
   font-weight: 700;
   font-style: italic;
-  src: url('../fonts/Noto-Sans-700italic/Noto-Sans-700italic.eot');
-  src: url('../fonts/Noto-Sans-700italic/Noto-Sans-700italic.eot?#iefix') format('embedded-opentype'),
-       local('Noto Sans Bold Italic'),
-       local('Noto-Sans-700italic'),
-       url('../fonts/Noto-Sans-700italic/Noto-Sans-700italic.woff2') format('woff2'),
-       url('../fonts/Noto-Sans-700italic/Noto-Sans-700italic.woff') format('woff'),
-       url('../fonts/Noto-Sans-700italic/Noto-Sans-700italic.ttf') format('truetype'),
-       url('../fonts/Noto-Sans-700italic/Noto-Sans-700italic.svg#NotoSans') format('svg');
+  src: url('../fonts/HKGrotesk-700italic/HKGrotesk-BoldItalic.eot');
+  src: url('../fonts/HKGrotesk-700italic/HKGrotesk-BoldItalic.eot?#iefix') format('embedded-opentype'),
+       local('HK Grotesk Bold Italic'),
+       local('HKGrotesk-700italic'),
+       url('../fonts/HKGrotesk-700italic/HKGrotesk-BoldItalic.woff2') format('woff2'),
+       url('../fonts/HKGrotesk-700italic/HKGrotesk-BoldItalic.woff') format('woff'),
+       url('../fonts/HKGrotesk-700italic/HKGrotesk-BoldItalic.ttf') format('truetype');
 }
