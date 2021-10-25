@@ -1,5 +1,5 @@
 ---
-title: Resources for CZI researchers
+title: Resources for CZI grantees
 layout: default
 ---
 
