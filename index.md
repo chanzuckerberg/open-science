@@ -11,7 +11,7 @@ The goal of this website is to collect and disseminate information to enable ope
 specifically for members of the the biomedical research community.
 All reference materials included here are freely available.
 Additional resources and services may be available to labs and projects who receive funding from CZI;
-please see [our CZI researcher page](/open-science/czi-researchers/)
+please see [our CZI grantees page](/open-science/czi-grantees/)
 for more information.
 
 Each of the main sections of this site are framed with 
