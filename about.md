@@ -47,7 +47,7 @@ and for their excellent Contribution guidelines (on which our own are modeled)
 
 ## Privacy
 
-** We collect and use limited personal information about you.**
+**We collect and use limited personal information about you.**
 
 If you submit feedback via our [online feedback form](https://docs.google.com/forms/d/e/1FAIpQLSck9Vf1a0j6tHWWpitj5l6TgogVPk1CfBGViGZZhe8ZzgHPiA/viewform),
 we will collect personally identifiable information that you provide to us.
