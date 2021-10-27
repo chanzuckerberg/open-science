@@ -7,6 +7,17 @@ layout: default
 > and do not want to create a GitHub account to interact with the project team,
 > please see our [support guidelines](/open-science/SUPPORT).
 
+- [Issues](#issues)
+- [Pull requests](#pull-requests)
+  - [PRs for website content](#prs-for-website-content)
+    - [Organization of website content](#organization-of-website-content)
+    - [Tips for writing website content](#tips-for-writing-website-content)
+    - [Submitting a PR for website content](#submitting-a-pr-for-website-content)
+  - [PRs for web styling](#prs-for-web-styling)
+    - [Technical information about the site](#technical-information-about-the-site)
+    - [Previewing the site locally](#previewing-the-site-locally)
+  - [Additional Resources](#additional-resources)
+
 Thanks for considering making a contribution to this project!
 We are very happy to help share information about what tools and resources you've found useful,
 so other biomedical researchers can improve access to research deliverables as well.
@@ -109,9 +120,13 @@ is the basic method through which files are rendered for this project.
 [This cheat sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 is a good place to look for a quick reference on markdown formatting.
 
-**Images** can be added by using Markdown formatting.
+**Images** can be added using standard Markdown syntax.
 If you are including an image file,
 please format it as `png` or `jpg` and place it in `images/`.
+If embedding a figure in a `collections` page,
+include a relative path to the image file:
+
+`![Description of image](../../images/image.png)`
 
 **Links** to other locations in the site should be prefaced with `/open-science/`
 and generally reference the location and filename of the markdown file containing the content.
