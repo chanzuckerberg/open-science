@@ -90,8 +90,10 @@ The date(s) listed in the box represent a version of the data.
 it is possible to provide updates to the data at a later point in time).
 clicking on the arrow next to the date reveals a list of the files in the dataset,
 which allows you to access each file individually.
-This is especially useful if the dataset contains many files,
-or files that are larger than average. 
+This is especially useful if the [dataset](https://datadryad.org/stash/dataset/doi:10.5061/dryad.9kd51c5hk) contains many files,
+or files that are larger than average:
+
+![Example of files in a Dryad data entry](../../images/dryad_data_files.png)
 
 There are occassionally cases in which data an author chooses to publish the data under an embargo: 
 information about the data entry is published and visible,
