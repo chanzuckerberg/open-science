@@ -12,7 +12,7 @@ The information below describes additional context useful for preparing and subm
  All research data is eligible for publication in Dryad.
  The main reasons researchers publish data in Dryad include:
 
-- A project includes data that cannot be submitted to other data- or discipline-specific repositories
+- The data aren't appropriate to submit to other data- or discipline-specific repositories
 - The journal to which a research publication has been submitted belongs to a Publisher Member of Dryad
 - The institution (university or research center) sponsoring the research is an Institutional Member of Dryad 
 
@@ -31,12 +31,12 @@ for more information.
 - **Data metrics:** Dryad provides additional metrics about your data, including number of views and downloads.
 - **Integrated code publishing:** Code, scripts, and software packages not published elsewhere can be sent directly to Zenodo for publication under your selected license.
 - **Links to all parts of a project:** Data entries in Dryad can be linked to all related parts of your project online, including the associated publication (preprint and final peer-reviewed article), software (e.g., GitHub), websites, and data published in other repositories.
-- **Embargoed publication during review:** Data can be submitted to Dryad privately and made only available to reviewers, then embargoed until the time of publication.  
+- **Private and embargoed data:** Data can be submitted to Dryad privately and made only available to reviewers and/or collaborators. A data entry can also be embargoed (data entry visible, but data unavailable for viewing/download) until the time of publication.  
 
 ## Parts of a Dryad data entry
 
 This section describes the general parts of a data entry,
-highlighting similarities and differences between a publication in a journal and a data entry,
+highlighting similarities and differences with publication in a journal,
 and identifying features that help your published data have the biggest impact.
 
 > Dryad maintains documentation about their [submission process](https://datadryad.org/stash/submission_process), 
@@ -95,7 +95,7 @@ or files that are larger than average:
 
 ![Example of files in a Dryad data entry](../../images/dryad_data_files.png)
 
-There are occassionally cases in which data an author chooses to publish the data under an embargo: 
+There are occassionally cases in which an author chooses to publish the data under an embargo: 
 information about the data entry is published and visible,
 though the data files themselves cannot be viewed or downloaded until a specified date.
 The image below was taken prior to the October 27, 2021 publication data for [this data entry](https://datadryad.org/stash/dataset/doi:10.6086/D1WQ1R),
