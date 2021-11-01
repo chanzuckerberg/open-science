@@ -14,6 +14,9 @@ layout: default
   - [Inclusivity and accessibility](#inclusivity-and-accessibility)
   - [Tracking project metrics](#tracking-project-metrics)
 
+- [Open Source Archetypes](https://blog.mozilla.org/wp-content/uploads/2018/05/MZOTS_OS_Archetypes_report_ext_scr.pdf)
+- [Ten Simple Rules for the Open Development of Scientific Software](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002802)
+
 ## Project management for research software
 
 ### Planning for sustainability
@@ -47,3 +50,6 @@ layout: default
 
 - attribution
 - incentivization
+
+- [Open Source Software Needs Assessment Toolkit](https://internews.org/areas-of-expertise/global-tech/resources/open-source-software-lightweight-needs-assessment/)
+- [Apache project maturity model](http://community.apache.org/apache-way/apache-project-maturity-model.html)
