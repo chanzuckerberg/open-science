@@ -4,8 +4,14 @@ category: code
 layout: default
 ---
 
+> **This section is currently under development!**
+> If you have questions or ideas for content to add,
+> please [file an issue](https://github.com/chanzuckerberg/open-science/issues).
+
+**Topics in this section:**
 - [Getting started with coding](#getting-started-with-coding)
 - [Version control with Git and GitHub](#version-control-with-git-and-github)
+- [Writing reusable code](#writing-reusable-code)
 - [Containerizing code](#containerizing-code)
 - [Documentation](#documentation)
 - [Licensing](#licensing)
@@ -13,7 +19,7 @@ layout: default
 - [Testing and continuous integration](#testing-and-continuous-integration)
 - [Code architecture and design](#code-architecture-and-design)
 - [Strategies for debugging](#strategies-for-debugging)
-- [Joining a project](#joining-a-project)
+- [Contributing to a project](#contributing-to-a-project)
 
 General:
 
@@ -37,6 +43,10 @@ for tasks relevant to writing and sharing research code, including:
 - [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github)
 - Creating websites with [GitHub Pages](https://lab.github.com/githubtraining/github-pages)
 
+## Writing reusable code
+
+- [Research Software Engineering with Python](https://merely-useful.tech/py-rse/index.html)
+
 ## Containerizing code
 
 - [Ten simple rules for writing Dockerfiles for reproducible data science](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008316)
@@ -55,4 +65,11 @@ for tasks relevant to writing and sharing research code, including:
 
 ## Strategies for debugging
 
-## Joining a project
+## Contributing to a project
+
+If you're not familiar with GitHub,
+please see the [version control section](#version-control-with-git-and-github)
+to get started.
+
+- https://opensource.guide/how-to-contribute/
+- https://opensource.creativecommons.org/contributing-code/

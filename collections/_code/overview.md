@@ -3,6 +3,11 @@ title: Software and code overview
 category: code
 layout: default
 ---
+
+> **This section is currently under development!**
+> If you have questions or ideas for content to add,
+> please [file an issue](https://github.com/chanzuckerberg/open-science/issues).
+
 **Topics in this section:**
 - [Code development](#code-development)
 - [Collaborative research software engineering projects](#collaborative-research-software-engineering-projects)
@@ -17,7 +22,8 @@ to project and community management.
 ## Code development
 
 - learning to code
-- things to learn besides coding
+- additional non-coding skills
 
 ## Collaborative research software engineering projects
 
+- 
