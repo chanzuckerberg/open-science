@@ -4,7 +4,7 @@ category: code
 layout: default
 ---
 
-**Topics in this section:**$$
+**Topics in this section:**
 - [Code development](#code-development)
 - [Collaborative research software engineering projects](#collaborative-research-software-engineering-projects)
 
