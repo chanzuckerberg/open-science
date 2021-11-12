@@ -6,10 +6,10 @@ layout: default
 
 **Topics in this section:**
 - [Training](#training)
-  - [Developing software](#developing-software)
+- [Developing software](#developing-software)
 - [Targeted populations](#targeted-populations)
 
-# Training 
+## Training 
 
 - [Reproducibility for Everyone](https://www.repro4everyone.org/) (R4E)
 - [The Turing Way](https://the-turing-way.netlify.app/welcome)
@@ -23,8 +23,10 @@ for organizations aimed at supporting particular groups of people.
 ## Developing software
 
 - [Research Software Engineers](https://researchsoftware.org/)
+- [Open Source Software Research Team](https://opensourcesoftware.netlify.app/)
 
-# Targeted populations
+## Targeted populations
 
 - [MetaDocencia](https://www.metadocencia.org/en/)
 - [Indigidata](https://indigidata.nativebio.org/)
+- [Global Indigenous Data Alliance](https://www.gida-global.org/)
