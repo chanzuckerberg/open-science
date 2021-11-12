@@ -84,19 +84,43 @@ There are three main sources of funding commonly used to support academic/scient
 
 ### Governance
 
-FIXME
+Governance refers to the rules and policies that dictate how decisions are made 
+and power controlled within a group.
+The larger a community, the more important clearly stated governance is to cultivating and maintaining cohesiveness among programs.
 
+The following resources provide a general overview of themes within governance and leadership 
+that members of the scientific open source community recommend for background information
+and to highlight the importance of governance:
+
+- [Sociocracy](https://www.sociocracyforall.org/sociocracy/)
+- [CommunityRule](https://communityrule.info/)
 - [The Tyranny of Structurelessness](https://www.jofreeman.com/joreen/tyranny.htm)
-- CommunityRule https://communityrule.info/
-- Sociocracy – basic concepts and principles https://www.sociocracyforall.org/sociocracy/
+
+These resources are useful for developing and applying models of governance for your own project:
+
+- [A guide to open source project governance models](https://www.redhat.com/en/resources/guide-to-open-source-project-governance-models-overview) from RedHat
+- [Leadership and Governance](https://opensource.guide/leadership-and-governance/) from Open Source Guides
+- [GitHub's Minimum Viable Governance](https://github.com/github/MVG)
+
+Finally, here are some examples of governance documentation in open source communities.
+These were selected because they represent a variety of projects and structures:
+
+- [The Carpentries Governance](https://carpentries.org/governance/)
+- [Project Jupyter](https://github.com/jupyter/governance/blob/master/governance.md)
+- [`ggplot2`](https://github.com/tidyverse/ggplot2/blob/main/GOVERNANCE.md), an R package
+- [`numpy`](https://numpy.org/doc/stable/dev/governance/governance.html#governance), a Python package
 
 ### Team management
 
-FIXME
+**Under construction**
 
-- onboarding/offboarding, and hiring/firing
-- https://team-compass.2i2c.org/en/latest/
-- [Strategies for Team Science Success](https://link.springer.com/book/10.1007/978-3-030-20992-6)
+While governance refers to how an entire project operates,
+team management refers to coordination among the core members working on a project.
+For an overview of working in a team for scientific projects, 
+see [Strategies for Team Science Success](https://link.springer.com/book/10.1007/978-3-030-20992-6).
+
+For an example of public documentation about an open source project,
+view the [2i2c Team Compass](https://team-compass.2i2c.org/en/latest/)
 
 ### Code review
 
@@ -181,5 +205,5 @@ FIXME
 - [Open Source Software Needs Assessment Toolkit](https://internews.org/areas-of-expertise/global-tech/resources/open-source-software-lightweight-needs-assessment/)
 - [Apache project maturity model](http://community.apache.org/apache-way/apache-project-maturity-model.html)
 
-- Tracking DEI metrics
-  - [Open Demographics](http://nikkistevens.com/open-demographics/), [GitHub repo](https://github.com/drnikki/open-demographics/)
+If you are interested in tracking the demographics of participants in your project and are unsure how to approach questions related to diversity, equity, and inclusion, 
+please see [Open Demographics](http://nikkistevens.com/open-demographics/).
