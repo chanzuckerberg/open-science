@@ -174,25 +174,35 @@ see [Code of Conduct Conversations in Open Source Software Projects on Github](h
 
 ### Contribution guidelines
 
-FIXME
+Inviting and recruiting individuals to contribute to an open source project is challenging
+yet critical for the long-term success of the project.
+Contribution guidelines provide the basic information such individuals require
+to consider, and hopefully even follow through,
+with sharing work.
+
+These resources provide guidance on developing contribution guidelines for open source projects:
 
 - [Ten simple rules for helping newcomers become contributors to open projects](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007296)
-- https://opensource.com/life/16/3/contributor-guidelines-template-and-tips
-- https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-contributor-guidelines/
+- [A template for creating open source contributor guidelines](https://opensource.com/life/16/3/contributor-guidelines-template-and-tips)
+- [Write Contributor Guidelines ](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-contributor-guidelines/) from Mozilla's Leadership Training Series
 
-Examples:
-
-- https://github.com/swcarpentry/python-novice-inflammation/blob/gh-pages/CONTRIBUTING.md
-
-Non-technical contributions
-
-Adapted from [Call for Code](https://callforcode.org/)
+The resources above are for traditional open source projects.
+It is likely that individuals interested in contributing to a project
+may not have the technical expertise or amount of time available to commit as described.
+The following table is adapted from [Call for Code](https://callforcode.org/),
+and identifies different types of contributions possible with variable amounts of time:
 
 | Time commitment | Documentation | Design | Advocacy | Community |
 |---|---|---|---|---|
 | Hours | Flag documentation errors or questions | Design logo | Share project in communities | Attend community event |
 | Days | Document new features | Conduct user research | Speak at conference | Organize community event |
 | Weeks | Create onboarding guides | Update UI | Be a project champion | Lead regional chapter |
+
+Examples of contribution guidelines include:
+
+- [The Carpentries](https://github.com/swcarpentry/python-novice-inflammation/blob/gh-pages/CONTRIBUTING.md)
+- [Tidyverse](https://www.tidyverse.org/contribute/)
+- [GitHub Pages Minimal theme](https://github.com/pages-themes/minimal/blob/master/docs/CONTRIBUTING.md)
 
 ### Creating user documentation
 
