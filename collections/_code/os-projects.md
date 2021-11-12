@@ -63,26 +63,24 @@ including specific approaches that support open science projects throughout thei
 
 ### Planning for sustainability
 
-FIXME
-
-[Resources from the Software Sustainability Institute](https://www.software.ac.uk/resources):
+The Software Sustainability Institute (SSI) has a number of [resources](https://www.software.ac.uk/resources) 
+specifically catered to planning and assessing longevity in scientific software:
 
 - [Software management plan](https://www.software.ac.uk/resources/guides/software-management-plans)
 - [Software Evaluation Guide](https://www.software.ac.uk/resources/guides-everything/software-evaluation-guide)
 
-Resources on financial models for general open source tools:
+The success of general open source tools reveals the following ideas about monetization,
+though the [caveats about scientific software mentioned above](#research-software-as-a-subset-of-open-source-software)
+are especially applicable here:
 
 - [Monetizing Open Source: Business Models That Generate Billions](https://www.forbes.com/sites/glennsolomon/2020/09/15/monetizing-open-source-business-models-that-generate-billions/?sh=769ff83834fd)
 - [4 successful open source business models to consider](https://opensource.com/article/17/12/open-source-business-models)
 
-Revenue models:
+There are three main sources of funding commonly used to support academic/scientific research software:
 
-- Private donations: GitHub sponsorship, [Experiment](https://experiment.com/), [Open Collective](https://opencollective.com/)
-- Service models: offering training or consulting for a fee
-
-Making the case for funding:
-
-- see tracking metrics section
+- **Grant funding:** federal agencies and non-profit organizations periodically offer opportunities to support open source software
+- **Private donations:** a number of options are available for soliciting and accepting small donations from private groups: [GitHub sponsorship](https://github.com/sponsors), [Experiment](https://experiment.com/), [Open Collective](https://opencollective.com/)
+- **Services:** offering training or consulting associated with the software can provide a nominal level of support for the software at the core of the project
 
 ### Governance
 
