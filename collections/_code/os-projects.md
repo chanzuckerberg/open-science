@@ -218,10 +218,9 @@ developing training materials associated with their open source projects:
 
 ### Tracking project metrics
 
-FIXME
-
-- attribution
-- incentivization
+Collecting and sharing information about an open source project is another important part of the growth and development of software engineering,
+as it demonstrates the community support (and therefore longevity) of a project.
+The following resources describe the types of information appropriate to collect for open source projects:
 
 - [Community Health Analytics Open Source Software (CHAOSS)](https://chaoss.community/)
 - [Open Source Software Needs Assessment Toolkit](https://internews.org/areas-of-expertise/global-tech/resources/open-source-software-lightweight-needs-assessment/)
