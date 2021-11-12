@@ -12,7 +12,6 @@ layout: default
 - [Why open science?](#why-open-science)
 - [Choosing open science approaches](#choosing-open-science-approaches)
 - [Organizations supporting open science](#organizations-supporting-open-science)
-- [Facilitating open science](#facilitating-open-science)
 
 ## What is open science?
 
@@ -40,13 +39,5 @@ topic page for more information on how to think about this issue.
 You are not alone in wondering how to learn about and apply open science skills!
 Please view the 
 [Organizations supporting open science](/open-science/resources/organizations/)
-topic page for more information on which organizations support particular efforts.
-
-## Facilitating open science
-
-If you are involved in developing policies, training, or other support
-to encourage adoption of open science practices
-(or other types of culture change within scientific communities),
-the [Facilitating open science](/open-science-resources/facilitating/)
-topic page highlights information and resources you will find useful in 
-building community.
+topic page for more information on which organizations support training,
+advocacy, research, and more aspects of open science.
