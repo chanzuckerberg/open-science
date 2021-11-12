@@ -160,8 +160,8 @@ submitting a publication describing your software focuses more on the narrative 
 rather than code comprising the software. 
 The following sources provide more information about how and where to publish a peer-reviewed manuscript on your software:
 
-- https://www.software.ac.uk/which-journals-should-i-publish-my-software
 - [The Journal of Open Source Software](https://joss.theoj.org/)
+- [List of journals that accept submissions that are primarily about the software](https://www.software.ac.uk/which-journals-should-i-publish-my-software)
 
 ### User interfaces
 
