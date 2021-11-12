@@ -127,16 +127,25 @@ For more information on these issues,
 please see products from the [FORCE11 Software Citation Implementation Working Group](https://github.com/force11/force11-sciwg#group-products).
 
 **Make it clear to users how your software should be cited in scholarly work.**
-Some software includes instructions for citation included with the user interface.
-
-FIXME: github standard methods for citation
+Some developers include instructions for citation within the user interface,
+while other times the preferred citation may appear on in the GitHub repository's README 
+or on the software's documentation website.
+GitHub also allows for [standard `CITATION.cff` files](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files)
+that will automatically render in a variety of bibliographic formats.
 
 **Engage in peer review of your code.**
+Peer review of software is a separate process from the standard peer review process for scientific research (see below),
+and focuses more on the standards of the code itself (which is often not formally reviewed with standard publication review).
+The following organizations feature peer review mechanisms for software packages:
 
 - [Software Review from ROpenSci](https://ropensci.org/software-review/)
-- [pyOpenSci](https://www.pyopensci.org/)
+- [pyOpenSci](https://www.pyopensci.org/contributing-guide/intro.html)
 
 **Publish a manuscript about your software.**
+Unlike peer review of software (see above),
+submitting a publication describing your software focuses more on the narrative of the article to be published,
+rather than code comprising the software. 
+The following sources provide more information about how and where to publish a peer-reviewed manuscript on your software:
 
 - https://www.software.ac.uk/which-journals-should-i-publish-my-software
 - [The Journal of Open Source Software](https://joss.theoj.org/)
