@@ -8,11 +8,12 @@ layout: default
 > If you have questions or ideas for content to add,
 > please [file an issue](https://github.com/chanzuckerberg/open-science/issues).
 
+**Topics in this section:**
 - [What is open science?](#what-is-open-science)
 - [Why open science?](#why-open-science)
 - [Getting credit for open science](#getting-credit-for-open-science)
 - [Choosing open science approaches](#choosing-open-science-approaches)
-- [Organizations supporting open science](#organizations-supporting-open-science)
+- [Organizations and projects supporting open science](#organizations-and-projects-supporting-open-science)
 
 ## What is open science?
 
@@ -43,7 +44,7 @@ Please view the
 [Choosing open science approaches](/open-science/resources/choosing/)
 topic page for more information on how to think about this issue.
 
-## Organizations supporting open science
+## Organizations and projects supporting open science
 
 You are not alone in wondering how to learn about and apply open science skills!
 Please view the 
