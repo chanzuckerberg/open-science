@@ -90,9 +90,15 @@ open source projects:
 
 **Under construction**
 
+[Programming with Python: Debugging](https://swcarpentry.github.io/python-novice-inflammation/11-debugging/index.html)
+from Software Carpentry
+
 ### Testing and continuous integration
 
 **Under construction**
+
+[Testing Software](https://merely-useful.tech/py-rse/testing.html)
+from Research Software Engineering with Python
 
 ## Writing software for others to use
 
@@ -114,6 +120,9 @@ as well as the following subsections.
 ### Licensing
 
 **Under construction**
+
+[Include a license](https://merely-useful.tech/py-rse/teams.html#teams-license)
+from Research Software Engineering with Python
 
 ### Code citations
 
@@ -156,7 +165,7 @@ The following sources provide more information about how and where to publish a 
 
 [GUIs for research software: Why are they relevant?](https://zenodo.org/record/4722579#.YYnA79bMJ6E)
 
-Accessibility:
+Resources for accessibility:
 
 - [Chartability](https://chartability.fizz.studio/)
 - [HTML and accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML)
