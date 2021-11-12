@@ -115,7 +115,11 @@ as well as the following subsections.
 
 **Under construction**
 
-[Ten simple rules for documenting scientific software](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006561)
+- [Ten simple rules for documenting scientific software](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006561)
+- [The Types, Roles, and Practices of Documentation in Data Analytics Open Source Software Libraries: A Collaborative Ethnography of Documentation Work](https://stuartgeiger.com/articles/2018-05-28-cscw-documentation/)
+
+Please see [Tutorials and other user support on the Collaborative research software engineering projects page]
+for more information about developing more extensive and formally structured user documentation for software.
 
 ### Licensing
 

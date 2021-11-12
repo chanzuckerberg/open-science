@@ -15,8 +15,7 @@ layout: default
   - [Diverse, equitable, and inclusive communities](#diverse-equitable-and-inclusive-communities)
   - [Code of conduct](#code-of-conduct)
   - [Contribution guidelines](#contribution-guidelines)
-  - [Creating user documentation](#creating-user-documentation)
-  - [Short training courses](#short-training-courses)
+  - [Tutorials and other user support](#tutorials-and-other-user-support)
   - [Tracking project metrics](#tracking-project-metrics)
 
 This topic page provides support to open source software engineering projects developed by teams of researchers.
@@ -202,25 +201,20 @@ Examples of contribution guidelines include:
 
 - [The Carpentries](https://github.com/swcarpentry/python-novice-inflammation/blob/gh-pages/CONTRIBUTING.md)
 - [Tidyverse](https://www.tidyverse.org/contribute/)
-- [GitHub Pages Minimal theme](https://github.com/pages-themes/minimal/blob/master/docs/CONTRIBUTING.md)
+- [GitHub Pages Minimal theme](https://github.com/pages-themes/minimal/blob/master/docs/CONTRIBUTING.md) 
 
-### Creating user documentation
+### Tutorials and other user support
 
-FIXME
-link to documentation in code-development
-
-- [Ten Simple Rules for Providing a Scientific Web Resource](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1001126)
-- [Ten simple rules for collaborative lesson development](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005963)
-- [The Types, Roles, and Practices of Documentation in Data Analytics Open Source Software Libraries: A Collaborative Ethnography of Documentation Work](https://stuartgeiger.com/articles/2018-05-28-cscw-documentation/)
-
-### Short training courses
-
+Basic user documentation is described in the [Documentation section of the Code development page](/open-science/code/code-development#documentation).
+User support can also include a variety of tutorials and other types of training support.
 The following resources are useful starting points for anyone interested in 
 developing training materials associated with their open source projects:
 
 - [The Carpentries Curriculum Development Handbook](https://cdh.carpentries.org/)
 - [Ten Simple Rules for Developing a Short Bioinformatics Training Course](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002245)
 - [Ten simple rules for delivering live distance training in bioinformatics across the globe using webinars](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006419)
+- [Ten Simple Rules for Providing a Scientific Web Resource](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1001126)
+- [Ten simple rules for collaborative lesson development](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005963)
 
 ### Tracking project metrics
 
