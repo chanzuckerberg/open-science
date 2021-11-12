@@ -77,8 +77,8 @@ Most projects outline how you can contribute to their project in particular.
 The following resources include some general guidelines for contributing to other people's
 open source projects:
 
-- https://opensource.guide/how-to-contribute/
-- https://opensource.creativecommons.org/contributing-code/
+- [How to contribute](https://opensource.guide/how-to-contribute/)
+- [Contributing code](https://opensource.creativecommons.org/contributing-code/)
 
 ### Code architecture and design
 
