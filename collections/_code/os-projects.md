@@ -120,7 +120,7 @@ For an overview of working in a team for scientific projects,
 see [Strategies for Team Science Success](https://link.springer.com/book/10.1007/978-3-030-20992-6).
 
 For an example of public documentation about an open source project,
-view the [2i2c Team Compass](https://team-compass.2i2c.org/en/latest/)
+view the [2i2c Team Compass](https://team-compass.2i2c.org/en/latest/).
 
 ### Code review
 
@@ -128,7 +128,10 @@ view the [2i2c Team Compass](https://team-compass.2i2c.org/en/latest/)
 
 ## Community development
 
-FIXME
+The rest of the content on this page focuses on developing communities of researchers involved in your project,
+which includes both contributors to and users of your software.
+The following resources provide an overview of communities related to open source software,
+including ways to consider cultivating a community:
 
 - [CSCCE Community Profiles](https://www.cscce.org/resources/scientific-community-profiles/)
 - [Community starter kit](https://lab.github.com/githubtraining/community-starter-kit) from GitHub
@@ -136,23 +139,38 @@ FIXME
 
 ### Diverse, equitable, and inclusive communities
 
-FIXME
-Everything is about DEI
+An assumption for all resources presented here is that the communities are diverse,
+representing a wide variety of demographics among many different axes of variation,
+equitable, meaning everyone has the opportunity to participate,
+and inclusive, in that everyone feels welcome to participate.
+While this assumption is implicit for all sections of this informational website,
+the following topics explicitly discuss resources related to inclusive software and community development:
 
-- [CoC](#code-of-conduct)
+- [Code of Conduct](#code-of-conduct)
 - [Tracking project metrics](#tracking-project-metrics)
 - [Accessibility](/open-science/code/code-development/#user-interfaces)
 - [Organizations involved in DEI](/open-science/resources/organizations)
 
 ### Code of conduct
 
-FIXME
+A Code of Conduct (CoC) clearly identifies expectations of behavior associated with a project and/or event.
+In addition to stating what is (and is not) allowed,
+CoCs inform participants how to report violations of behavior,
+as well as identify the process associated with handling such reports.
 
-- Code of Conduct
-  - expectations for behavior
-  - reporting
-  - process for resolving
-- Code of Conduct Conversations in Open Source Software Projects on Github https://dl.acm.org/doi/10.1145/3449093
+The [Contributor Covenant](https://www.contributor-covenant.org/)
+is a CoC that has been adopted and applied by many open source projects.
+The [most recent version](https://www.contributor-covenant.org/version/2/1/code_of_conduct/)
+includes standard processes for enforcing CoCs.
+
+Additional examples of CoCs include:
+
+- [CZI Community Participation Guidelines](https://chanzuckerberg.com/ethics-policies/community-participation-guidelines/)
+- [R-Ladies Global Code of Conduct](https://rladies.org/code-of-conduct/)
+- [The Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
+
+For more information about how CoCs are used in open source,
+see [Code of Conduct Conversations in Open Source Software Projects on Github](https://dl.acm.org/doi/10.1145/3449093).
 
 ### Contribution guidelines
 
