@@ -4,33 +4,38 @@ category: code
 layout: default
 ---
 
-> **This section is currently under development!**
-> If you have questions or ideas for content to add,
-> please [file an issue](https://github.com/chanzuckerberg/open-science/issues).
-
-Developing software for research purposes encompasses a 
-broad range of activities,
-ranging from technical skills like version control
-to project and community management.
-Resources related to writing code include:
-
+**Topics in this section:**
 - [Code development](#code-development)
-  - [Version control with Git and GitHub](#version-control-with-git-and-github)
-- [Managing an open source project](#managing-an-open-source-project)
-  - [Community development](#community-development)
+- [Collaborative research software engineering projects](#collaborative-research-software-engineering-projects)
+
+Writing code and developing software for research purposes encompasses a 
+broad range of activities.
+This section highlights two main topics within that range:
+learning foundational technical skills like programming and version control,
+and managing software engineering projects with communities of contributors.
 
 ## Code development
 
-### Version control with Git and GitHub
+The [Code development](/open-science/code/code-development/)
+topic page provides foundational information for writing code and developing software.
+Subsections may be useful for both individuals learning to code,
+and people interested in maximizing the reusability of code.
+Some example subjects include:
 
-[GitHub Learning Lab](https://lab.github.com/) contains a large number of free tutorials
-for tasks relevant to writing and sharing research code, including:
+- Getting started with coding and using version control (Git/GitHub)
+- Using Git and GitHub for version
+- Contributing to someone else's open source project
+- Designing, writing and documenting robust, reusable software
+- Debugging, testing, and continuous integration
 
-- [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github)
-- Creating websites with [GitHub Pages](https://lab.github.com/githubtraining/github-pages)
+## Collaborative research software engineering projects
 
-## Managing an open source project
+The [Collaborative research software engineering projects](/open-science/code/os-projects/)
+topic page focuses on challenges that face scientific open source projects as they grow.
+Subsections may be useful to leaders and core team members of such projects,
+with example subjects including:
 
-### Community development
-
-- [Community starter kit](https://lab.github.com/githubtraining/community-starter-kit) from GitHub
+- Writing software management plans
+- Formalizing project governance and team management
+- Nurturing and supporting inclusive communities of users and contributors
+- Tracking metrics and giving credit to contributors
