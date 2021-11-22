@@ -15,7 +15,7 @@ layout: default
 - [Data reuse, ethics, and security](#data-reuse-ethics-and-security)
  
 This section provides guidance on improving data management to ease the process of sharing and maximize your research impact,
-and also considers options for where to publish your data (e.g., selcting repositories).
+and also considers options for where to publish your data (e.g., selecting repositories).
 
 ## Why publish data?
 
