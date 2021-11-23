@@ -11,6 +11,7 @@ layout: default
 - [Scientific community building and communication](#scientific-community-building-and-communication)
 - [Data management and sharing](#data-management-and-sharing)
 - [Research on open science](#research-on-open-science)
+- [Open science policy](#open-science-policy)
 
 This topic page focuses on organizations and projects supporting 
 open science through many perspectives, including
@@ -64,3 +65,9 @@ FIXME
 - [Open Source Software Research Team](https://opensourcesoftware.netlify.app/)
 - [Research on Research Institute](https://researchonresearch.org/)
 - [Center for Open Science](https://www.cos.io/)
+
+## Open science policy
+
+FIXME
+
+[Council of National Open Science Coordination](https://conosc.org/#our-mission)

@@ -4,16 +4,14 @@ category: resources
 layout: default
 ---
 
-> **This section is currently under development!**
-> If you have questions or ideas for content to add,
-> please [file an issue](https://github.com/chanzuckerberg/open-science/issues).
-
 **Topics in this section:**
 - [What is open science?](#what-is-open-science)
 - [Why open science?](#why-open-science)
 - [Getting credit for open science](#getting-credit-for-open-science)
 - [Choosing open science approaches](#choosing-open-science-approaches)
 - [Organizations and projects supporting open science](#organizations-and-projects-supporting-open-science)
+
+FIXME
 
 ## What is open science?
 

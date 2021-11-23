@@ -4,10 +4,6 @@ category: resources
 layout: default
 ---
 
-> **This section is currently under development!**
-> If you have questions or ideas for content to add,
-> please [file an issue](https://github.com/chanzuckerberg/open-science/issues).
-
 **Topics on this page:**
 - [Benefits for science](#benefits-for-science)
 - [Benedits for individual researchers](#benedits-for-individual-researchers)
