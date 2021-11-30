@@ -12,6 +12,7 @@ layout: default
 - [Data management and sharing](#data-management-and-sharing)
 - [Research on open science](#research-on-open-science)
 - [Open science policy](#open-science-policy)
+- [Fiscal sponsorship and management of organizations](#fiscal-sponsorship-and-management-of-organizations)
 
 This topic page focuses on organizations and projects supporting 
 open science through many perspectives, including
@@ -71,3 +72,8 @@ FIXME
 FIXME
 
 [Council of National Open Science Coordination](https://conosc.org/#our-mission)
+
+## Fiscal sponsorship and management of organizations
+
+- [Open Collective](https://opencollective.com/)
+- [Code for Science and Society](https://codeforscience.org/)
