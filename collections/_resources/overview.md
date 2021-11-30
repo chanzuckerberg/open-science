@@ -11,7 +11,11 @@ layout: default
 - [Choosing open science approaches](#choosing-open-science-approaches)
 - [Organizations and projects supporting open science](#organizations-and-projects-supporting-open-science)
 
-FIXME
+This section includes answers to many general questions about open science.
+The pages described below are intended for a variety of audiences,
+including both scientists and non-scientists,
+and may be useful for communicating the importance of open science approaches
+to colleagues, collaborators, or the general public.
 
 ## What is open science?
 
