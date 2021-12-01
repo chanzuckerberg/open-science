@@ -33,7 +33,7 @@ to see where we are currently dedicating our energy.
 ## Contributing to this project
 
 If you would like to request content or contribute code and/or information for us to share via this project,
-please see our [Contribution guidelines](/open-science/CONTRIBUTING).
+please see our [Contribution guidelines](https://chanzuckerberg.github.io/open-science/CONTRIBUTING/).
 
 ## Reporting security issues
 
