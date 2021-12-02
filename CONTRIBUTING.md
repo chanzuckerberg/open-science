@@ -135,6 +135,13 @@ For example:
 - About page: [`/open-science/about/`](/open-science/about/)
 - Data overview: [`/open-science/data_sharing/overview`](/open-science/data_sharing/overview)
 
+**Videos** can be linked as per the instructions above,
+or can be embedded on a page following general instructions [here](https://github.com/nathancy/jekyll-embed-video).
+The example file [`wistiaPlayer.html`](https://github.com/chanzuckerberg/open-science/blob/main/_includes/wistiaPlayer.html)
+can be used to demonstrate the approach.
+Place the following code on the page where the video should appear: 
+`{% include wistiaPlayer.html %}`.
+
 #### Submitting a PR for website content
 
 In most cases, you'll be able to create your PR via the GitHub web interface.
