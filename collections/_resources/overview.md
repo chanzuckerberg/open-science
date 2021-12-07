@@ -21,20 +21,20 @@ to colleagues, collaborators, or the general public.
 
 Open science can be practiced in many different ways.
 View our [What is open science?](/open-science/resources/what_open/)
-topic page for more information on the range of open science methods.
+topic page for more information on a range of open science methods.
 
 ## Why open science?
 
 If you are just beginning to explore open science practices,
 it can feel like a lot of work!
 The [Why open science?](/open-science/resources/what_open/)
-topic page will help you understand why this work is worth it,
+topic page will help you understand why this work is worth it:
 for yourself, the scientific community, and the world at large.
 
 ## Getting credit for open science
 
 Many of the open science approaches described on this site 
-relate to activities for specific projects.
+relate to practicing open science for specific projects.
 The [Getting credit for open science](/open-science/resources/credit)
 topic page helps you receive and document credit for engaging in
 open science activities.
@@ -42,14 +42,14 @@ open science activities.
 ## Choosing open science approaches
 
 Selecting open science methods appropriate for your particular needs can be challening.
-Please view the
+View the
 [Choosing open science approaches](/open-science/resources/choosing/)
 topic page for more information on how to think about this issue.
 
 ## Organizations and projects supporting open science
 
 You are not alone in wondering how to learn about and apply open science skills!
-Please view the 
+Visit the 
 [Organizations supporting open science](/open-science/resources/organizations/)
 topic page for more information on which organizations support training,
 advocacy, research, and more aspects of open science.
