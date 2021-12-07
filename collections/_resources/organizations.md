@@ -71,7 +71,8 @@ FIXME
 
 FIXME
 
-[Council of National Open Science Coordination](https://conosc.org/#our-mission)
+- [Council of National Open Science Coordination](https://conosc.org/#our-mission)
+- [Incentivising Collaborative and Open Research (ICOR)](https://incentivizingopen.org/)
 
 ## Fiscal sponsorship and management of organizations
 
