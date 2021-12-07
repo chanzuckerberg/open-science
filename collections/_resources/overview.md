@@ -41,10 +41,11 @@ open science activities.
 
 ## Choosing open science approaches
 
-Selecting open science methods appropriate for your particular needs can be challening.
+Selecting open science methods appropriate for your particular needs can be challenging.
 View the
 [Choosing open science approaches](/open-science/resources/choosing/)
-topic page for more information on how to think about this issue.
+topic page for more information on how to plan for open science as a researcher,
+and how to identify and develop policies related to open science.
 
 ## Organizations and projects supporting open science
 
