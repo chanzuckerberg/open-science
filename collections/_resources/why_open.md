@@ -6,7 +6,7 @@ layout: default
 
 **Topics on this page:**
 - [Benefits for science](#benefits-for-science)
-- [Benedits for individual researchers](#benedits-for-individual-researchers)
+- [Benefits for individual researchers](#benefits-for-individual-researchers)
 - [Motivating open science practices](#motivating-open-science-practices)
 
 FIXME
@@ -15,7 +15,7 @@ FIXME
 
 FIXME
 
-## Benedits for individual researchers
+## Benefits for individual researchers
 
 FIXME
 
