@@ -67,3 +67,6 @@ For general information about developing a new collaborative relationship for sc
 see [Ten Simple Rules for a Successful Collaboration](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030044).
 [Guidelines for Negotiating Scientific Collaboration](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.0030217) 
 includes additional information for discussing when and how research deliverables will be shared.
+For projects involving computationally-intensive components,
+[Ten simple rules for providing effective bioinformatics research support](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007531)
+may also provide valuable context for differentiating duties among collaborators.
