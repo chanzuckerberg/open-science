@@ -11,18 +11,20 @@ layout: default
 - [Scientific community building and communication](#scientific-community-building-and-communication)
 - [Data management and sharing](#data-management-and-sharing)
 - [Research on open science](#research-on-open-science)
-- [Open science policy](#open-science-policy)
+- [Open science policy and leadership](#open-science-policy-and-leadership)
 - [Fiscal sponsorship and management of organizations](#fiscal-sponsorship-and-management-of-organizations)
 
 This topic page focuses on organizations and projects supporting 
 open science through many perspectives, including
 training, advocacy, and research.
+Relevant organizations are also mentioned in the specific topic pages in this website related to their work.
 
 ## Open science training 
 
-FIXME
+The following organizations provide build capacity for open science by developing training materials,
+teaching workshops, mentoring instructors, training cohorts, and otherwise supporting research communities:
 
-- [Reproducibility for Everyone](https://www.repro4everyone.org/) (R4E)
+- [Reproducibility for Everyone (R4E)](https://www.repro4everyone.org/)
 - [The Turing Way](https://the-turing-way.netlify.app/welcome)
 - [Open Life Sciences](https://openlifesci.org/)
 - [Openscapes](https://www.openscapes.org/)
@@ -31,14 +33,17 @@ FIXME
 
 ## Developing software
 
-FIXME
+These organizations support research software engineering and the individuals who
+engage in open source scientific software development:
 
 - [Research Software Engineers](https://researchsoftware.org/)
 - [Software Sustainability Institute](https://www.software.ac.uk/)
+- [Research Software Alliance (ReSA)](https://www.researchsoft.org/)
 
 ## Open science in targeted populations
 
-FIXME
+The organizations listed below specifically support open science related activities for
+demographics that are under-represented and/or marginalized in science:
 
 - [MetaDocencia](https://www.metadocencia.org/en/)
 - [Indigidata](https://indigidata.nativebio.org/)
@@ -46,7 +51,7 @@ FIXME
 
 ## Scientific community building and communication
 
-FIXME
+These organizations represent support for individuals working to train and/or create cooperative communities of practice related to open science:
 
 - [Life Science Trainers](https://lifescitrainers.org/)
 - [Center for Scientific Collaboration and Community Engagement (CSCCE)](https://www.cscce.org/)
@@ -54,27 +59,32 @@ FIXME
 
 ## Data management and sharing
 
-FIXME
+The following groups support strategy and development of best practices regarding data management,
+sharing, and training:
 
 - [Research Data Alliance](https://www.rd-alliance.org/)
 - [Academic Data Science Alliance](https://academicdatascience.org/)
 
 ## Research on open science
 
-FIXME
+These groups support research projects on open science:
 
-- [Open Source Software Research Team](https://opensourcesoftware.netlify.app/)
 - [Research on Research Institute](https://researchonresearch.org/)
+- [Open Source Software Research Team](https://opensourcesoftware.netlify.app/)
 - [Center for Open Science](https://www.cos.io/)
 
-## Open science policy
+## Open science policy and leadership
 
-FIXME
+The following organizations work at a high level,
+sharing information and advocating for consolidated efforts in open science:
 
 - [Council of National Open Science Coordination](https://conosc.org/#our-mission)
 - [Incentivising Collaborative and Open Research (ICOR)](https://incentivizingopen.org/)
+- [Open Research Funders Group (ORFG)](https://www.orfg.org/)
 
 ## Fiscal sponsorship and management of organizations
+
+These organizations provide guidance and infrastructure for other open source groups:
 
 - [Open Collective](https://opencollective.com/)
 - [Code for Science and Society](https://codeforscience.org/)
