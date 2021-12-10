@@ -7,7 +7,7 @@ layout: default
 **Topics on this page:**
 - [Open science training](#open-science-training)
 - [Developing software](#developing-software)
-- [Open science in targeted populations](#open-science-in-targeted-populations)
+- [DEI in open science](#dei-in-open-science)
 - [Scientific community building and communication](#scientific-community-building-and-communication)
 - [Data management and sharing](#data-management-and-sharing)
 - [Research on open science](#research-on-open-science)
@@ -40,14 +40,15 @@ engage in open source scientific software development:
 - [Software Sustainability Institute](https://www.software.ac.uk/)
 - [Research Software Alliance (ReSA)](https://www.researchsoft.org/)
 
-## Open science in targeted populations
+## DEI in open science
 
 The organizations listed below specifically support open science related activities for
 demographics that are under-represented and/or marginalized in science:
 
-- [MetaDocencia](https://www.metadocencia.org/en/)
-- [Indigidata](https://indigidata.nativebio.org/)
-- [Global Indigenous Data Alliance](https://www.gida-global.org/)
+- [MetaDocencia](https://www.metadocencia.org/en/): training in best practices (including for technical and computational topics) for Spanish-speaking teachers
+- [Indigidata](https://indigidata.nativebio.org/): "training and engaging tribal undergraduate and graduate students in informatics"
+- [Global Indigenous Data Alliance](https://www.gida-global.org/): "network of Indigenous researchers, data practitioners, and policy activists advocating for Indigenous Data Sovereignty within their nation-states and at an international level"
+- [Open Computational Inclusion & Digital Equity Resource](https://www.opencider.org/): "knowledge space where we highlight communities and resources related to several aspects under the umbrella of Open Data from a global perspective with a strong focus on Low-Middle Income countries (LMICs)"
 
 ## Scientific community building and communication
 
@@ -56,6 +57,7 @@ These organizations represent support for individuals working to train and/or cr
 - [Life Science Trainers](https://lifescitrainers.org/)
 - [Center for Scientific Collaboration and Community Engagement (CSCCE)](https://www.cscce.org/)
 - [The Future of Research Communication and e-Scholarship (FORCE11)](https://www.force11.org/)
+- [ReproducibiliTea](https://reproducibilitea.org/)
 
 ## Data management and sharing
 
