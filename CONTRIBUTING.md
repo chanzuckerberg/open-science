@@ -148,7 +148,7 @@ In most cases, you'll be able to create your PR via the GitHub web interface.
 [the process for proposing changes via a pull request](https://guides.github.com/introduction/flow/) is:
 
 1. [Fork](https://github.com/chanzuckerberg/open-science/fork) and clone the project
-2. Create a new [branch](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository).
+2. Create a new [branch](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository#creating-a-branch).
 3. Alter the content on the page using the [editor in the web interface](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files).
 4. [Submit a pull request](https://github.com/chanzuckerberg/open-science/compare) to our repository from your fork's branch containing the changes.
 
