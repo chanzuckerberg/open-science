@@ -27,7 +27,10 @@ so other biomedical researchers can improve access to research deliverables as w
 > Please report unacceptable behavior to <opensource@chanzuckerberg.com>.
 
 These contribution guidelines assume you have a GitHub account
-and are able to contribute to the project via the project's [GitHub repository](https://github.com/chanzuckerberg/open-science).
+and are able to contribute via the project's [GitHub repository](https://github.com/chanzuckerberg/open-science).
+If you are not familiar with GitHub,
+you may find it useful to read through GitHub's [Quickstart guide](https://docs.github.com/en/get-started/quickstart/hello-world).
+
 In the spirit of open science,
 this project is developed using the same best practices we recommend for open source software projects.
 If you are new to GitHub,
@@ -139,20 +142,28 @@ For example:
 or can be embedded on a page following general instructions [here](https://github.com/nathancy/jekyll-embed-video).
 The example file [`wistiaPlayer.html`](https://github.com/chanzuckerberg/open-science/blob/main/_includes/wistiaPlayer.html)
 can be used to demonstrate the approach.
-Place the following code on the page where the video should appear: 
-`{% include wistiaPlayer.html %}`.
+On the page where the video should appear,
+place a single line of code: `include wistiaPlayer.html`.
+This code should be formatted in Liquid syntax as a [tag](https://shopify.github.io/liquid/basics/introduction/#tags)
+with curly brace percentage delimiters.
 
 #### Submitting a PR for website content
 
 In most cases, you'll be able to create your PR via the GitHub web interface.
 [the process for proposing changes via a pull request](https://guides.github.com/introduction/flow/) is:
 
-1. [Fork](https://github.com/chanzuckerberg/open-science/fork) and clone the project
+1. [Fork](https://github.com/chanzuckerberg/open-science/fork) the project
 2. Create a new [branch](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository#creating-a-branch).
 3. Alter the content on the page using the [editor in the web interface](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files).
 4. [Submit a pull request](https://github.com/chanzuckerberg/open-science/compare) to our repository from your fork's branch containing the changes.
 
-Each pull request should change *one* thing. Because this is a website, rather than a code development project, it can sometimes be hard to identify what represents a single thing. In general, a PR for this project will affect only one section of the website (e.g., "Software and Code"). It's ok to submit more than one pull request!
+Each pull request should change *one* thing,
+where a thing represents an easily described idea. 
+Because this is a website, rather than a code development project, 
+it can sometimes be hard to identify what represents a single thing. 
+In general, a PR for this project will affect only one section of the website 
+(e.g., "Software and Code"). 
+It's ok to submit more than one pull request!
 
 ### PRs for web styling
 
