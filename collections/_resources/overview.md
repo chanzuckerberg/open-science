@@ -7,7 +7,7 @@ layout: default
 **Topics in this section:**
 - [What is open science?](#what-is-open-science)
 - [Why open science?](#why-open-science)
-- [Getting credit for open science](#getting-credit-for-open-science)
+- [Credit for open science](#credit-for-open-science)
 - [Choosing open science approaches](#choosing-open-science-approaches)
 - [Organizations and projects supporting open science](#organizations-and-projects-supporting-open-science)
 
@@ -31,11 +31,11 @@ The [Why open science?](/open-science/resources/what_open/)
 topic page will help you understand why this work is worth it:
 for yourself, the scientific community, and the world at large.
 
-## Getting credit for open science
+## Credit for open science
 
 Many of the open science approaches described on this site 
 relate to practicing open science for specific projects.
-The [Getting credit for open science](/open-science/resources/credit)
+The [Credit for open science](/open-science/resources/credit)
 topic page helps you receive and document credit for engaging in
 open science activities.
 

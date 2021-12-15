@@ -11,8 +11,9 @@ layout: default
 - [Scientific community building and communication](#scientific-community-building-and-communication)
 - [Data management and sharing](#data-management-and-sharing)
 - [Research on open science](#research-on-open-science)
-- [Open science policy and leadership](#open-science-policy-and-leadership)
-- [Fiscal sponsorship and management of organizations](#fiscal-sponsorship-and-management-of-organizations)
+- [Open science policy, advocacy, and coordination](#open-science-policy-advocacy-and-coordination)
+- [Open science metrics and databases](#open-science-metrics-and-databases)
+- [Fiscal sponsorship, fundraising, and infrastructure for open science organizations](#fiscal-sponsorship-fundraising-and-infrastructure-for-open-science-organizations)
 
 This topic page focuses on organizations and projects supporting 
 open science through many perspectives, including
@@ -75,7 +76,7 @@ These groups support research projects on open science:
 - [Open Source Software Research Team](https://opensourcesoftware.netlify.app/)
 - [Center for Open Science](https://www.cos.io/)
 
-## Open science policy and leadership
+## Open science policy, advocacy, and coordination
 
 The following organizations work at a high level,
 sharing information and advocating for consolidated efforts in open science:
@@ -84,9 +85,14 @@ sharing information and advocating for consolidated efforts in open science:
 - [Incentivising Collaborative and Open Research (ICOR)](https://incentivizingopen.org/)
 - [Open Research Funders Group (ORFG)](https://www.orfg.org/)
 
-## Fiscal sponsorship and management of organizations
+## Open science metrics and databases
+
+- [OurResearch](https://ourresearch.org/)
+
+## Fiscal sponsorship, fundraising, and infrastructure for open science organizations
 
 These organizations provide guidance and infrastructure for other open source groups:
 
 - [Open Collective](https://opencollective.com/)
 - [Code for Science and Society](https://codeforscience.org/)
+- [Global Sustainability Coalition for Open Science Services (SCOSS)](https://scoss.org/)
