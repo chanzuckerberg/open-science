@@ -2,8 +2,10 @@ title: Open Science Resources
 logo: /images/czi-open-science.png
 description: open science approaches for biomedical research
 theme: jekyll-theme-minimal
+url: "https://chanzuckerberg.github.io/open-science/"
 plugins:
   - jekyll-analytics
+  - jekyll-sitemap
 
 show_sidebar: TRUE
 permalink: pretty
