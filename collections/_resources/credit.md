@@ -60,9 +60,21 @@ that can help you access altmetric data.
 [ImpactStory](https://profiles.impactstory.org/) allows you to create a profile to showcase altmetrics
 for your own research products.
 
+Listing your ORCID iD and altmetrics on your webpage, CV, and/or other online profiles
+can help normalize these practices.
+You can also highlight the benefits (and costs) of open science when communicating your
+career and scientific achievements.
+
 ## Supporting other researchers' open science activities
 
-FIXME
+In addition to sharing information about your own open science activities,
+you can also support open science activities in which other researchers engage,
+or specific open science practices you'd like to see used more widely.
+For example:
 
-- data reuse and data citations
-- software citations
+- When reviewing others’ work, acknowledge attempts to apply open science methods and provide recommendations to improve these practices.
+- When someone else mentions a resource, ask about its access and usage restrictions.
+- Publicly acknowledge contributions to open science projects whenever possible.
+- Ensure you are citing (and otherwise attributing credit) for others' open science research products, including data and software citations. Only mentioning the name of a database or software is insufficient for the original researchers to track its usage.
+
+These ideas are partially adapted from Table 1 in ["Be the change you seek in science"](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-019-0647-3).
