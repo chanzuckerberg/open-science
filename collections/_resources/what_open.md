@@ -15,6 +15,7 @@ This page is a great place to start if you are looking for general information a
 The following resources provide overviews of open science from multiple perspectives:
 
 - [What is Open Science? Introduction](https://www.fosteropenscience.eu/content/what-open-science-introduction): This article from [FOSTER](https://www.fosteropenscience.eu/) includes both written descriptions about open science and diagrams illustrating how open science concepts relate to each other.
+- [Easing Into Open Science: A Guide for Graduate Students and Their Advisors](https://online.ucpress.edu/collabra/article/7/1/18684/115927/Easing-Into-Open-Science-A-Guide-for-Graduate): This article from University of California Press is primarily intended for psychology students, but has general recommendations useful for anyone getting started in open science. 
 - [Guide for Reproducible Research](https://the-turing-way.netlify.app/reproducible-research/open.html#): This resource from [The Turing Way](https://the-turing-way.netlify.app/welcome.html) provides an overview of both concepts and tools involved in open science, primarily from the perspective of a researcher.
 - [Open Science Training Handbook](https://open-science-training-handbook.gitbook.io/book/): This resource includes guidelines and information for individuals interested in teaching and/or advocating for open science methods.
 
