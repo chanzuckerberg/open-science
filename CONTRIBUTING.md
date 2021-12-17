@@ -132,11 +132,25 @@ include a relative path to the image file:
 `![Description of image](../../images/image.png)`
 
 **Links** to other locations in the site should be prefaced with `/open-science/`
-and generally reference the location and filename of the markdown file containing the content.
+and reference the location and filename of the markdown file containing the content.
+Prepending the repository name is necessary because we render the site using GitHub Pages'
+automated backend and the folder name (repository) 
+is required to disambiguate from other websites rendered in the same organization.
 For example:
 
 - About page: [`/open-science/about/`](/open-science/about/)
-- Data overview: [`/open-science/data_sharing/overview`](/open-science/data_sharing/overview)
+- Data overview: [`/open-science/data_sharing/overview/`](/open-science/data_sharing/overview)
+
+The trailing slash at the end of the path is optional.
+
+It's also possible to use Jekyll's site variables to render links:
+
+- About page: [`{{ site.url }}{{ site.baseurl }}/about/`]({{ site.url }}{{ site.baseurl }}/protocols/overview/)
+- Data overview: [`{{ site.url }}{{ site.baseurl }}/data_sharing/overview/`]({{ site.url }}{{ site.baseurl }}/data_sharing/overview/)
+
+We have chosen to use the more straightforward method of prepending with the repository name (`open-science`).
+For more information on formatting links, 
+we recommend [this article](https://mademistakes.com/mastering-jekyll/site-url-baseurl/).
 
 **Videos** can be linked as per the instructions above,
 or can be embedded on a page following general instructions [here](https://github.com/nathancy/jekyll-embed-video).
