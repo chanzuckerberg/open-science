@@ -1,32 +1,15 @@
 title: Open Science Resources
 logo: /images/czi-open-science.png
-description: open science approaches for biomedical research
-theme: jekyll-theme-minimal
-plugins:
-  - jekyll-analytics
-
-show_sidebar: TRUE
-permalink: pretty
+description: open science for biomedical research
+url: https://chanzuckerberg.github.io
 baseurl: /open-science
 
-collections_dir: collections
+theme: jekyll-theme-minimal
+show_sidebar: TRUE
 
-collections:
-  protocols:
-    output: true
-    permalink: /:collection/:path/
-  data_sharing:
-    output: true
-    permalink: /:collection/:path/
-  code:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  resources:
-    output: true
-    permalink: /:collection/:path/
+plugins:
+  - jekyll-analytics
+  - jekyll-sitemap
 
 Plausible:
     domain: 'chanzuckerberg.github.io/open-science'   # The domain configured in plausible

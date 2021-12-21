@@ -45,6 +45,8 @@ please responsibly disclose by contacting us at <security@chanzuckerberg.com>.
 This website is created using [jekyll](https://jekyllrb.com/)
 and the [minimal theme](https://github.com/pages-themes/minimal),
 with hosting through [GitHub Pages](https://pages.github.com/).
+The website search function uses [lunr.js](https://lunrjs.com/),
+implemented as described by [Jekyll Codex](https://jekyllcodex.org/without-plugin/search-lunr/#)
 
 In addition to supporting the backbone of this website,
 many thanks to the [minimal theme](https://github.com/pages-themes/minimal)
