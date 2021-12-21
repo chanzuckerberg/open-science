@@ -148,7 +148,11 @@ It's also possible to use Jekyll's site variables to render links:
 - About page: [`{{ site.url }}{{ site.baseurl }}/about/`]({{ site.url }}{{ site.baseurl }}/protocols/overview/)
 - Data overview: [`{{ site.url }}{{ site.baseurl }}/data_sharing/overview/`]({{ site.url }}{{ site.baseurl }}/data_sharing/overview/)
 
-We have chosen to use the more straightforward method of prepending with the repository name (`open-science`).
+If you are building the site locally,
+you'll need to restart to the server to see changes using these tags take effect
+(even if you have enabled auto-regeneration).
+Given this complexity,
+we have chosen to generally use the more straightforward method of prepending with the repository name (`open-science`).
 For more information on formatting links, 
 we recommend [this article](https://mademistakes.com/mastering-jekyll/site-url-baseurl/).
 
