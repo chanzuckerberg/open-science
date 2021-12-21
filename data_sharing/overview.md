@@ -161,4 +161,4 @@ including data ethics and privacy/security:
 - [Six tips for data sharing in the age of the coronavirus](https://www.nature.com/articles/d41586-020-01516-0)
 - [Ten simple rules for responsible big data research](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005399)
 - [Ten Simple Rules to Enable Multi-site Collaborations through Data Sharing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005278)
-[Ten Simple Rules for Developing Public Biological Databases](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005128)
+- [Ten Simple Rules for Developing Public Biological Databases](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005128)
