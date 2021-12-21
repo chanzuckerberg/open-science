@@ -83,8 +83,7 @@ We accept [pull requests (PRs)](https://docs.github.com/en/github/collaborating-
 All content for this website can be edited via markdown (`.md`)
 files representing each of the pages in the site.
 
-Most content related to open science is found in the `collections/` folder of the repository.
-The collections include:
+Most content related to open science is found in the following sections:
 
 - Protocols
 - Software and Code
@@ -92,14 +91,17 @@ The collections include:
 - Preprints and Publications
 - Resources
 
-Each collection is represented by:
+Each section is represented by:
 
-- subdirectory with the name prefaced in an underscore (e.g., `collections/_code/`)
-- an overview page (`overview.md`)
-- additional markdown files representing pages within the category
+- subdirectory labeled with the section name (e.g., `code/`); note that "Data" is represented by `data_sharing/` to avoid conflicts with Jekyll's assumptions about `data/`
+- an overview page, `overview.md`, that describes all topics within the section and includes a table of contents with links to all topics
+- additional markdown files representing topic pages within the section; these are created when the content for a topic becomes too lengthy to include in the main overview page
 
-If you would like to add additional pages to a collection,
+If you would like to add additional pages to a section,
 use one of the existing files as a template and save it in the appropriate subdirectory.
+Also be sure to include the new topic on the overview page and add the new topic to the table of contents.
+The table of contents can be manually created,
+or automatically added using [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) in VSCode.
 
 Other `.md` files from the [repository](https://github.com/chanzuckerberg/open-science/)
 rendered as content in the site are located at the top level of the directory.
@@ -126,8 +128,7 @@ is a good place to look for a quick reference on markdown formatting.
 **Images** can be added using standard Markdown syntax.
 If you are including an image file,
 please format it as `png` or `jpg` and place it in `images/`.
-If embedding a figure in a `collections` page,
-include a relative path to the image file:
+Include a relative path to the image file where it should appear in the markdown file:
 
 `![Description of image](../../images/image.png)`
 
@@ -199,7 +200,7 @@ The main files involving site layout, navigation, and styling include:
 
 - `_layouts/default.html`: dictates arrangement and appearance of all pages
 - `_includes/head-custom.html`: proliferates tracking for web analytics
-- `_config.yml`: configures theme, collections, and web analytics
+- `_config.yml`: configures theme, pages, and web analytics
 
 If you would like to make changes to the web styling,
 please preview your changes by building the site locally before submitting a pull request.
