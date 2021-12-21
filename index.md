@@ -20,8 +20,8 @@ examples of the general questions we handle when applying open science approache
 If you are looking for general information about open science,
 we recommend viewing the [Resources section](#resources) first.
 
-> Can't find what you're looking for?
-> Check out our [Search page](/open-science/search/).
+> **Can't find what you're looking for?
+> Check out our [Search page](/open-science/search/).**
 
 ## [Protocols](/open-science/protocols/overview/)
 
