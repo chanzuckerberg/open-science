@@ -147,7 +147,7 @@ the following topics explicitly discuss resources related to inclusive software 
 
 - [Code of Conduct](#code-of-conduct)
 - [Tracking project metrics](#tracking-project-metrics)
-- [Accessibility](/open-science/code/code-development/#user-interfaces)
+- [Accessibility](/open-science/code/code-development#user-interfaces)
 - [Organizations involved in DEI](/open-science/resources/organizations)
 
 ### Code of conduct
