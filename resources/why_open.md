@@ -12,7 +12,7 @@ layout: default
 This page collects information and articles about how open science benefits both science and individual researchers.
 
 For more information about what research practices are involved in open science,
-see the [What is open science?](/open-science/resources/what_open/) topic page.
+see the [What is open science?](/open-science/resources/what_open) topic page.
 
 ## Benefits for science
 
@@ -29,7 +29,7 @@ benefits from open science:
 provides an overview of how researchers can use open science to enhance their careers.
 
 For more information on how researchers can maximize the credit they and their peers receive for implementing open science practices,
-see the [Getting credit for open science](/open-science/resources/credit/) topic page.
+see the [Getting credit for open science](/open-science/resources/credit) topic page.
 
 ## Motivating open science practices
 

@@ -28,7 +28,7 @@ for open science approaches,
 they may support or provide access to resources that can make your open science endeavors easier to enact.
 
 > If you are part of a project receiving funding from CZI,
-> please see [our CZI grantees page](/open-science/czi-grantees/)
+> please see [our CZI grantees page](/open-science/czi-grantees)
 > for more information about expectations for open science methods
 > as well as resources available to you.
 
@@ -42,10 +42,10 @@ please see the following:
 - Universities: [University of California](https://osc.universityofcalifornia.edu/for-authors/),
 [Harvard University](https://osc.hul.harvard.edu/policies/)
 
-Please also see the sections of this website for [protocols](/open-science/protocols/overview/),
-[software and code](/open-science/code/overview/),
-[data](/open-science/data_sharing/overview/),
-and [preprints and publications](/open-science/publications/overview/)
+Please also see the sections of this website for [protocols](/open-science/protocols/overview),
+[software and code](/open-science/code/overview),
+[data](/open-science/data_sharing/overview),
+and [preprints and publications](/open-science/publications/overview)
 for more examples of best practices related to sharing each of those research outputs.
 
 ## Planning ahead for open science

@@ -19,7 +19,7 @@ The following resources provide overviews of open science from multiple perspect
 - [Guide for Reproducible Research](https://the-turing-way.netlify.app/reproducible-research/open.html#): This resource from [The Turing Way](https://the-turing-way.netlify.app/welcome.html) provides an overview of both concepts and tools involved in open science, primarily from the perspective of a researcher.
 - [Open Science Training Handbook](https://open-science-training-handbook.gitbook.io/book/): This resource includes guidelines and information for individuals interested in teaching and/or advocating for open science methods.
 
-The [Organizations page in the Resources section](/open-science/resources/organizations/)
+The [Organizations page in the Resources section](/open-science/resources/organizations)
 also includes links to groups involved in open science training, advocacy, research, and more.
 
 ## Terminology
