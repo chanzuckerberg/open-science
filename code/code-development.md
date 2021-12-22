@@ -44,7 +44,7 @@ and compares some of the most common programming languages:
 [Ten simple rules for biologists learning to program](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005871).
 
 For tutorials that will teach you to code,
-please see the [Resources section](/open-science/resources/)
+please see the [Resources section](/open-science/resources)
 for organizations involved in training.
 
 ### Version control with Git and GitHub

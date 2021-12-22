@@ -139,17 +139,14 @@ automated backend and the folder name (repository)
 is required to disambiguate from other websites rendered in the same organization.
 For example:
 
-- About page: [`/open-science/about/`](/open-science/about/)
-- Data overview: [`/open-science/data_sharing/overview/`](/open-science/data_sharing/overview)
+- About page: `/open-science/about`
+- Data overview: `/open-science/data_sharing/overview`
 
 The trailing slash at the end of the path is optional.
 
-It's also possible to use Jekyll's site variables to render links:
-
-- About page: [`{{ site.url }}{{ site.baseurl }}/about/`]({{ site.url }}{{ site.baseurl }}/protocols/overview/)
-- Data overview: [`{{ site.url }}{{ site.baseurl }}/data_sharing/overview/`]({{ site.url }}{{ site.baseurl }}/data_sharing/overview/)
-
-If you are building the site locally,
+It's also possible to use Jekyll's site variables (`site.url` and `site.baseurl`)
+to render links.
+However, if you are building the site locally,
 you'll need to restart to the server to see changes using these tags take effect
 (even if you have enabled auto-regeneration).
 Given this complexity,

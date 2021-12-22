@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 Thank you for submitting an issue!
-Please review our [Contribution guidelines](https://chanzuckerberg.github.io/open-science/CONTRIBUTING/)
+Please review our [Contribution guidelines](https://chanzuckerberg.github.io/open-science/CONTRIBUTING)
 to ensure you are following the processes and norms we've set up for this project.
 
 You are welcome to delete this introductory text prior to submitting your issue.

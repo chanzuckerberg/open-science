@@ -16,7 +16,7 @@ and managing software engineering projects with communities of contributors.
 
 ## Code development
 
-The [Code development](/open-science/code/code-development/)
+The [Code development](/open-science/code/code-development)
 topic page provides foundational information for writing code and developing software.
 Subsections may be useful for both individuals learning to code,
 and people interested in maximizing the reusability of code.
@@ -30,7 +30,7 @@ Some example subjects include:
 
 ## Collaborative research software engineering projects
 
-The [Collaborative research software engineering projects](/open-science/code/os-projects/)
+The [Collaborative research software engineering projects](/open-science/code/os-projects)
 topic page focuses on challenges that face scientific open source projects as they grow.
 Subsections may be useful to leaders and core team members of such projects,
 with example subjects including:

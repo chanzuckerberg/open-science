@@ -149,7 +149,7 @@ The table below highlights data repositories that have been recommended by biome
 ### Publishing data with Dryad
 
 Dryad is a repository that accepts research data of any type and format.
-Please view [the Dryad topic page](/open-science/data_sharing/data_dryad/)
+Please view [the Dryad topic page](/open-science/data_sharing/data_dryad)
 for more information and examples of data submissions.
 
 ## Data reuse, ethics, and security
