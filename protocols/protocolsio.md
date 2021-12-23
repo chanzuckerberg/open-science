@@ -16,22 +16,27 @@ This platform is free for academic users to publish and share protocols publicly
 
 ## Benefits of protocols.io
 
-FIXME https://www.ed.ac.uk/information-services/research-support/research-data-service/during/open-research-tools/protocols
+Publishing your methods through protocols.io provides the following benefits:
 
+- digitized protocols have a dedicated space that is persistent through time
+- collaborators and new lab members can access protocols easily 
+- existing protocols can be updated, annotated, and altered, allowing them to be continually improved, while the previous versions remain available and accessible
 
 ## Types of protocols
 
-FIXME https://www.protocols.io/what-is-protocol
+In general, a protocol is defined as a formal set of instructions
+describing the methodology and organization of a research project.
+protocols.io [defines multiple types of protocols](https://www.protocols.io/what-is-protocol),
+including operational procedures, safety checklists, and computational workflows.
 
-Experimental protocols shared in [protocols.io](https://www.protocols.io/)
-can also include computational pipelines and analytical workflows
-(but see the [Software and code](/open-science/code/overview) section 
-for more information on resources for reproducibility of computational methods).
 Publishing computational methods in protocols.io is extremely powerful 
 when a new data generation system is being documented,
 as it unites the data collection and analysis approaches.
 An example of this approach is this protocol from the Human Cell Atlas Method Development Community:
 [MARS-seq2.0: an experimental and analytical pipeline for indexed sorting combined with single-cell RNA sequencing](https://www.protocols.io/view/mars-seq2-0-an-experimental-and-analytical-pipelin-7hkhj4w).
+
+> See the [Software and code](/open-science/code/overview) section
+> of this website for more information on resources for reproducibility of computational methods.
 
 ## Method development communities
 
