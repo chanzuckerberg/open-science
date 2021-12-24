@@ -4,14 +4,19 @@ category: publications
 layout: default
 ---
 
-> **This section is currently under development!**
-> If you have questions or ideas for content to add,
-> please [file an issue](https://github.com/chanzuckerberg/open-science/issues).
-
 - [Preprints](#preprints)
 - [Open access to publications](#open-access-to-publications)
 
+Peer reviewed publications are a cornerstone of modern scientific research,
+providing the foundation on which other research is designed and conducted.
+This sections describes open science practices related to peer-reviewed publications,
+and provides solutions for ensuring the most rapid and accessible publication for such work possible.
+
 ## Preprints
+
+Biomedical publications are most often published as preprints in 
+[bioRxiv](https://www.biorxiv.org/) or
+[medRxiv](https://www.medrxiv.org/).
 
 [ASAPbio](https://asapbio.org/): scientist-driven non-profit organization promoting transparency and innovation in life science communication
 
