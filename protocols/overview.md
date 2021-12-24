@@ -27,8 +27,25 @@ and improves the capacity of other researchers to reproduce your results.
 
 ## Sharing reagents and physical resources
 
+In addition to providing information about experimental methods,
+specific reagents, equipment, or other resources may be necessary to reproduce results.
+When viewed through the lens of open science,
+this means that such materials that may be reasonably requested by others 
+are available without restrictions upon publication of the work.
+For more information on accessibility of materials, please see 
+[this article from PLOS](https://theplosblog.plos.org/2019/05/depositing-and-reporting-of-reagents-accelerating-open-and-reproducible-science/).
+
 Examples of physical reagents and other resources that can be shared include:
 - cell lines
 - plasmids/vectors
 - animal models
 - antibodies
+- biomaterials and other specialized reagents used in laboratory experiments
+- diagrams and instructions for custom lab equipment and devices
+
+While there are some organizations providing general support for sharing such resources,
+like [Addgene](https://www.addgene.org/) for plasmids,
+there are many smaller groups,
+sometimes sponsored by research centers or focusing on specific fields of research,
+that also supply resources.
+
