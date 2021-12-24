@@ -14,15 +14,9 @@ and provides solutions for ensuring the most rapid and accessible publication fo
 
 ## Preprints
 
-Biomedical publications are most often published as preprints in 
-[bioRxiv](https://www.biorxiv.org/) or
-[medRxiv](https://www.medrxiv.org/).
-
-[ASAPbio](https://asapbio.org/): scientist-driven non-profit organization promoting transparency and innovation in life science communication
-
-[FAQs about preprints](https://asapbio.org/preprint-info/preprint-faq#general)
-
-[Public feedback on preprints](https://asapbio.org/public-preprint-feedback-faq)
+The [Preprints topic page](/open-science/publications/preprints)
+provides an overview of when and how preprints are published,
+and includes answers to frequently asked questions about the process.
 
 ## Open access to publications
 
