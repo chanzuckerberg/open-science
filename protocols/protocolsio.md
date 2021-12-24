@@ -5,7 +5,7 @@ layout: default
 ---
 
 **Topics on this page:**
-- [Benefits of protocols.io](#benefits-of-protocolsio)
+- [Why publish through protocols.io?](#why-publish-through-protocolsio)
 - [Types of protocols](#types-of-protocols)
 - [Method development communities](#method-development-communities)
 
@@ -14,7 +14,7 @@ one existing solution is [protocols.io](https://www.protocols.io/),
 a platform for developing and sharing reproducible methods.
 This platform is free for academic users to publish and share protocols publicly.
 
-## Benefits of protocols.io
+## Why publish through protocols.io?
 
 Publishing your methods through protocols.io provides the following benefits:
 
