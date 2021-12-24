@@ -20,7 +20,6 @@ and includes answers to frequently asked questions about the process.
 
 ## Open access to publications
 
-[NIH Public Access Policy](https://publicaccess.nih.gov/)
-
-[Sherpa Romeo](https://v2.sherpa.ac.uk/romeo/): collects information about open access policies,
-which you can use to help choose journals and/or identify ways to share your research after publication.
+The [Open access topic page](/open-science/publications/open_access)
+provides guidance on journal policies related to open accessibility of publications,
+as well as information on how to share your work more widely if your article is behind a paywall.
