@@ -4,47 +4,48 @@ category: protocols
 layout: default
 ---
 
-> **This section is currently under development!**
-> If you have questions or ideas for content to add,
-> please [file an issue](https://github.com/chanzuckerberg/open-science/issues).
-
-It is standard practice to include information about experimental methods 
-in published manuscripts.
-These descriptions, however,
-are often insufficient to reproduce experimental results.
-This section describes open science approaches to sharing protocols,
-including both written instructions for methods
-as well as physical resources (like reagents).
-
 - [Publishing methods with protocols.io](#publishing-methods-with-protocolsio)
 - [Sharing reagents and physical resources](#sharing-reagents-and-physical-resources)
 
+It is standard practice to include information about experimental methods 
+in published manuscripts.
+This section describes open science approaches to sharing protocols,
+including both written instructions for methods
+as well as physical resources (like reagents),
+that support the ability of other researchers to reproduce experimental results.
+
 ## Publishing methods with protocols.io
 
-While there are multiple ways to share details of experimental methods,
-one existing solution is [protocols.io](https://www.protocols.io/),
-a platform for developing and sharing reproducible methods.
-This platform is free for academic users to publish and share protocols publicly.
-
-Protocols can be organized into groups,
-such as the following:
-- [Human Cell Atlas Method Development Community](https://www.protocols.io/workspaces/hca/publications)
-- [Neurodegeneration Method Development Community](https://www.protocols.io/workspaces/neurodegeneration-method-development-community1/publications)
-
-Experimental protocols shared in [protocols.io](https://www.protocols.io/)
-can also include computational pipelines and analytical workflows
-(but see the [Software and code](/open-science/code/overview) section 
-for more information on resources for reproducibility of computational methods).
-Publishing computational methods in protocols.io is extremely powerful 
-when a new data generation system is being documented,
-as it unites the data collection and analysis approaches.
-An example of this approach is this protocol from the Human Cell Atlas Method Development Community:
-[MARS-seq2.0: an experimental and analytical pipeline for indexed sorting combined with single-cell RNA sequencing](https://www.protocols.io/view/mars-seq2-0-an-experimental-and-analytical-pipelin-7hkhj4w).
+The [protocols.io topic page](/open-science/protocols/protocolsio)
+highlights the use of the protocols.io](https://www.protocols.io/) 
+platform for sharing experimental results.
+In addition to publishing experimental methods in manuscripts,
+sharing detailed information about these methods via protocols.io
+increases visibility of your methods,
+facilitates onboarding of new lab members and collaborators to your projects,
+and improves the capacity of other researchers to reproduce your results.
 
 ## Sharing reagents and physical resources
+
+In addition to providing information about experimental methods,
+specific reagents, equipment, or other resources may be necessary to reproduce results.
+When viewed through the lens of open science,
+this means that such materials that may be reasonably requested by others 
+are available without restrictions upon publication of the work.
+For more information on accessibility of materials, please see 
+[this article from PLOS](https://theplosblog.plos.org/2019/05/depositing-and-reporting-of-reagents-accelerating-open-and-reproducible-science/).
 
 Examples of physical reagents and other resources that can be shared include:
 - cell lines
 - plasmids/vectors
 - animal models
 - antibodies
+- biomaterials and other specialized reagents used in laboratory experiments
+- diagrams and instructions for custom lab equipment and devices
+
+While there are some organizations providing general support for sharing such resources,
+like [Addgene](https://www.addgene.org/) for plasmids,
+there are many smaller groups,
+sometimes sponsored by research centers or focusing on specific fields of research,
+that also supply resources.
+
