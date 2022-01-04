@@ -4,24 +4,23 @@ category: publications
 layout: default
 ---
 
-> **This section is currently under development!**
-> If you have questions or ideas for content to add,
-> please [file an issue](https://github.com/chanzuckerberg/open-science/issues).
-
+**Topics in this section:**
 - [Preprints](#preprints)
 - [Open access to publications](#open-access-to-publications)
 
+Peer reviewed publications are a cornerstone of modern scientific research,
+providing the foundation on which other research is designed and conducted.
+This sections describes open science practices related to peer-reviewed publications,
+and provides solutions for ensuring the most rapid and accessible publication for such work possible.
+
 ## Preprints
 
-[ASAPbio](https://asapbio.org/): scientist-driven non-profit organization promoting transparency and innovation in life science communication
-
-[FAQs about preprints](https://asapbio.org/preprint-info/preprint-faq#general)
-
-[Public feedback on preprints](https://asapbio.org/public-preprint-feedback-faq)
+The [Preprints topic page](/open-science/publications/preprints)
+provides an overview of when and how preprints are published,
+and includes answers to frequently asked questions about the process.
 
 ## Open access to publications
 
-[NIH Public Access Policy](https://publicaccess.nih.gov/)
-
-[Sherpa Romeo](https://v2.sherpa.ac.uk/romeo/): collects information about open access policies,
-which you can use to help choose journals and/or identify ways to share your research after publication.
+The [Open access topic page](/open-science/publications/open_access)
+provides guidance on journal policies related to open accessibility of publications,
+as well as information on how to share your work more widely if your article is behind a paywall.

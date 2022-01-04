@@ -56,9 +56,10 @@ demographics that are under-represented and/or marginalized in science:
 These organizations represent support for individuals working to train and/or create cooperative communities of practice related to open science:
 
 - [Life Science Trainers](https://lifescitrainers.org/)
+- [ReproducibiliTea](https://reproducibilitea.org/)
 - [Center for Scientific Collaboration and Community Engagement (CSCCE)](https://www.cscce.org/)
 - [The Future of Research Communication and e-Scholarship (FORCE11)](https://www.force11.org/)
-- [ReproducibiliTea](https://reproducibilitea.org/)
+- [ASAPbio](https://asapbio.org/): a scientist-driven non-profit organization promoting transparency and innovation in life science communication
 
 ## Data management and sharing
 
