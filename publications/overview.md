@@ -4,6 +4,7 @@ category: publications
 layout: default
 ---
 
+**Topics in this section:**
 - [Preprints](#preprints)
 - [Open access to publications](#open-access-to-publications)
 
