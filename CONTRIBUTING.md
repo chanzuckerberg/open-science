@@ -6,6 +6,9 @@ layout: default
 > If you have general questions or feedback about this project
 > and do not want to create a GitHub account to interact with the project team,
 > please see our [support guidelines](/open-science/SUPPORT).
+> If you believe you have found a security issue,
+> please notify us (rather than submitting an issue)
+> by emailing <security@chanzuckerberg.com>.
 
 - [Issues](#issues)
 - [Pull requests](#pull-requests)
@@ -49,9 +52,9 @@ You can share these contributions in two main ways via GitHub:
 
 Additional guidance on these two methods of contributing are included below.
 
-> If you believe you have found a security issue,
-> please notify us (rather than submitting an issue)
-> by emailing <security@chanzuckerberg.com>.
+> We try to respond to issues and pull requests within two business days.
+> For more information about the decision-making process for what content is included in this site,
+> please see our [governance documentation](/open-science/GOVERNANCE).
 
 ## Issues
 
