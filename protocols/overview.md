@@ -17,7 +17,7 @@ that support the ability of other researchers to reproduce experimental results.
 ## Publishing methods with protocols.io
 
 The [protocols.io topic page](/open-science/protocols/protocolsio)
-highlights the use of the protocols.io](https://www.protocols.io/) 
+highlights the use of the [protocols.io](https://www.protocols.io/) 
 platform for sharing experimental results.
 In addition to publishing experimental methods in manuscripts,
 sharing detailed information about these methods via protocols.io
