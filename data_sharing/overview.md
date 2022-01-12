@@ -60,12 +60,13 @@ Good practices in data management and documentation are essential
 for efficient and timely data sharing,
 as well as improving workflows across the entire data life cycle.
 
-![The data life cycle](../../images/data-lifecycle.png)
+![The data life cycle](../images/data-lifecycle.png)
 
 The [DataONE Best Practices Primer](https://escholarship.org/uc/item/7tf5q7n3),
 from which the image above is derived,
 describes guidelines for managing data throughout the life cycle of a project.
 Additional resources related to overall data management include:
+
 - [Ten Simple Rules for Creating a Good Data Management Plan](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004525)
 - [Ten Simple Rules for the Care and Feeding of Scientific Data](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003542)
 - [Research Data Management](https://datamanagement.hms.harvard.edu/) from Harvard University
@@ -116,7 +117,7 @@ which is an extra file/document associated with data that describes important in
 The following resources provide general information about READMEs,
 as well as additional guidance on how to document data in different contexts:
 
--[Guide to writing "readme" style metadata](https://data.research.cornell.edu/content/readme) from Cornell University
+- [Guide to writing "readme" style metadata](https://data.research.cornell.edu/content/readme) from Cornell University
 - [Ten Simple Rules for Experiments’ Provenance](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004384)
 - [Ten simple rules on how to write a standard operating procedure](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008095)
 - [Ten simple rules for annotating sequencing experiments](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008260)
