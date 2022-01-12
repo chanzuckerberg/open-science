@@ -142,7 +142,7 @@ The table below highlights data repositories that have been recommended by biome
 
 | Repository | Data types |
 |----|----|
-| [cellxgene Data Portal](https://cellxgene.cziscience.com/) | Single cell |
+| [Cellxgene Data Portal](https://cellxgene.cziscience.com/) | Single cell projects funded by the CZI Single Cell Program, submissions handled by [Lattice](https://lattice-data.org/) |
 | [Cell Image Library](http://www.cellimagelibrary.org) | image (still, video, z-stack, time series) |
 | [Data Dryad](https://datadryad.org/stash) | any (also see [section below](#publishing-data-with-dryad)) |
 
@@ -162,3 +162,4 @@ including data ethics and privacy/security:
 - [Ten simple rules for responsible big data research](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005399)
 - [Ten Simple Rules to Enable Multi-site Collaborations through Data Sharing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005278)
 - [Ten Simple Rules for Developing Public Biological Databases](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005128)
+- [Ethics Toolkit from the Human Cell Atlas](https://www.humancellatlas.org/ethics/)
