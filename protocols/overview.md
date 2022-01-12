@@ -17,7 +17,7 @@ that support the ability of other researchers to reproduce experimental results.
 ## Publishing methods with protocols.io
 
 The [protocols.io topic page](/open-science/protocols/protocolsio)
-highlights the use of the protocols.io](https://www.protocols.io/) 
+highlights the use of the [protocols.io](https://www.protocols.io/) 
 platform for sharing experimental results.
 In addition to publishing experimental methods in manuscripts,
 sharing detailed information about these methods via protocols.io
@@ -43,9 +43,9 @@ Examples of physical reagents and other resources that can be shared include:
 - biomaterials and other specialized reagents used in laboratory experiments
 - diagrams and instructions for custom lab equipment and devices
 
-While there are some organizations providing general support for sharing such resources,
-like [Addgene](https://www.addgene.org/) for plasmids,
-there are many smaller groups,
-sometimes sponsored by research centers or focusing on specific fields of research,
-that also supply resources.
+Some examples of organizations supporting community reagent repositories include:
 
+- [Addgene](https://www.addgene.org/) for plasmids
+- [Jackson Labs](https://www.jax.org/) for mice/biospecimens
+- [Drosophila Stock Center at Bloomington](https://bdsc.indiana.edu/) for fruit fly stocks
+- [Developmental Studies Hybridoma Bank](https://dshb.biology.uiowa.edu/) for cell cultures and antibodies

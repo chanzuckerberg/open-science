@@ -130,7 +130,7 @@ If you are including an image file,
 please format it as `png` or `jpg` and place it in `images/`.
 Include a relative path to the image file where it should appear in the markdown file:
 
-`![Description of image](../../images/image.png)`
+`![Description of image](../images/image.png)`
 
 **Links** to other locations in the site should be prefaced with `/open-science/`
 and reference the location and filename of the markdown file containing the content.

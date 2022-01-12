@@ -51,7 +51,7 @@ and identifying features that help your published data have the biggest impact.
 An example of a typical Dryad entry is shown below
 (the original entry can be viewed [here](https://datadryad.org/stash/dataset/doi:10.5061/dryad.qp0t3)):
 
-![Example of a typical Dryad data entry](../../images/dryad_example.png)
+![Example of a typical Dryad data entry](../images/dryad_example.png)
 
 The information at the top of the page shows standard details that would be included in a citation of the data.
 This particular entry is associated with a journal publication,
@@ -82,7 +82,7 @@ the schema (or data dictionary) for [CORD-19 Software Mentions](https://datadrya
 defines each of the columns in the dataset,
 so viewers can quickly understand what is represented in the data files:
 
-![Example of a Dryad entry with schema listed in Usage Notes](../../images/dryad_methods.png)
+![Example of a Dryad entry with schema listed in Usage Notes](../images/dryad_methods.png)
 
 ### Data access
 
@@ -96,7 +96,7 @@ which allows you to access each file individually.
 This is especially useful if the [dataset](https://datadryad.org/stash/dataset/doi:10.5061/dryad.9kd51c5hk) contains many files,
 or files that are larger than average:
 
-![Example of files in a Dryad data entry](../../images/dryad_data_files.png)
+![Example of files in a Dryad data entry](../images/dryad_data_files.png)
 
 There are occassionally cases in which an author chooses to publish the data under an embargo: 
 information about the data entry is published and visible,
@@ -104,7 +104,7 @@ though the data files themselves cannot be viewed or downloaded until a specifie
 The image below was taken prior to the October 27, 2021 publication data for [this data entry](https://datadryad.org/stash/dataset/doi:10.6086/D1WQ1R),
 and demonstrates how an embargoed entry appears:
 
-![Example of an embargoed Dryad data entry](../../images/dryad_embargo.png)
+![Example of an embargoed Dryad data entry](../images/dryad_embargo.png)
 
 Additionally, a data entry can be submitted to Dryad under the ["Private for Peer Review"](https://datadryad.org/stash/faq#ppr) feature.
 This means the dataset is kept private (not published publicly),
@@ -126,7 +126,7 @@ The following [data entry](https://datadryad.org/stash/dataset/doi:10.5061/dryad
 - "Preprint" is a link to the posted preprint in bioRxiv
 - "Software" includes links to the project's software documentation website, as well as source code in GitHub
 
-![Example of preprint and software links](../../images/dryad_related_works.png)
+![Example of preprint and software links](../images/dryad_related_works.png)
 
 The final manuscript can be also listed as "Article" upon publication.
 
