@@ -144,6 +144,8 @@ The table below highlights data repositories that have been recommended by biome
 |----|----|
 | [Cellxgene Data Portal](https://cellxgene.cziscience.com/) | Single cell projects funded by the CZI Single Cell Program, submissions handled by [Lattice](https://lattice-data.org/) |
 | [Cell Image Library](http://www.cellimagelibrary.org) | image (still, video, z-stack, time series) |
+| [Brain Image Library](https://www.brainimagelibrary.org/) | image (brain) |
+| [Image Data Resource](https://idr.openmicroscopy.org/) | image (cell and tissue) |
 | [Data Dryad](https://datadryad.org/stash) | any (also see [section below](#publishing-data-with-dryad)) |
 
 ### Publishing data with Dryad
