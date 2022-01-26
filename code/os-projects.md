@@ -30,6 +30,7 @@ For example, the following resources are useful for thinking about open source d
 
 - [Producing Open Source Software](https://producingoss.com/)
 - [Open Source Archetypes](https://blog.mozilla.org/wp-content/uploads/2018/05/MZOTS_OS_Archetypes_report_ext_scr.pdf)
+- [Sustain in 2021](https://sustainoss.org/assets/pdf/Sustain-In-2021-Event-Report.pdf)
 
 However, this page is specifically focused on open source projects supporting biomedical research.
 Such software is referred to as scientific or research software,
