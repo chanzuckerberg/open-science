@@ -173,6 +173,7 @@ Resources for accessibility:
 
 - [Chartability](https://chartability.fizz.studio/)
 - [HTML and accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML)
+- [Jupyter Accessibility workshops](https://blog.jupyter.org/join-us-for-the-jupyter-accessibility-workshops-part-1-133e0e522d1b)
 
 ### Interoperability and shared infrastructure
 
