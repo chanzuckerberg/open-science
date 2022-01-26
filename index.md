@@ -3,10 +3,6 @@ title: Welcome!
 layout: default
 ---
 
-> **This resource is currently under development!**
-> If you have questions or suggested content/topics,
-> please [file an issue](https://github.com/chanzuckerberg/open-science/issues).
-
 Open science involves sharing research methods and results throughout the life cycle of a project.
 The goal of this website is to collect and disseminate information to enable open science practices,
 specifically for members of the the biomedical research community.

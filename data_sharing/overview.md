@@ -166,3 +166,4 @@ including data ethics and privacy/security:
 - [Ten Simple Rules to Enable Multi-site Collaborations through Data Sharing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005278)
 - [Ten Simple Rules for Developing Public Biological Databases](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005128)
 - [Ethics Toolkit from the Human Cell Atlas](https://www.humancellatlas.org/ethics/)
+- [The CARE Principles for Indigenous Data Governance](https://datascience.codata.org/articles/10.5334/dsj-2020-043/)
