@@ -144,12 +144,16 @@ representing a wide variety of demographics among many different axes of variati
 equitable, meaning everyone has the opportunity to participate,
 and inclusive, in that everyone feels welcome to participate.
 While this assumption is implicit for all sections of this informational website,
-the following topics explicitly discuss resources related to inclusive software and community development:
+the following sections in other parts of this site explicitly discuss resources related to inclusive software and community development:
 
 - [Code of Conduct](#code-of-conduct)
 - [Tracking project metrics](#tracking-project-metrics)
 - [Accessibility](/open-science/code/code-development#user-interfaces)
 - [Organizations involved in DEI](/open-science/resources/organizations)
+
+The following resources discuss specific efforts on the part of open source projects to address such issues:
+
+- [Addressing Diversity, Equity, and Inclusion in 2021 and Beyond](https://www.linuxfoundation.org/blog/addressing-diversity-equity-and-inclusion-in-2021-and-beyond/) from the Linux Foundation
 
 ### Code of conduct
 
