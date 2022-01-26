@@ -11,9 +11,10 @@ Open science involves sharing research methods and results throughout the life c
 The goal of this website is to collect and disseminate information to enable open science practices,
 specifically for members of the the biomedical research community.
 All reference materials included here are freely available.
-Additional resources and services may be available to labs and projects who receive funding from CZI;
-please see [our CZI grantees page](/open-science/czi-grantees)
-for more information.
+
+> Additional resources and services may be available to labs and projects who receive funding from CZI;
+> please see [our CZI grantees page](/open-science/czi-grantees)
+> for more information.
 
 Each of the main sections of this site are framed with 
 examples of the general questions we handle when applying open science approaches.

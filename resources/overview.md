@@ -17,6 +17,10 @@ including both scientists and non-scientists,
 and may be useful for communicating the importance of open science approaches
 to colleagues, collaborators, or the general public.
 
+> If you are working on CZI-funded research,
+> please see our [CZI grantees page](/open-science/czi-grantees)
+> for more information on services available to you.
+ 
 ## What is open science?
 
 Open science can be practiced in many different ways.
