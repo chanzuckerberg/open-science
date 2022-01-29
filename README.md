@@ -17,12 +17,10 @@ please [visit their website](https://www.contributor-covenant.org/).
 
 ## Project status and governance
 
-This project was started in summer 2021 by the [Open Science Program](https://chanzuckerberg.com/science/programs-resources/open-science/)
+This project was created and is currently led by the [Open Science Program](https://chanzuckerberg.com/science/programs-resources/open-science/)
 at [Chan Zuckerberg Initiative (CZI)](https://chanzuckerberg.com/).
-The main structure and outline of content was completed in January 2022;
-more incremental updates are continuously added.
-
-The current [open issues](https://github.com/chanzuckerberg/open-science/issues)
+The website is currently actively maintained;
+[open issues](https://github.com/chanzuckerberg/open-science/issues)
 track upcoming tasks to be completed.
 For more information on how decisions are made regarding this project,
 please see our [Governance documentation](GOVERNANCE.md).
