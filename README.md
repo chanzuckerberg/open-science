@@ -23,7 +23,7 @@ The website is currently actively maintained;
 [open issues](https://github.com/chanzuckerberg/open-science/issues)
 track upcoming tasks to be completed.
 For more information on how decisions are made regarding this project,
-please see our [Governance documentation](GOVERNANCE.md).
+please see our [Governance documentation](https://chanzuckerberg.github.io/open-science/GOVERNANCE).
 
 ## Contributing to this project
 

@@ -4,39 +4,45 @@ layout: default
 ---
 
 **Topics on this page:**
-- [History and initial development](#history-and-initial-development)
-- [Roles and responsibilities](#roles-and-responsibilities)
-- [Record keeping and decision-making](#record-keeping-and-decision-making)
+- [Project history](#project-history)
+- [Project goals](#project-goals)
+- [Ongoing project development and maintenance](#ongoing-project-development-and-maintenance)
 
-## History and initial development
+## Project history
 
-This project was created by the [Open Science Program](https://chanzuckerberg.com/science/programs-resources/open-science/)
+This project was started in summer 2021 by the [Open Science Program](https://chanzuckerberg.com/science/programs-resources/open-science/)
 at [Chan Zuckerberg Initiative (CZI)](https://chanzuckerberg.com/).
+As part of their role as Open Science Specialist with the Open Science team,
+Kate Hertweck ([@k8hertweck](https://github.com/k8hertweck)) 
+outlined the main structure and formatting of the site,
+with a first pass of basic content completed in January 2022.
 
-This project is currently led by Open Science Specialist [Kate Hertweck](https://katehertweck.com),
-who is responsible for the following tasks:
+Additional CZI teams who were consulted during the website planning and remain stakeholders in the content include:
+- **Communications:** regulate branding guidelines (colors, font, etc), approve mentions of CZI for accuracy and clarity, provide access to Plausible for web analytics
+- **Legal:** oversight regarding privacy issues (related to web analytics and community feedback)
+- **Science Technology:** maintain requirements for open source projects (license, language for reporting security issues, presence of a README and Code of Conduct), as well as recommendations for additional best practices in respository maintenance and to encourage community contributions
+
+## Project goals
+
+1. Create curated lists of public resources associated with open science methods applicable to biomedical research
+2. Share resources with researchers associated with CZI grant programs
+3. Model best practices in open source and open science we CZI Science Programs expect grantees to use 
+
+## Ongoing project development and maintenance
+
+Topics and resources have been included on this website for one or more of the following reasons:
+- a resource is well-established as representing best practices in an open-science related practice
+- a CZI grantee identified the resource as useful in the context of their work
+- the resource meets a need identified by a CZI grantee while in consultation with the Open Science team
+
+The CZI Open Science team maintains the site and curates the resources presented here as a 
+[benevolent dictatorship](https://communityrule.info/create/?r=benevolent_dictator),
+and retains the ability to update or modify the content as research practices and grantee needs change.
 
 Please see our [GitHub repository](https://github.com/chanzuckerberg/open-science)
 for more information about the development of the resources presented here.
-
-and is currently led by Kate Hertweck ([@k8hertweck](https://github.com/k8hertweck)),
-a member of the [Open Science team](https://chanzuckerberg.com/science/programs-resources/open-science) 
-team, .
-
-## Roles and responsibilities
-
-
-
-## Record keeping and decision-making
-
-Please take a look at our current [open issues](https://github.com/chanzuckerberg/open-science/issues)
-and milestones (https://github.com/chanzuckerberg/open-science/milestones)
-to see where we are currently dedicating our energy.
-
-Decisions about what content is included and how it is organized are made 
-at the discretion of the CZI Open Science,
-with input from other CZI staff and grantees. 
-
-Communications: Branding guidelines (colors, font, etc), mentions of CZI for accuracy and clarity, access to Plausible for analytics
-Legal: privacy issues related to analytics and feedback from the community
-CZI Technology: open source requirements (license, security, README, Code of Conduct), as well as recommendations for additional best practices in respository maintenance and to encourage community contributions. 
+Current [open issues](https://github.com/chanzuckerberg/open-science/issues)
+identify additional content suggested and/or planned for development.
+We welcome contributions;
+please see our [Contribution guidelines](https://chanzuckerberg.github.io/open-science/CONTRIBUTING)
+for more information on suggesting content or reporting corrections.
