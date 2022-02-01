@@ -10,6 +10,8 @@ assignees: ''
 Thank you for submitting an issue!
 Please review our [Contribution guidelines](https://chanzuckerberg.github.io/open-science/CONTRIBUTING)
 to ensure you are following the processes and norms we've set up for this project.
+We try to respond to submissions within two business days;
+you are welcome to add a comment after that time if you are expecting a response.
 
 You are welcome to delete this introductory text prior to submitting your issue.
 

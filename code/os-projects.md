@@ -92,12 +92,13 @@ The following resources provide a general overview of themes within governance a
 that members of the scientific open source community recommend for background information
 and to highlight the importance of governance:
 
-- [Sociocracy](https://www.sociocracyforall.org/sociocracy/)
-- [CommunityRule](https://communityrule.info/)
-- [The Tyranny of Structurelessness](https://www.jofreeman.com/joreen/tyranny.htm)
+- [The Tyranny of Structurelessness](https://www.jofreeman.com/joreen/tyranny.htm), an article that describes the challenges associated with organizations that lack formal governance
+- [Exploring community governance models](https://www.cscce.org/2021/11/19/novembers-community-call-recap-exploring-community-governance-models/), a blog post describing discussion from a community call for CSCCE
+- [Sociocracy](https://www.sociocracyforall.org/sociocracy/), an in-depth description of a governance system well-suited to self-governing organizations based on a value of equality
 
 These resources are useful for developing and applying models of governance for your own project:
 
+- [CommunityRule](https://communityrule.info/), a governance toolkit for a wide variety of community organizations
 - [A guide to open source project governance models](https://www.redhat.com/en/resources/guide-to-open-source-project-governance-models-overview) from RedHat
 - [Leadership and Governance](https://opensource.guide/leadership-and-governance/) from Open Source Guides
 - [GitHub's Minimum Viable Governance](https://github.com/github/MVG)

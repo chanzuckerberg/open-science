@@ -3,19 +3,21 @@ title: About this project
 layout: default
 ---
 
-This project aims to collect and share resources that biomedical researchers can use in applying open science approaches.
-It was created and is currently run by the 
-[Open Science Program](https://chanzuckerberg.com/science/programs-resources/open-science/)
-at [Chan Zuckerberg Initiative (CZI)](https://chanzuckerberg.com/).
-This project is led by Open Science Specialist [Kate Hertweck](https://katehertweck.com).
-Please see our [GitHub repository](https://github.com/chanzuckerberg/open-science)
-for more information about the development of the resources presented here.
-
+**Topics on this page:**
 - [Code of Conduct](#code-of-conduct)
 - [Questions or feedback about this website?](#questions-or-feedback-about-this-website)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 - [Privacy](#privacy)
+
+This project aims to collect and share resources that biomedical researchers can use in applying open science approaches.
+It was created and is currently run by the 
+[Open Science Program](https://chanzuckerberg.com/science/programs-resources/open-science/)
+at [Chan Zuckerberg Initiative (CZI)](https://chanzuckerberg.com/).
+For more information on the project's currently development,
+please see its [GitHub repository](https://github.com/chanzuckerberg/open-science).
+For more information on how decisions are made and by whom,
+please see our [Governance documentation](GOVERNANCE.md).
 
 ## Code of Conduct
 
