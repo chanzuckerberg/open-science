@@ -30,6 +30,9 @@ Additional CZI teams who were consulted during the website planning and remain s
 
 ## Ongoing project development and maintenance
 
+> For more information on alternative governance models and developing documentation related to project governance,
+> please see the [Governance section of the Collaborative research software engineering projects page](/open-science/code/os-projects#governance).
+
 Topics and resources have been included on this website for one or more of the following reasons:
 - a resource is well-established as representing best practices in an open-science related practice
 - a CZI grantee identified the resource as useful in the context of their work
