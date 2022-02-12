@@ -160,11 +160,15 @@ we recommend [this article](https://mademistakes.com/mastering-jekyll/site-url-b
 **Videos** can be linked as per the instructions above,
 or can be embedded on a page following general instructions [here](https://github.com/nathancy/jekyll-embed-video).
 The example file [`wistiaPlayer.html`](https://github.com/chanzuckerberg/open-science/blob/main/_includes/wistiaPlayer.html)
-can be used to demonstrate the approach.
+includes example code.
 On the page where the video should appear,
 place a single line of code: `include wistiaPlayer.html`.
 This code should be formatted in Liquid syntax as a [tag](https://shopify.github.io/liquid/basics/introduction/#tags)
 with curly brace percentage delimiters.
+Alternatively,
+the embed code can be entered directly on a content page,
+as demonstrated on the [Publishing data with Dryad](/open-science/data_sharing/data_dryad)
+topic page.
 
 #### Submitting a PR for website content
 

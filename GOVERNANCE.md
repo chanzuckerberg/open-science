@@ -49,3 +49,6 @@ identify additional content suggested and/or planned for development.
 We welcome contributions;
 please see our [Contribution guidelines](https://chanzuckerberg.github.io/open-science/CONTRIBUTING)
 for more information on suggesting content or reporting corrections.
+
+Content on this site includes videos from the [CZI Open Science Wistia channel](https://fast.wistia.com/embed/channel/g4orlbms5g).
+These materials are shared with the permission of the presenter and any participants who are referenced in the recording.
