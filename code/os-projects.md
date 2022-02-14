@@ -138,6 +138,14 @@ including ways to consider cultivating a community:
 - [Community starter kit](https://lab.github.com/githubtraining/community-starter-kit) from GitHub
 - [The Labor of Maintaining and Scaling Free and Open-Source Software Projects](https://stuartgeiger.com/articles/2021-02-28-maintaining-scaling-foss-cscw2021/)
 
+<div class="wistia_responsive_padding" style="padding:54.58% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><iframe src="https://fast.wistia.net/embed/iframe/vtu1ib5ypk?seo=false&videoFoam=true" title="Workshop 1_KH_ALL Video" allow="autoplay; fullscreen" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" msallowfullscreen width="100%" height="100%"></iframe></div></div>
+<script src="https://fast.wistia.net/assets/external/E-v1.js" async></script>
+
+> This 1.5 hour video was recorded during a workshop at the CZI Open Science 2021 Annual Meeting,
+> and explores building community for open source projects.
+> It is also available [on our channel](https://fast.wistia.com/embed/channel/g4orlbms5g?wchannelid=g4orlbms5g&wmediaid=vtu1ib5ypk),
+> with the slides available [here](https://docs.google.com/presentation/d/1kiewWhpjutX0iYYkDli2DN_LdfrWtzbi5TUFyAqJMPM/edit?usp=sharing).
+
 ### Diverse, equitable, and inclusive communities
 
 An assumption for all resources presented here is that the communities are diverse,

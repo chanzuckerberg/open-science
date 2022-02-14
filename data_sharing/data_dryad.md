@@ -7,7 +7,11 @@ layout: default
 [Dryad](https://datadryad.org/stash) is a digital repository for research data.
 The information below describes additional context useful for preparing and submitting biomedical data.
 
-> A 30 minute video with an overview of material on this page is available [on our channel](https://fast.wistia.com/embed/channel/g4orlbms5g),
+<div class="wistia_responsive_padding" style="padding:52.29% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><iframe src="https://fast.wistia.net/embed/iframe/lvtwjcc6z8?seo=false&videoFoam=true" title="Dryad_webinar_Nov2021 Video" allow="autoplay; fullscreen" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" msallowfullscreen width="100%" height="100%"></iframe></div></div>
+<script src="https://fast.wistia.net/assets/external/E-v1.js" async></script>
+
+> This 30 minute video includes an overview of material on this page,
+> and is also available [on our channel](https://fast.wistia.com/embed/channel/g4orlbms5g?wchannelid=g4orlbms5g&wmediaid=lvtwjcc6z8),
 > with the slides available [here](https://docs.google.com/presentation/d/1_uJGBoibC0kNxspiDuQpJAv4l-_XH2vzvk-5R_NFs9A/edit?usp=sharing).
 
 ## Who publishes data in Dryad?
