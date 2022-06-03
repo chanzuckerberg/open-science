@@ -15,6 +15,9 @@ including obligations to engage in open science practices
 as well as resources available to support these efforts.
 
 The following pages consolidate information for grantees in specific programs:
+- [Essential Open Source Software for Science (EOSS)](/open-science/eoss-grantees)
+- [Rare as One (RAO)](/open-science/rao-grantees)
+
 ## What to expect as a grantee
 
 ### Communicating with CZI as a grantee
