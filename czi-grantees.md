@@ -14,6 +14,7 @@ This page describes what grantees can expect while conducting CZI-supported rese
 including obligations to engage in open science practices
 as well as resources available to support these efforts.
 
+The following pages consolidate information for grantees in specific programs:
 ## What to expect as a grantee
 
 ### Communicating with CZI as a grantee
@@ -48,7 +49,7 @@ Please check your grant agreement for information customized to your grant progr
 - **Protocols and reagents** are shared to support reproducibility and robustness of laboratory procedures. Share experimental methods through [protocols.io](https://www.protocols.io/), and (where possible) associate them with a relevant CZI community, like the [Human Cell Atlas](https://www.protocols.io/workspaces/hca/publications) or [Neurodegeneration](https://www.protocols.io/workspaces/neurodegeneration-method-development-community1/publications) Method Development Community. Submit reagents and other resources, such as transgenic organisms, cell lines, and monoclonal antibodies, to existing community repositories like [Addgene](https://www.addgene.org/).
 - **Software and code** are publicly available to allow other researchers to reproduce and build upon existing methods. Develop code openly and collaboratively through sites like [GitHub](https://github.com/), and release under maximally permissive open-source licenses.
 - **Data** are shared to support data aggregation and reuse. Publish data using a platform like [Data Dryad](https://datadryad.org/) or the [Cellxgene Data Portal](https://cellxgene.cziscience.com/) that allows both open, free dissemination and long-term, sustainable archival as best suits the nature of the data involved. When applicable, share both raw and processed data, always document with metadata substantive enough to maximize data reusability and format data according to best practices or commonly accepted schema.
-- **Publications** are disseminated as widely and rapidly as possible. Submit manuscripts to a preprint server like bioRxiv or medRxiv before or upon first submission to a journal. Open access publication is encouraged, and grant funds can be used to pay for open access fees.
+- **Publications** are disseminated as widely and rapidly as possible. Submit manuscripts to a preprint server like [bioRxiv](https://www.biorxiv.org/) or [medRxiv](https://www.medrxiv.org/) before or upon first submission to a journal. Open access publication is encouraged, and grant funds can be used to pay for open access fees.
 
 You are welcome to contact [openscience@chanzuckerberg.com](openscience@chanzuckerberg.com) for more information on these and other open science topics!
 
