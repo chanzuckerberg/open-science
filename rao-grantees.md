@@ -23,3 +23,10 @@ that support open science practices among biomedical researchers:
 
 ## Frequently asked questions
 
+This section helps answer common FAQs from patient advocacy groups 
+and organizations engaging in patient-driven research.
+Questions and answers are currently under development;
+please see our [Support page](/open-science/SUPPORT)
+to share requests for information with us.
+
+- **What is open science, and why does it matter?** Check out our [Resources](/open-science/resources/overview) section for general resources relate to open science activities and terminology.
