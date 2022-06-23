@@ -6,6 +6,9 @@ layout: default
 This page describes training opportunities and resources hosted by the Open Science team
 to support the Essential Open Source Software for Science (EOSS) grantee community.
 
+We are also happy to meet with our EOSS grantees for project updates!
+Please contact a team member to schedule a time.
+
 ## Pages of interest
 
 While this site is intended to share a broad variety of information about
