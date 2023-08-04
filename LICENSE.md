@@ -398,3 +398,31 @@ the avoidance of doubt, this paragraph does not form part of the
 public licenses.
 
 Creative Commons may be contacted at creativecommons.org.
+
+=======================================================================
+
+This website is built using Minimal Mistakes Jekyll Theme.
+
+Minimal Mistakes incorporates icons from The Noun Project creators Garrett Knoll, Arthur Shlain, and tracy tam. Icons are distributed under Creative Commons Attribution 3.0 United States (CC BY 3.0 US).
+
+Minimal Mistakes incorporates Font Awesome, Copyright (c) 2017 Dave Gandy. Font Awesome is distributed under the terms of the SIL OFL 1.1 and MIT License.
+
+Minimal Mistakes incorporates photographs from Unsplash.
+
+Minimal Mistakes incorporates Susy, Copyright (c) 2017, Miriam Eric Suzanne. Susy is distributed under the terms of the BSD 3-clause "New" or "Revised" License.
+
+Minimal Mistakes incorporates Breakpoint. Breakpoint is distributed under the terms of the MIT/GPL Licenses.
+
+Minimal Mistakes incorporates FitVids.js, Copyright (c) 2013 Dave Rubert and Chris Coyier. FitVids is distributed under the terms of the WTFPL License.
+
+Minimal Mistakes incorporates Magnific Popup, Copyright (c) 2014-2016 Dmitry Semenov, http://dimsemenov.com. Magnific Popup is distributed under the terms of the MIT License.
+
+Minimal Mistakes incorporates jQuery Smooth Scroll, Copyright (c) 2017 Karl Swedberg. jQuery Smooth Scroll is distributed under the terms of the MIT License.
+
+Minimal Mistakes incorporates GreedyNav.js, Copyright (c) 2015 Luke Jackson. GreedyNav.js is distributed under the terms of the MIT License.
+
+Minimal Mistakes incorporates Jekyll Group-By-Array, Copyright (c) 2015 Max White mushishi78@gmail.com. Jekyll Group-By-Array is distributed under the terms of the MIT License.
+
+Minimal Mistakes incorporates @allejo's Pure Liquid Jekyll Table of Contents, Copyright (c) 2017 Vladimir Jimenez. Pure Liquid Jekyll Table of Contents is distributed under the terms of the MIT License.
+
+Minimal Mistakes incorporates Lunr, Copyright (c) 2017 Oliver Nightingale. Lunr is distributed under the terms of the MIT License.
