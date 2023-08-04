@@ -114,7 +114,7 @@ These files include:
 - `about`: basic descriptions modified from README and links to the files below
 - `CODE_OF_CONDUCT`: standard language required by CZI
 - `CONTRIBUTING`: this file
-- `LICENSE`: standard MIT license
+- `LICENSE`: plain text file of CC-BY license
 - `SECURITY`: standard language required by CZI
 - `SUPPORT`: basic content recommended by CZI
 

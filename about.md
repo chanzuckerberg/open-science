@@ -35,7 +35,10 @@ please review our [Contribution guidelines](/open-science/CONTRIBUTING).
 
 ## License
 
-This website and all its contents are made available under the [MIT License](/open-science/LICENSE).
+This website and all its contents are made available under the [CC-BY 4.0 License](/open-science/LICENSE), 
+courtesty of [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
+This content was released under the MIT License until August 4,
+when it was updated to align with CZI's new licensing policies.
 
 ## Acknowledgements
 
