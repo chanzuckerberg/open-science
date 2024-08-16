@@ -4,7 +4,7 @@ layout: default
 ---
 
 This page describes training opportunities and resources hosted by the Open Science team
-to support the Essential Open Source Software for Science (EOSS) grantee community.
+to support the [Essential Open Source Software for Science (EOSS)](https://chanzuckerberg.com/eoss/) grantee community.
 
 We are also happy to meet with our EOSS grantees for project updates!
 Please contact a team member to schedule a time.
@@ -30,3 +30,14 @@ This section includes information about recommended materials and training oppor
 - **Scientific Community Engagement Fundamentals:** The [Center for Scientific Collaboration and Community Engagement (CSCCE)](https://www.cscce.org/) hosted custom cohorts of [Scientific Community Engagement Fundamentals](https://www.cscce.org/trainings/cef/) for EOSS (and other open science) grantees in H2 2022 and H2 2023. Additional workshops in late 2022 covered additional topics in open source community management.
 
 - **Application Design for Web and Desktop:** [Nielsen Norman Group](https://www.nngroup.com/) taught their [Application Design for Web and Desktop](https://www.nngroup.com/courses/application-ux/) class in December 2022 to support EOSS grantees interested in improving user experiences. 
+
+## Add the EOSS badge to your profile
+
+If your software project has been [funded by EOSS](https://chanzuckerberg.com/eoss/proposals/),
+consider adding the EOSS badge to your project page:
+
+![CZI's Essential Open Source Software for Science](https://chanzuckerberg.github.io/open-science/badges/CZI-EOSS.svg)
+
+Code snippet:
+
+`![CZI's Essential Open Source Software for Science](https://chanzuckerberg.github.io/open-science/badges/CZI-EOSS.svg)`

@@ -5,6 +5,14 @@
 This repository houses the code and content for [this website](https://chanzuckerberg.github.io/open-science/)
 of resources.
 
+Are you a CZI EOSS grantee and want the EOSS badge? 
+![CZI's Essential Open Source Software for Science](https://chanzuckerberg.github.io/open-science/badges/CZI-EOSS.svg)
+
+Code snippet:
+
+`![CZI's Essential Open Source Software for Science](https://chanzuckerberg.github.io/open-science/badges/CZI-EOSS.svg)`
+
+
 ## Code of Conduct
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-baaaa.svg)](CODE_OF_CONDUCT.md)
