@@ -34,14 +34,14 @@ This section includes information about recommended materials and training oppor
 ## Add the EOSS badge to your profile
 
 If your software project has been [funded by EOSS](https://chanzuckerberg.com/eoss/proposals/),
-consider adding the EOSS badge to your project page:
+we recommend adding the EOSS badge to your project page:
 
-![CZI's Essential Open Source Software for Science](https://chanzuckerberg.github.io/open-science/badges/CZI-EOSS.svg)
+[![CZI's Essential Open Source Software for Science](https://chanzuckerberg.github.io/open-science/badges/CZI-EOSS.svg)](https://czi.co/EOSS)
 
 **Code snippet:**
 
-`![CZI's Essential Open Source Software for Science](https://chanzuckerberg.github.io/open-science/badges/CZI-EOSS.svg)`
+`[![CZI's Essential Open Source Software for Science](https://chanzuckerberg.github.io/open-science/badges/CZI-EOSS.svg)](https://czi.co/EOSS)`
 
 **Recommended language:**
 
-This software project was supported in part by the [Essential Open Source Software for Science (EOSS)](https://chanzuckerberg.com/eoss/) program at [Chan Zuckerberg Initiative](https://chanzuckerberg.com/).
+This software project was supported in part by the [Essential Open Source Software for Science (EOSS)](https://czi.co/EOSS) program at [Chan Zuckerberg Initiative](https://chanzuckerberg.com/).

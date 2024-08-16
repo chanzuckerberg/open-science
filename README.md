@@ -5,12 +5,13 @@
 This repository houses the code and content for [this website](https://chanzuckerberg.github.io/open-science/)
 of resources.
 
-Are you a CZI EOSS grantee and want the EOSS badge? 
-![CZI's Essential Open Source Software for Science](https://chanzuckerberg.github.io/open-science/badges/CZI-EOSS.svg)
+Are you an EOSS grantee? We recommend adding this badge to your EOSS-supported project repository:
+
+[![CZI's Essential Open Source Software for Science](https://chanzuckerberg.github.io/open-science/badges/CZI-EOSS.svg)](https://czi.co/EOSS)
 
 **Code snippet:**
 
-`![CZI's Essential Open Source Software for Science](https://chanzuckerberg.github.io/open-science/badges/CZI-EOSS.svg)`
+`[![CZI's Essential Open Source Software for Science](https://chanzuckerberg.github.io/open-science/badges/CZI-EOSS.svg)](https://czi.co/EOSS)`
 
 **Recommended language:**
 
