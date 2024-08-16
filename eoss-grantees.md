@@ -38,6 +38,10 @@ consider adding the EOSS badge to your project page:
 
 ![CZI's Essential Open Source Software for Science](https://chanzuckerberg.github.io/open-science/badges/CZI-EOSS.svg)
 
-Code snippet:
+**Code snippet:**
 
 `![CZI's Essential Open Source Software for Science](https://chanzuckerberg.github.io/open-science/badges/CZI-EOSS.svg)`
+
+**Recommended language:**
+
+This software project was supported in part by the [Essential Open Source Software for Science (EOSS)](https://chanzuckerberg.com/eoss/) program at [Chan Zuckerberg Initiative](https://chanzuckerberg.com/).
