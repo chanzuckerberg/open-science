@@ -94,13 +94,12 @@ CZI grantees are eligible to waive the fee for publishing data through Dryad by 
 Learn more on the [Publishing data with Dryad](/open-science/data_sharing/data_dryad)
 topic page.
 
-**Movement and Capacity Building:** CZI's [Movement and Capacity Building](https://chanzuckerberg.com/movement-capacity-building/) 
-team offers training sessions for grantees from across our initiatives
-in areas related to organizational and professional development: 
+**Capacity Building and grantee support:** CZ Science has a Training and Capacity Building Program with opportunities tailored to the interests of grantees across CZI Science Programs,
+including workshops on grant writing, leadership in science, applying for faculty positions, and more.
+Learn more on the [CZ Science Training and Capacity Building website](https://info.chanzuckerberg.com/mcb-science-resources).
 
-- strategic planning
-- communication
-- workplace culture
-
+CZI also offers [Capacity Building Opportunities](https://chanzuckerberg.com/movement-capacity-building/) 
+for grantees from across our initiatives (including Education and Community).
+Topics include general support in organizational and professional development,
+such as strategic planning, communication, and workplace culture.
 Learn more on their [Training Sessions page](https://chanzuckerberg.com/movement-capacity-building/training-sessions/).
-  
