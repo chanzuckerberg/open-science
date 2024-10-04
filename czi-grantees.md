@@ -58,13 +58,6 @@ You are welcome to contact [openscience@chanzuckerberg.com](openscience@chanzuck
 
 ### Other expectations
 
-**Acknowledge CZI** as a source of funding in all research deliverables using the following language: “This project has been made possible in part by grant number «GrantNumber» from the Chan Zuckerberg Initiative DAF, an advised fund of Silicon Valley Community Foundation.”
-
-If you would like to acknowledge CZI in presentations or other visual media as a part of your funded work, 
-the approved logo for grantee usage is shown below, and you can also download directly from [here](https://github.com/chanzuckerberg/open-science/blob/main/images/CZI_Logo.jpg):
-
-![CZI logo for grantee use](images/CZI_Logo.jpg)
-
 **Ethics:** CZI holds ourselves and our scientific partners to the highest ethical standards.
 Our [ethics policies](https://chanzuckerberg.com/ethics-policies/) 
 cover all business practices in which CZI engages, 
@@ -74,6 +67,13 @@ These policies also extend to cover specific issues related to scientific resear
 responsible use of grant funding, attribution of credit, and other areas of scientific (mis)conduct. 
 Finally, we require compliance with institutional and national standards for non-human animal research and human subjects research, 
 including supporting data privacy and security to meet national and international standards. 
+
+**Acknowledge CZI** as a source of funding in all research deliverables using the following language: “This project has been made possible in part by grant number «GrantNumber» from the Chan Zuckerberg Initiative DAF, an advised fund of Silicon Valley Community Foundation.”
+
+If you would like to acknowledge CZI in presentations or other visual media as a part of your funded work, 
+the approved logo for grantee usage is shown below, and you can also download directly from [here](https://github.com/chanzuckerberg/open-science/blob/main/images/CZI_Logo.jpg):
+
+![CZI logo for grantee use](images/CZI_Logo.jpg)
 
 ## Services available to CZI grantees
 
