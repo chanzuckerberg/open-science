@@ -83,7 +83,7 @@ Services specifically related to open science that are open to CZI-supported pro
 Staff are available to assist CZI grantees in adopting or implementing open science practices, 
 including sharing of all research deliverables: 
 protocols, software/code, data, and preprints/publications. 
-Please [schedule a time](https://calendly.com/khertweck) 
+Please [schedule a time](https://scheduler.zoom.us/kate-hertweck) 
 to meet with a member of the CZI Open Science team to discuss your topics of interest. 
 Examples of questions other grantees have asked in office hours include:
 
