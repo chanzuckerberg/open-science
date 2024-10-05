@@ -71,7 +71,9 @@ including supporting data privacy and security to meet national and internationa
 **Acknowledge CZI** as a source of funding in all research deliverables using the following language: “This project has been made possible in part by grant number «GrantNumber» from the Chan Zuckerberg Initiative DAF, an advised fund of Silicon Valley Community Foundation.”
 
 If you would like to acknowledge CZI in presentations or other visual media as a part of your funded work, 
-the approved logo for grantee usage is shown below, and you can also download directly from [here](https://github.com/chanzuckerberg/open-science/blob/main/images/CZI_Logo.jpg):
+the approved logo for grantee usage is shown below. 
+You can access the image directly [here](https://chanzuckerberg.github.io/open-science/images/CZI_Logo.jpg)
+or download from GitHub [here](https://github.com/chanzuckerberg/open-science/blob/main/images/CZI_Logo.jpg):
 
 ![CZI logo for grantee use](images/CZI_Logo.jpg)
 
