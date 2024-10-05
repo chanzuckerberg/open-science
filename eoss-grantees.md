@@ -31,7 +31,7 @@ This section includes information about recommended materials and training oppor
 
 - **Application Design for Web and Desktop:** [Nielsen Norman Group](https://www.nngroup.com/) taught their [Application Design for Web and Desktop](https://www.nngroup.com/courses/application-ux/) class in December 2022 to support EOSS grantees interested in improving user experiences. 
 
-## Acknowledging CZI as a funder for your software project
+## Acknowledging CZI
 
 If your software project has been [funded by EOSS](https://chanzuckerberg.com/eoss/proposals/),
 we have a few options for acknowledging CZI on your GitHub page or software website using a logo or badge.
