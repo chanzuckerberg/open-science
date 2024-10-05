@@ -58,8 +58,6 @@ You are welcome to contact [openscience@chanzuckerberg.com](openscience@chanzuck
 
 ### Other expectations
 
-**Acknowledge CZI** as a source of funding in all research deliverables using the following language: “This project has been made possible in part by grant number «GrantNumber» from the Chan Zuckerberg Initiative DAF, an advised fund of Silicon Valley Community Foundation.”
-
 **Ethics:** CZI holds ourselves and our scientific partners to the highest ethical standards.
 Our [ethics policies](https://chanzuckerberg.com/ethics-policies/) 
 cover all business practices in which CZI engages, 
@@ -70,6 +68,15 @@ responsible use of grant funding, attribution of credit, and other areas of scie
 Finally, we require compliance with institutional and national standards for non-human animal research and human subjects research, 
 including supporting data privacy and security to meet national and international standards. 
 
+**Acknowledge CZI** as a source of funding in all research deliverables using the following language: “This project has been made possible in part by grant number «GrantNumber» from the Chan Zuckerberg Initiative DAF, an advised fund of Silicon Valley Community Foundation.”
+
+If you would like to acknowledge CZI in presentations or other visual media as a part of your funded work, 
+the approved logo for grantee usage is shown below. 
+You can access the image directly [here](https://chanzuckerberg.github.io/open-science/images/CZI_Logo.jpg)
+or download from GitHub [here](https://github.com/chanzuckerberg/open-science/blob/main/images/CZI_Logo.jpg):
+
+![CZI logo for grantee use](images/CZI_Logo.jpg)
+
 ## Services available to CZI grantees
 
 Services specifically related to open science that are open to CZI-supported projects include:
@@ -78,7 +85,7 @@ Services specifically related to open science that are open to CZI-supported pro
 Staff are available to assist CZI grantees in adopting or implementing open science practices, 
 including sharing of all research deliverables: 
 protocols, software/code, data, and preprints/publications. 
-Please [schedule a time](https://calendly.com/khertweck) 
+Please [schedule a time](https://scheduler.zoom.us/kate-hertweck) 
 to meet with a member of the CZI Open Science team to discuss your topics of interest. 
 Examples of questions other grantees have asked in office hours include:
 
@@ -94,13 +101,12 @@ CZI grantees are eligible to waive the fee for publishing data through Dryad by 
 Learn more on the [Publishing data with Dryad](/open-science/data_sharing/data_dryad)
 topic page.
 
-**Movement and Capacity Building:** CZI's [Movement and Capacity Building](https://chanzuckerberg.com/movement-capacity-building/) 
-team offers training sessions for grantees from across our initiatives
-in areas related to organizational and professional development: 
+**Capacity Building and grantee support:** CZ Science has a Training and Capacity Building Program with opportunities tailored to the interests of grantees across CZI Science Programs,
+including workshops on grant writing, leadership in science, applying for faculty positions, and more.
+Learn more on the [CZ Science Training and Capacity Building website](https://info.chanzuckerberg.com/mcb-science-resources).
 
-- strategic planning
-- communication
-- workplace culture
-
+CZI also offers [Capacity Building Opportunities](https://chanzuckerberg.com/movement-capacity-building/) 
+for grantees from across our initiatives (including Education and Community).
+Topics include general support in organizational and professional development,
+such as strategic planning, communication, and workplace culture.
 Learn more on their [Training Sessions page](https://chanzuckerberg.com/movement-capacity-building/training-sessions/).
-  
