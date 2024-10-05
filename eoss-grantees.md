@@ -40,7 +40,7 @@ Alternatively, see below for options for an EOSS badge.
 
 **Recommended langage**
 
-You may choose to use the following recommended langauge in place of or in addition to an image/badge:
+You may choose to use the following recommended language in place of or in addition to an image/badge:
 
 This software project was supported in part by the [Essential Open Source Software for Science (EOSS)](https://czi.co/EOSS) program at [Chan Zuckerberg Initiative](https://chanzuckerberg.com/).
 
