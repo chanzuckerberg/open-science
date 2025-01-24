@@ -5,6 +5,11 @@ layout: default
 
 This page describes community calls sponsored by CZI Open Science to engage our grantee community. 
 
+Some examples of summaries of previous calls include:
+- [Managing an Open Source Project: A checklist of things to consider](https://eoss-om-communitycalls.github.io/2024-07-29-managing-an-oss-project/) 
+- [10 Simple Rules for Leadership Without Formal Authority](https://eoss-om-communitycalls.github.io/2024-08-27-10-simple-rules-for-leadership/)
+- [Measuring and Assessing Open Source Project Impact and Community Health](https://eoss-om-communitycalls.github.io/2024-09-26-measuring-open-source-project-impact/)
+
 # Who?
 
 These calls are intended to help connect current and former members of the CZI Open Science grantee community.
