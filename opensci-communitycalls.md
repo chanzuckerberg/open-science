@@ -25,7 +25,7 @@ Calls come in two types:
 1. **Topic-based calls**, which invite participants to share ideas, experiences, challenges, and successes related to a common area of interest. Call hosts collaborate with attendees to create a shared resource; you can view the summaries of previous calls [here](https://github.com/eoss-om-communitycalls#hi-there--welcome-to-the-eoss-community-call-landing-page).
 2. **Collider calls**, in which attendees visit with other participants in multiple small breakout rooms during the course of the call. These are excellent opportunities to find unexpected connections with other community members and expand your personal and professional network.
 
-## When?
+# When?
 
 In 2024, we held one topic-based call per month from July through December.
 In 2025, there will be at least one call a month, switching between topic-based and collider formats.
