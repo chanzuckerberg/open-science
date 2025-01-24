@@ -94,6 +94,8 @@ Examples of questions other grantees have asked in office hours include:
   - I help lead a scientific open source software project. How can I develop the community surrounding my project, and manage it sustainably?
   - I run a patient advocacy group for a rare disease. How can I communicate and enforce expectations about data sharing and other open science practices among my collaborators and grantees?
 
+**Open Science Community Calls**: Want to connect with and learn from other grantees, especially those working in open science? Learn more about [calls](/open-science/opensci-communitycalls) sponsored by the CZI Open Science team. All are welcome! 
+
 **Data publishing**: Not sure where or how to publish or share your data with the rest of the scientific community? 
 [Data Dryad](https://datadryad.org/stash) is a repository for sharing research data of any structure and type. 
 As CZI is a Dryad member, 

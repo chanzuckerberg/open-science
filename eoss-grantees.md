@@ -16,6 +16,7 @@ open science practices with biomedical researchers,
 the following sections are of particular importance to our EOSS community:
 
 - [**CZI grantees page**](/open-science/czi-grantees): general expectations and resources available to our supported projects.
+- [**CZI Open Science Community Calls**](/open-science/opensci-communitycalls): information about opportunities to connect with and learn from other grantees, though calls are open to all!
 - [**Collaborative research software engineering projects**](https://chanzuckerberg.github.io/open-science/code/os-projects): resources relevant to creation of open source software for science, including topics in project management and community development
 
 ## EOSS Training
