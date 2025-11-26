@@ -22,7 +22,7 @@ Additional CZI teams who were consulted during the website planning and remain s
 - **Legal:** oversight regarding privacy issues (related to web analytics and community feedback)
 - **Science Technology:** maintain requirements for open source projects (license, language for reporting security issues, presence of a README and Code of Conduct), as well as recommendations for additional best practices in respository maintenance and to encourage community contributions
 
-This project is currently maintained by Kate Hertweck as a part of Biohub's Open Science Program Office (OSPO).
+This project is currently maintained by Kate Hertweck as a part of [Biohub](https://biohub.org/)'s Open Science Program Office (OSPO).
 While the content of this website still includes much general-purpose information about open science,
 it is intended primarily as a tool to support Biohub researchers.
 
@@ -51,7 +51,7 @@ for more information about the development of the resources presented here.
 Current [open issues](https://github.com/chanzuckerberg/open-science/issues)
 identify additional content suggested and/or planned for development.
 We welcome contributions;
-please see our [Contribution guidelines](https://chanzuckerberg.github.io/open-science/CONTRIBUTING)
+please see our [Contribution guidelines](/open-science/CONTRIBUTING)
 for more information on suggesting content or reporting corrections.
 
 Content on this site includes videos from the [CZI Open Science Wistia channel](https://fast.wistia.com/embed/channel/g4orlbms5g).

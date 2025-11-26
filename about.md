@@ -17,7 +17,7 @@ at [Chan Zuckerberg Initiative (CZI)](https://chanzuckerberg.com/), and is curre
 For information on the project's current development,
 please see its [GitHub repository](https://github.com/chanzuckerberg/open-science).
 For more information on how decisions are made and by whom,
-please see our [Governance documentation](GOVERNANCE.md).
+please see our [Governance documentation](/open-science/GOVERNANCE).
 
 ## Code of Conduct
 
