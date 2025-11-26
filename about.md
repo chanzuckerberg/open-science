@@ -11,10 +11,10 @@ layout: default
 - [Privacy](#privacy)
 
 This project aims to collect and share resources that biomedical researchers can use in applying open science approaches.
-It was created and is currently run by the 
-[Open Science Program](https://chanzuckerberg.com/science/programs-resources/open-science/)
-at [Chan Zuckerberg Initiative (CZI)](https://chanzuckerberg.com/).
-For more information on the project's currently development,
+It was created by the 
+[Open Science Program](https://web.archive.org/web/20250910210313/https://chanzuckerberg.com/science/programs-resources/open-science/)
+at [Chan Zuckerberg Initiative (CZI)](https://chanzuckerberg.com/), and is currently run by the Open Science Program Office at [Biohub](https://biohub.org/).
+For information on the project's current development,
 please see its [GitHub repository](https://github.com/chanzuckerberg/open-science).
 For more information on how decisions are made and by whom,
 please see our [Governance documentation](GOVERNANCE.md).
