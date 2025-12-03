@@ -178,7 +178,7 @@ includes standard processes for enforcing CoCs.
 
 Additional examples of CoCs include:
 
-- [CZI Community Participation Guidelines](https://chanzuckerberg.com/ethics-policies/community-participation-guidelines/)
+- [Biohub's Community Participation Guidelines](https://chanzuckerberg.com/ethics-policies/community-participation-guidelines/)
 - [R-Ladies Global Code of Conduct](https://rladies.org/code-of-conduct/)
 - [The Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
 

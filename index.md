@@ -4,21 +4,26 @@ layout: default
 ---
 
 Open science involves sharing research methods and results throughout the life cycle of a project.
-The goal of this website is to collect and disseminate information to enable open science practices,
-specifically for members of the the biomedical research community.
+The goal of this website is to collect and disseminate information to enable open science practices.
+The audience is primarily members of the Biohub research community,
+with resources selected to meet their needs in particular,
+although other members of the biomedical research community may also find the resources useful.
 All reference materials included here are freely available.
 
-> Additional resources and services may be available to labs and projects who receive funding from CZI;
-> please see [our CZI grantees page](/open-science/czi-grantees)
-> for more information.
+> All CZI Science activities became a part of Biohub in November 2025. 
+> Although some pages in this website may still reference CZI,
+> we are gradually updating this language to Biohub.
 
 Each of the main sections of this site are framed with 
 examples of the general questions we handle when applying open science approaches.
 If you are looking for general information about open science,
 we recommend viewing the [Resources section](#resources) first.
 
-> **Can't find what you're looking for?
-> Check out our [Search page](/open-science/search).**
+> Additional services may be available to labs and projects who are currently funded by Biohub;
+> please see [our Biohub grantees page](/open-science/czi-grantees)
+> for more information.
+> Any current or former CZI work, including grant-funded projects, 
+> are now a part of Biohub as well. 
 
 <div class="wistia_responsive_padding" style="padding:42.71% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><iframe src="https://fast.wistia.net/embed/iframe/1odk5xy00y?seo=false&videoFoam=true" title="GMT20220211-000219_Recording_1678x718 Video" allow="autoplay; fullscreen" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" msallowfullscreen width="100%" height="100%"></iframe></div></div>
 <script src="https://fast.wistia.net/assets/external/E-v1.js" async></script>
@@ -55,3 +60,6 @@ we recommend viewing the [Resources section](#resources) first.
 - [Credit for open science](/open-science/resources/overview#credit-for-open-science): How do I promote open science activities for myself and colleagues?
 - [Choosing open science approaches](/open-science/resources/overview#choosing-open-science-approaches): How do I select open science approaches for my particular project?
 - [Organizations and projects supporting open science](/open-science/resources/overview#organizations-and-projects-supporting-open-science): What organizations provide training or advocacy for open science? How can I connect my open science activities with efforts in diversity, equity, and inclusion?
+
+> **Can't find what you're looking for?
+> Check out our [Search page](/open-science/search).**

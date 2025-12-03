@@ -44,7 +44,6 @@ The benefits for sharing research papers include:
 
 > Other funders and stakeholders may have expectations about availability of published research.
 > See [Choosing open science approaches](/open-science/resources/choosing) for more information.
-> Additionally, CZI supports grantees in applying grant funds to pay open access fees from journals.
 
 ## What journals allow open access publication?
 

@@ -27,8 +27,8 @@ Even if these groups do not have *requirements*
 for open science approaches,
 they may support or provide access to resources that can make your open science endeavors easier to enact.
 
-> If you are part of a project receiving funding from CZI,
-> please see [our CZI grantees page](/open-science/czi-grantees)
+> If you are part of a project receiving funding from Biohub (CZI),
+> please see [our Biohub grantees page](/open-science/czi-grantees)
 > for more information about expectations for open science methods
 > as well as resources available to you.
 

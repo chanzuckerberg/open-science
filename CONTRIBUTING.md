@@ -112,11 +112,11 @@ These files include:
 
 - `index`: front page of website
 - `about`: basic descriptions modified from README and links to the files below
-- `CODE_OF_CONDUCT`: standard language required by CZI
+- `CODE_OF_CONDUCT`: standard language required by Biohub
 - `CONTRIBUTING`: this file
 - `LICENSE`: plain text file of CC-BY license
-- `SECURITY`: standard language required by CZI
-- `SUPPORT`: basic content recommended by CZI
+- `SECURITY`: standard language required by Biohub
+- `SUPPORT`: basic content recommended by Biohub
 
 The `README` is not rendered in the website,
 and is used only for viewing on GitHub.
