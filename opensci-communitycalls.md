@@ -3,22 +3,29 @@ title: CZI Open Science Community Calls
 layout: default
 ---
 
-This page describes community calls sponsored by CZI Open Science to engage our grantee community. 
+This page describes community calls sponsored by CZI Open Science to engage our grantee community. This program ran through the second half of 2024 and all of 2025 and is now over. The resources that were created are summarized below. 
 
-Some examples of summaries of previous calls include:
-- [Managing an Open Source Project: A checklist of things to consider](https://eoss-om-communitycalls.github.io/2024-07-29-managing-an-oss-project/) 
+The summaries of our previous calls include:
+- [Managing an Open Source Project: A checklist of things to consider](https://eoss-om-communitycalls.github.io/2024-07-29-managing-an-oss-project/)
 - [10 Simple Rules for Leadership Without Formal Authority](https://eoss-om-communitycalls.github.io/2024-08-27-10-simple-rules-for-leadership/)
-- [Measuring and Assessing Open Source Project Impact and Community Health](https://eoss-om-communitycalls.github.io/2024-09-26-measuring-open-source-project-impact/)
-- [Curated List of Awesome Resources for Sustaining Open Source Projects](https://github.com/eoss-om-communitycalls/awesome-os-sustainability/blob/main/README.md)
-- [Implementing Software Peer Review: Tips and Examples](https://eoss-om-communitycalls.github.io/2025-01-29-software-peer-review/)
+- [Measuring and Assessing Open Source Project Impact and Community Health ](https://eoss-om-communitycalls.github.io/2024-09-26-measuring-open-source-project-impact/)
+- [Sustainability & Financial Models](https://github.com/eoss-om-communitycalls/awesome-os-sustainability)
+- [Implementing Software Peer Review: Tips and Examples ](https://eoss-om-communitycalls.github.io/2025-01-29-software-peer-review/)
+- [Developing a Security Mindset for your Open Source Project](https://eoss-om-communitycalls.github.io/2025-05-22-security-mindsets-worksheet/) 
+- [Strategic Thinking Starter Kit for Open Source Projects](https://eoss-om-communitycalls.github.io/2025-03-27-strategy-and-strategic-planning-OSS/)
+- [Open Source Dependency Management and Supply Chains](https://eoss-om-communitycalls.github.io/2025-11-20-dependency-management/)
+- [Scaling Strategies for Open Source Scientific Projects](https://eoss-om-communitycalls.github.io/2025-09-19-scaling-strategies/)
+- [Sustainability Resources for Open Source projects](https://github.com/eoss-om-communitycalls/awesome-os-sustainability)
+- [Governance Signals and Strategies for Open Source Scientific Projects](https://github.com/eoss-om-communitycalls/2025-07-24-governance-oss)
+
 
 # Who?
 
-These calls are intended to help connect current and former members of the CZI Open Science grantee community.
+These calls were intended to help connect current and former members of the CZI Open Science grantee community.
 Given that a large percentage of our grantee community is funded via our Essential Open Source Software for Science (EOSS) program,
 the call topics reflect areas of interest to scientific open source software projects.
 In addition EOSS project PIs and key personnel,
-we invite other Open Science grantees to attend.
+we invited other Open Science grantees to attend.
 Grantees from other CZ Science grant programs,
 as well as the BioHub network and members of the broader open science community are also welcome to register for the calls.
 
@@ -35,7 +42,6 @@ Calls come in two types:
 # When?
 
 In 2024, we held one topic-based call per month from July through December.
-In 2025, there will be at least one call a month, switching between topic-based and collider formats.
+In 2025, there were six topical calls and six collider calls.
 
-To learn about upcoming calls, subscribe to the [CZI Open Science newsletter](https://info.chanzuckerberg.com/open-science-newsletter)
-or watch for announcements in the CZI Science Community Slack.
+This program is complete, but the resources are open source, with a CC0 license, so feel free to use them, incorporate them in your content and materials, and contribute back to them. 
