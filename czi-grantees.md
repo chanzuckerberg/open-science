@@ -69,8 +69,8 @@ responsible use of grant funding, attribution of credit, and other areas of scie
 Finally, we require compliance with institutional and national standards for non-human animal research and human subjects research, 
 including supporting data privacy and security to meet national and international standards. 
 
-TODO
-**Acknowledge CZI** as a source of funding in all research deliverables using the following language: “This project has been made possible in part by grant number «GrantNumber» from the Chan Zuckerberg Initiative DAF, an advised fund of Silicon Valley Community Foundation.”
+**Acknowledge CZI (Biohub)** as a source of funding in all research deliverables using the following language 
+(accurate for grants received in 2025 and earlier): “This project has been made possible in part by grant number «GrantNumber» from the Chan Zuckerberg Initiative DAF, an advised fund of Silicon Valley Community Foundation.”
 
 If you would like to acknowledge CZI in presentations or other visual media as a part of your funded work, 
 the approved logo for grantee usage is shown below. 
@@ -98,12 +98,11 @@ Examples of questions other grantees have asked in office hours include:
 
 **Open Science Community Calls**: The Open Science Program sponsored [community calls](/open-science/opensci-communitycalls) in 2024 and 2025 to share knowledge among the grantee community.
 Visit [this GitHub organization](https://github.com/eoss-om-communitycalls) to see outputs from those calls.
-
-TODO 
+ 
 **Data publishing**: Not sure where or how to publish or share your data with the rest of the scientific community? 
 [Data Dryad](https://datadryad.org/stash) is a repository for sharing research data of any structure and type. 
 Biohub is a Dryad member, 
-so grantees are eligible to waive the fee for publishing data through Dryad by selecting Biohub (CZI) as a funding source when submitting data.
+so grantees are eligible to waive the fee for publishing data through Dryad by selecting CZI as a funding source when submitting data.
 Learn more on the [Publishing data with Dryad](/open-science/data_sharing/data_dryad)
 topic page.
 

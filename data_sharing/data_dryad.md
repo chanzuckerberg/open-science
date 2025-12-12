@@ -26,9 +26,9 @@ The information below describes additional context useful for preparing and subm
 Please view the [complete list of Institutional and Publisher Members](https://datadryad.org/stash/our_membership)
 for more information.
 
-TODO
-> If you are a Biohub (CZI) grantee and are not affiliated with a Dryad member organization,
+> If you are a CZI (Biohub) grantee and are not affiliated with a Dryad member organization,
 > you can still publish data entries related to your grant work through Dryad at no cost through the CZI (Biohub) membership.
+> See our [grantees page](/open-science/czi-grantees) for more information.
 
 ## Benefits of publishing data in Dryad
 
