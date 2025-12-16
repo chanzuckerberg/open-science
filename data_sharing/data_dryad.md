@@ -66,9 +66,8 @@ the authors are identical to the published article
 (though as noted above, this is not a requirement).
 Additional information about the data publication is summarized under the **Citation** subheading.
 
-TODO
 > The final section at the bottom of a Dryad data entry is **Funding** for the project.
-> If you are a CZI grantee, please remember to acknowledge CZI as a funder,
+> If you are a CZI/Biohub grantee, please remember to acknowledge CZI as a funder,
 > as this is important information for us to collect from among Dryad entries!
 
 ### Abstract, methods, and data usage

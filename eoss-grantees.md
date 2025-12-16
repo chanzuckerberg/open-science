@@ -1,5 +1,5 @@
 ---
-title: Biohub EOSS grantees
+title: EOSS grantees
 layout: default
 ---
 
@@ -16,7 +16,7 @@ open science practices with biomedical researchers,
 the following sections are of particular importance to our EOSS community:
 
 - [**Biohub grantees**](/open-science/czi-grantees): general expectations and resources available to our supported projects.
-- [**Open Science Community Calls**](/open-science/opensci-communitycalls): notes from calls in 2024 and 2025 that share knowledge among the community
+- [**Open Science Community Calls**](/open-science/opensci-communitycalls): notes from calls in 2024 and 2025 that shared knowledge among the community
 - [**Collaborative research software engineering projects**](/open-science/code/os-projects): resources relevant to creation of open source software for science, including topics in project management and community development
 
 ## EOSS Training
@@ -32,13 +32,17 @@ This section includes information about recommended materials and training oppor
 
 - **Application Design for Web and Desktop:** [Nielsen Norman Group](https://www.nngroup.com/) taught their [Application Design for Web and Desktop](https://www.nngroup.com/courses/application-ux/) class in December 2022 to support EOSS grantees interested in improving user experiences. 
 
-TODO
 ## Acknowledging CZI
 
 If your software project has been [funded by EOSS](https://chanzuckerberg.com/eoss/proposals/),
 we have a few options for acknowledging CZI on your GitHub page or software website using a logo or badge.
 You can find the standard logo approved for use by grantees in presentations [here](/open-science/czi-grantees#other-expectations).
 Alternatively, see below for options for an EOSS badge.
+
+> Since all EOSS grantees were funded under CZI,
+> we will not be updating the badges below to match the color or style of Biohub branding.
+> For information on the Biohub logo and usage,
+> see our [general grantees page](/open-science/czi-grantees).
 
 **Recommended langage**
 
