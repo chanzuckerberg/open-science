@@ -17,7 +17,7 @@ Kate Hertweck ([@k8hertweck](https://github.com/k8hertweck))
 outlined the main structure and formatting of the site,
 with a first pass of basic content completed in January 2022.
 
-This project is currently maintained by Kate Hertweck as a part of [Biohub](https://biohub.org/)'s Open Science Program Office (OSPO).
+This project is currently maintained by Kate Hertweck as a part of [Biohub](https://biohub.org/)'s [Open Science Program Office (OSPO)](/open-science/GOVERNANCE).
 While the content of this website still includes much general-purpose information about open science,
 it is intended primarily as a tool to support Biohub researchers.
 
