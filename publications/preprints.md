@@ -17,11 +17,10 @@ for members of the biomedical research community.
 
 A preprint is a scientific manuscript that is published prior to peer review,
 generally in a preprint server (a repository that specifically accepts articles prior to publication).
-Preprints for biomedical research are most often published in the preprint servers 
-[bioRxiv](https://www.biorxiv.org/) or
-[medRxiv](https://www.medrxiv.org/).
+Preprints for biomedical research are most often published in the preprint server 
+[openRxiv](https://openrxiv.org/) (formerly bioRxiv and medRxiv).
 
-Here are examples of preprints from a few different CZI-supported projects: 
+Here are examples of preprints from a few different Biohub-supported projects: 
 - [Using genomic epidemiology of SARS-CoV-2 to support contact tracing and public health surveillance in rural Humboldt County, California](https://www.medrxiv.org/content/10.1101/2021.09.21.21258385v1)
 - [CellTag Indexing: genetic barcode-based sample multiplexing for single-cell genomics](https://www.biorxiv.org/content/10.1101/335547v2)
 - [Super-resolution vibrational imaging using expansion stimulated Raman scattering microscopy](https://www.biorxiv.org/content/10.1101/2021.12.22.473713v1.full)

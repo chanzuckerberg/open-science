@@ -26,12 +26,13 @@ The information below describes additional context useful for preparing and subm
 Please view the [complete list of Institutional and Publisher Members](https://datadryad.org/stash/our_membership)
 for more information.
 
-> If you are a CZI grantee and are not affiliated with a Dryad member organization,
-> you can still publish data entries through Dryad at no cost through the CZI membership.
+> If you are a CZI (Biohub) grantee and are not affiliated with a Dryad member organization,
+> you can still publish data entries related to your grant work through Dryad at no cost through the CZI (Biohub) membership.
+> See our [grantees page](/open-science/czi-grantees) for more information.
 
 ## Benefits of publishing data in Dryad
 
-- **FAIR data:** Dryad supports sharing data according to [Findable, Accessible, Interoperable, and Reusable (FAIR)](https://www.force11.org/group/fairgroup/fairprinciples) principles, which is an expectation of many publishers and funders (including CZI). Learn more about good data practices on [Dryad's website](https://datadryad.org/stash/best_practices).
+- **FAIR data:** Dryad supports sharing data according to [Findable, Accessible, Interoperable, and Reusable (FAIR)](https://www.force11.org/group/fairgroup/fairprinciples) principles, which is an expectation of many publishers and funders (including Biohub). Learn more about good data practices on [Dryad's website](https://datadryad.org/stash/best_practices).
 - **Flexible data types:** Most data file types can be published through Dryad. Information about the data (metadata) is encouraged at a depth sufficient for future data reuse.
 - **DOIs:** Data published through Dryad receives a DOI. A DOI, or Digital Object Identifier, is a unique set of letters and numbers assigned to an item online, such as journal articles, datasets, and software. DOIs allowed the usage of such research deliverables to be tracked over time, helping you understand the impact of your work.
 - **Data authorship:** While most data entries in Dryad will have the same authorship as the associated publication, this is not required. Authorship for data entries (and the associated citation) can be independent of the publication, allowing space to include authors that may have only been involved in data collection, or allowing a different order of authorship than the publication, allowing specific credit to be given for data generation and/or curation.
@@ -66,7 +67,7 @@ the authors are identical to the published article
 Additional information about the data publication is summarized under the **Citation** subheading.
 
 > The final section at the bottom of a Dryad data entry is **Funding** for the project.
-> If you are a CZI grantee, please remember to acknowledge CZI as a funder,
+> If you are a CZI/Biohub grantee, please remember to acknowledge CZI as a funder,
 > as this is important information for us to collect from among Dryad entries!
 
 ### Abstract, methods, and data usage

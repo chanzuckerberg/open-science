@@ -1,9 +1,13 @@
 ---
-title: CZI Open Science Community Calls
+title: Open Science Community Calls
 layout: default
 ---
 
-This page describes community calls sponsored by CZI Open Science to engage our grantee community. This program ran through the second half of 2024 and all of 2025 and is now over. The resources that were created are summarized below. 
+This page describes community calls sponsored by CZI Open Science to engage our grantee community. 
+This program ran through the second half of 2024 and all of 2025 and is now over. 
+For a complete list of notes from the calls,
+please visit [this GitHub organization](https://github.com/eoss-om-communitycalls)
+or review the list below. 
 
 The summaries of our previous calls include:
 - [Managing an Open Source Project: A checklist of things to consider](https://eoss-om-communitycalls.github.io/2024-07-29-managing-an-oss-project/)
@@ -21,21 +25,21 @@ The summaries of our previous calls include:
 
 # Who?
 
-These calls were intended to help connect current and former members of the CZI Open Science grantee community.
-Given that a large percentage of our grantee community is funded via our Essential Open Source Software for Science (EOSS) program,
+These calls were intended to help connect current and former members of the Open Science grantee community.
+Given that a large percentage of our grantee community was funded via our Essential Open Source Software for Science (EOSS) program,
 the call topics reflect areas of interest to scientific open source software projects.
 In addition EOSS project PIs and key personnel,
 we invited other Open Science grantees to attend.
-Grantees from other CZ Science grant programs,
-as well as the BioHub network and members of the broader open science community are also welcome to register for the calls.
+Other Biohub researchers
+and the broader open science community were also welcome to attend the calls.
 
 # What?
 
-Our community calls are a partnership with [Organizational Mycology](https://orgmycology.com/),
-who identifies relevant topics, schedules call times,
-and hosts the events.
+Our community calls were a partnership with [Organizational Mycology](https://orgmycology.com/),
+who identified relevant topics, scheduled call times,
+and hosted the events.
 
-Calls come in two types:
+Calls came in two types:
 1. **Topic-based calls**, which invite participants to share ideas, experiences, challenges, and successes related to a common area of interest. Call hosts collaborate with attendees to create a shared resource; you can view the summaries of previous calls [here](https://github.com/eoss-om-communitycalls#hi-there--welcome-to-the-eoss-community-call-landing-page).
 2. **Collider calls**, in which attendees visit with other participants in multiple small breakout rooms during the course of the call. These are excellent opportunities to find unexpected connections with other community members and expand your personal and professional network.
 
@@ -44,4 +48,5 @@ Calls come in two types:
 In 2024, we held one topic-based call per month from July through December.
 In 2025, there were six topical calls and six collider calls.
 
-This program is complete, but the resources are open source, with a CC0 license, so feel free to use them, incorporate them in your content and materials, and contribute back to them. 
+This program is complete, but the resources are open source, with a CC0 license, 
+so feel free to use them, incorporate them in your content and materials, and contribute back to them. 
